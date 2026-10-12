@@ -22,7 +22,7 @@ self.addEventListener("fetch", (e) => {
   if (fresh) {
     e.respondWith(
       // no-cache: always ask the server, so a stale browser copy is never shown.
-      fetch(e.request, { cache: "no-cache" })
+      fetch(e.request.url, { cache: "no-cache" })
         .then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); return res; })
         .catch(() => caches.match(e.request))
     );
