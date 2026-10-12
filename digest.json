@@ -1,13 +1,20 @@
 {
   "title": "The Krishna Brief",
   "reader": "Krishna",
-  "generated": "2026-10-12T11:02:57+00:00",
+  "generated": "2026-10-12T11:04:12+00:00",
   "sections": [
     {
       "id": "geopolitics",
       "name": "Geopolitics",
       "blurb": "Power, conflict and diplomacy around the world",
       "items": [
+        {
+          "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+          "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+          "summary": "The EU also announced that it officially added almost 1,600 new sanctions on Russia's military industrial complex.",
+          "date": "2026-10-12T10:35:51+00:00",
+          "source": "Al Jazeera – Breaking News, World News…"
+        },
         {
           "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
           "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
@@ -84,13 +91,6 @@
           "summary": "Smith moves to 223 career catches, a record for fielders, as Australia bowl out South Africa for 284 in reply to 390.",
           "date": "2026-10-12T08:17:50+00:00",
           "source": "Al Jazeera – Breaking News, World News…"
-        },
-        {
-          "title": "India opposition plans New Delhi protest to demand election chief resign",
-          "link": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
-          "summary": "Thousands of security personnel have been deployed before a protest rally calling for the election chief's removal.",
-          "date": "2026-10-12T08:00:16+00:00",
-          "source": "Al Jazeera – Breaking News, World News…"
         }
       ]
     },
@@ -105,6 +105,13 @@
           "summary": "Retail inflation rises to 5.54% in Sep as food inflation zooms to 7.74%",
           "date": "2026-10-12T10:47:50+00:00",
           "source": "Economy"
+        },
+        {
+          "title": "Tax notice for getting salary in NRE bank a/c",
+          "link": "https://economictimes.indiatimes.com/wealth/legal/will/salary-from-south-korean-employer-credited-to-nre-account-triggers-income-tax-notice-itat-bangalore-gives-employee-relief/articleshow/134889439.cms",
+          "summary": "",
+          "date": "2026-10-12T10:29:05+00:00",
+          "source": "Economic Times"
         },
         {
           "title": "Germany warns of a shadow war beyond the Cold War",
@@ -172,13 +179,6 @@
         {
           "title": "Less-than-2-lane NH stretches shrink to 8%",
           "link": "https://economictimes.indiatimes.com/industry/transportation/roadways/less-than-8-of-indias-national-highways-are-now-narrower-than-two-lanes-high-speed-corridors-grow-12-times-as-government-plans-51000-km-of-faster-roads/articleshow/134886986.cms",
-          "summary": "",
-          "date": "2026-10-12T08:39:34+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Jantar Mantar out: Check Delhi’s 3 new protest sites",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/jantar-mantar-no-longer-a-protest-site-where-are-three-new-sites-ramlila-maidan-burari-and-cbd-ground-located-in-delhi/articleshow/134887193.cms",
           "summary": "",
           "date": "2026-10-12T08:39:34+00:00",
           "source": "Economic Times"
