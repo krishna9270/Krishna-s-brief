@@ -17,6 +17,18 @@ from urllib.parse import urlparse
 
 HERE = Path(__file__).parent
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
+
+# Friendly publisher names; feed titles are often long ("X – Breaking News, World News…").
+SOURCES = {
+    "aljazeera.com": "Al Jazeera", "npr.org": "NPR", "thediplomat.com": "The Diplomat",
+    "foreignpolicy.com": "Foreign Policy", "business-standard.com": "Business Standard",
+    "indiatimes.com": "Economic Times", "thehindu.com": "The Hindu", "dtnext.in": "DT Next",
+    "techcrunch.com": "TechCrunch", "hnrss.org": "Hacker News", "sciencedaily.com": "ScienceDaily",
+    "newscientist.com": "New Scientist", "space.com": "Space.com", "nasa.gov": "NASA",
+    "espncricinfo.com": "ESPNcricinfo", "livemint.com": "Mint", "theguardian.com": "The Guardian",
+    "grist.org": "Grist", "atlasobscura.com": "Atlas Obscura",
+}
 UA = "Mozilla/5.0 (personal newsletter digest)"
 
 
@@ -42,9 +54,30 @@ def parse_date(value):
 
 
 def source_name(feed_url, channel_title):
-    if channel_title:
-        return clean(channel_title, 40)
-    return urlparse(feed_url).netloc.replace("www.", "")
+    host = urlparse(feed_url).netloc.replace("www.", "")
+    for domain, name in SOURCES.items():
+        if host == domain or host.endswith("." + domain):
+            return name
+    return clean(channel_title, 30) if channel_title else host
+
+
+def image_of(el, raw_html=""):
+    for tag in (f"{MEDIA}content", f"{MEDIA}thumbnail"):
+        for m in el.iter(tag):
+            url = m.get("url", "")
+            if url.startswith("http") and m.get("medium", "image") == "image":
+                return url
+    enc = el.find("enclosure")
+    if enc is not None and enc.get("type", "").startswith("image"):
+        return enc.get("url")
+    match = re.search(r'<img[^>]+src="(https?://[^"]+)"', raw_html or "")
+    return match.group(1) if match else None
+
+
+def tidy_summary(summary, title):
+    if not summary or summary.lower().startswith(("article url:", "comments")) or summary.rstrip("…") in title:
+        return ""
+    return summary
 
 
 def fetch(url):
@@ -60,10 +93,12 @@ def parse_feed(url):
     if channel is not None:  # RSS 2.0
         source = source_name(url, channel.findtext("title"))
         for it in channel.findall("item"):
+            title = clean(it.findtext("title"), 200)
             items.append({
-                "title": clean(it.findtext("title"), 200),
+                "title": title,
                 "link": (it.findtext("link") or "").strip(),
-                "summary": clean(it.findtext("description")),
+                "summary": tidy_summary(clean(it.findtext("description")), title),
+                "image": image_of(it, it.findtext("description")),
                 "date": parse_date(it.findtext("pubDate")),
                 "source": source,
             })
@@ -71,10 +106,13 @@ def parse_feed(url):
         source = source_name(url, root.findtext(f"{ATOM}title"))
         for it in root.findall(f"{ATOM}entry"):
             link = it.find(f"{ATOM}link")
+            title = clean(it.findtext(f"{ATOM}title"), 200)
+            raw = it.findtext(f"{ATOM}summary") or it.findtext(f"{ATOM}content")
             items.append({
-                "title": clean(it.findtext(f"{ATOM}title"), 200),
+                "title": title,
                 "link": link.get("href") if link is not None else "",
-                "summary": clean(it.findtext(f"{ATOM}summary") or it.findtext(f"{ATOM}content")),
+                "summary": tidy_summary(clean(raw), title),
+                "image": image_of(it, raw),
                 "date": parse_date(it.findtext(f"{ATOM}updated") or it.findtext(f"{ATOM}published")),
                 "source": source,
             })
