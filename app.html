@@ -188,7 +188,7 @@ footer { padding-block: 0 40px; }
   const FIRST_ISSUE = Date.UTC(2026, 9, 12);
   const LEARN_AFTER = 5; // opens before the Brief starts reordering things
   const BASE_STORIES = 6, MIN_STORIES = 3, MAX_STORIES = 12;
-  const PROMOTE_AFTER = 2, DISCOVER_STORIES = 6;
+  const PROMOTE_AFTER = 2, DISCOVER_STORIES = 18;
   const STOP = new Set("about after again against also among amid before being between could first from have here into just more most over says said than that their them then there these they this those through under were what when where which while will with would your year years after over news week today amid back make made 2026".split(" "));
   const store = {
     get(key, fallback) { try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch { return fallback; } },
@@ -261,12 +261,11 @@ footer { padding-block: 0 40px; }
 
   function discover(exploreSecs) {
     const day = Math.floor(Date.now() / 86400000);
-    const picks = exploreSecs.map((s) => {
-      const ranked = s.items.slice().sort((a, b) => storyScore(b) - storyScore(a));
-      return ranked.find((i) => !read.has(i.link)) || ranked[0];
-    }).filter(Boolean);
-    const shift = picks.length ? day % picks.length : 0;
-    return picks.slice(shift).concat(picks.slice(0, shift)).slice(0, DISCOVER_STORIES);
+    // Up to two unread stories from every explore topic, interleaved so topics alternate.
+    const shift = exploreSecs.length ? day % exploreSecs.length : 0;
+    const order = exploreSecs.slice(shift).concat(exploreSecs.slice(0, shift));
+    const perTopic = order.map((s) => s.items.slice().sort((a, b) => storyScore(b) - storyScore(a)).filter((i) => !read.has(i.link)).slice(0, 2));
+    return [0, 1].flatMap((round) => perTopic.map((list) => list[round])).filter(Boolean).slice(0, DISCOVER_STORIES);
   }
 
   function visibleSections() {
@@ -287,7 +286,7 @@ footer { padding-block: 0 40px; }
       secs.sort((a, b) => sectionScore(b.id) - sectionScore(a.id));
     }
     if (discoverItems.length) {
-      secs.push({ id: "discover", name: "Discover", blurb: "One story each from topics you haven't tried yet. Read a couple from a topic and it gets its own section.", items: discoverItems });
+      secs.push({ id: "discover", name: "Discover", blurb: "Stories from topics you haven't tried yet. Read two from the same topic and it gets its own tab.", items: discoverItems });
     }
     return secs;
   }
@@ -502,9 +501,16 @@ footer { padding-block: 0 40px; }
   // Home-screen install support (only where the app is hosted as a real site).
   function setupInstall() {
     const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
-    if (standalone || !("serviceWorker" in navigator)) return;
-    navigator.serviceWorker.register("sw.js").then(() => {
-      if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
+    if (!("serviceWorker" in navigator)) return;
+    // When a new version of the app arrives, reload once so it shows straight away.
+    let reloaded = false;
+    const hadController = Boolean(navigator.serviceWorker.controller);
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (hadController && !reloaded) { reloaded = true; location.reload(); }
+    });
+    navigator.serviceWorker.register("sw.js").then((reg) => {
+      reg.update().catch(() => {});
+      if (!standalone && /iphone|ipad|ipod/i.test(navigator.userAgent)) {
         $("install-text").textContent = "To add this to your home screen, tap Share, then “Add to Home Screen”.";
         $("install").hidden = false;
       }
