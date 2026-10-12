@@ -1,0 +1,224 @@
+{
+  "title": "The Krishna Brief",
+  "reader": "Krishna",
+  "generated": "2026-10-12T10:50:00+00:00",
+  "sections": [
+    {
+      "id": "geopolitics",
+      "name": "Geopolitics",
+      "blurb": "Power, conflict and diplomacy around the world",
+      "items": [
+        {
+          "title": "Airstrikes on Yemen's capital, drone hits vessel in Strait of Hormuz",
+          "link": "https://www.dtnext.in/news/world/airstrikes-on-yemens-capital-drone-hits-vessel-in-strait-of-hormuz",
+          "summary": "Houthis blamed Saudi Arabia for overnight strikes on Sanaa; India says two of its nationals are missing after a drone hit a tanker near Hormuz.",
+          "date": "2026-10-12T10:35:18+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "Seafarers offered big money to transit the Strait of Hormuz",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+          "summary": "Some crews are being offered large rewards to cross the strait as attacks on shipping increase.",
+          "date": "2026-10-11T21:16:36+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+          "summary": "Lawmaker Oleksandr Merezhko explains how the US diesel deal with Russia will affect Ukraine.",
+          "date": "2026-10-11T21:16:10+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "Two killed near Israeli-occupied area in south Lebanon",
+          "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon",
+          "summary": "Israeli strikes continue in southern Lebanon despite a June ceasefire.",
+          "date": "2026-10-11T20:46:45+00:00",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Zelenskyy welcomes US-announced energy ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire",
+          "summary": "Ukraine's president welcomed the claim that Russia and Ukraine agreed to halt attacks on energy infrastructure.",
+          "date": "2026-10-11T20:28:46+00:00",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Riyadh airport terminal struck again, a day after 12 were killed",
+          "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+          "summary": "A projectile hit the passenger terminal at Riyadh's international airport for a second day running.",
+          "date": "2026-10-10T23:44:15+00:00",
+          "source": "NPR"
+        }
+      ]
+    },
+    {
+      "id": "india-business",
+      "name": "India business",
+      "blurb": "Companies, markets and the economy at home",
+      "items": [
+        {
+          "title": "Around 1,000 ex-Flipkart staff approach Walmart over stock option liquidity",
+          "link": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100587_1.html",
+          "summary": "Former Flipkart, Myntra and Cleartrip employees want cash for vested options while the IPO timeline stays unclear.",
+          "date": "2026-10-11T13:43:05+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Udaan targets IPO by early 2028 as turnaround takes hold",
+          "link": "https://www.business-standard.com/companies/news/b2b-ecom-platform-udaan-targets-ipo-by-early-2028-as-turnaround-takes-hold-126101100549_1.html",
+          "summary": "The B2B platform expects revenue up 10 to 12 per cent and losses down about 20 per cent, with profit by end-2027.",
+          "date": "2026-10-11T13:10:01+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Coal India denies supply crunch to NTPC, says it exceeded commitments",
+          "link": "https://www.business-standard.com/companies/news/coal-india-denies-supply-shortfall-to-ntpc-despite-critical-coal-stocks-126101100538_1.html",
+          "summary": "Coal India says it delivered 97 million tonnes to NTPC and its JVs in H1 FY27, above contracted volumes.",
+          "date": "2026-10-11T12:56:02+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Audi India mulls local EV production, aims to double market share",
+          "link": "https://www.business-standard.com/companies/news/audi-india-mulls-local-ev-production-aims-to-double-mkt-share-in-3-5-years-126101100396_1.html",
+          "summary": "Audi is weighing making a battery electric car in India and wants to double its luxury share in three to five years.",
+          "date": "2026-10-11T11:34:15+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Draft steel policy targets 604 MT capacity by 2047",
+          "link": "https://www.business-standard.com/economy/news/economy-news-draft-steel-policy-targets-604-mt-capacity-by-2047-126101100296_1.html",
+          "summary": "The draft National Steel Policy also plans a 39% cut in emission intensity and 45 MT of exports.",
+          "date": "2026-10-11T08:56:54+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "RBI tightens liquidity after rate rise, raises daily CRR maintenance to 99%",
+          "link": "https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html",
+          "summary": "The change applies from October 16, alongside a ₹25,000 crore bond sale on October 13.",
+          "date": "2026-10-09T15:58:49+00:00",
+          "source": "Business Standard"
+        }
+      ]
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "blurb": "Civic, political and development news from TN, crime stories left out",
+      "items": [
+        {
+          "title": "Over 25,000 passengers ride on first day of Chennai Metro's new Yellow Line",
+          "link": "https://www.dtnext.in/news/chennai/over-25000-passengers-take-ride-on-first-day-of-new-yellow-line-of-chennai-metro",
+          "summary": "The Poonamallee Bypass to Vadapalani stretch carried over 25,000 commuters within five hours of opening.",
+          "date": "2026-10-12T10:10:07+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "Anbumani demands scrapping of Pallikaranai marsh wall project",
+          "link": "https://www.dtnext.in/news/tamilnadu/anbumani-demands-scrapping-of-pallikaranai-marsh-wall-project-threatens-protest",
+          "summary": "The PMK president alleged corruption and flood risks in the marshland wall project and threatened a protest.",
+          "date": "2026-10-12T09:48:39+00:00",
+          "source": "DT Next"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "New with AI",
+      "blurb": "New tools and things you can now do with AI",
+      "items": [
+        {
+          "title": "Doory, an open-source alternative to Canva",
+          "link": "https://github.com/shaongitbd/doory",
+          "summary": "An open-source design tool in the spirit of Canva.",
+          "date": "2026-10-12T00:48:27+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Local indexing to reduce tool calling and token usage",
+          "link": "https://tedhaley.ca/pensieve/",
+          "summary": "A local indexing approach that cuts down on AI tool calls and token use.",
+          "date": "2026-10-12T00:03:53+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "These execs think voice AI hasn't reached its ChatGPT moment yet",
+          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "summary": "Voice AI still misses contextual details that make the whole pipeline fail, executives argue.",
+          "date": "2026-10-11T14:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Satya Nadella says AI models need an 'emergency brake'",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "summary": "Microsoft's CEO called for the industry to rethink how it builds safeguards into AI.",
+          "date": "2026-10-10T21:47:51+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple hires team and licenses tech from personalized podcast startup Huxe",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "summary": "The deal hints at Apple's interest in AI-generated, personalised podcasts.",
+          "date": "2026-10-10T19:50:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "summary": "A roundup of AI agents that work inside texting, from general assistants to ones for family, travel and work.",
+          "date": "2026-10-10T14:00:00+00:00",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Global business",
+      "blurb": "Money, markets and companies worldwide",
+      "items": [
+        {
+          "title": "Robert E Hall and Michael Woodford win the Nobel prize in economics",
+          "link": "https://www.dtnext.in/news/world/robert-e-hall-michael-woodford-win-nobel-memorial-prize-in-economics",
+          "summary": "Honoured for work on the microeconomic foundations behind models used by central banks.",
+          "date": "2026-10-12T10:17:34+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "It's taking longer to find a new job after losing one",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+          "summary": "Nearly 40% of US job seekers exhaust unemployment benefits before finding work.",
+          "date": "2026-10-11T09:00:00+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "Once-hot AI trade leaves South Korean stocks struggling for buyers",
+          "link": "https://www.business-standard.com/world-news/once-hot-ai-trade-leaves-south-korean-stocks-struggling-to-attract-buyers-126101100095_1.html",
+          "summary": "Trading has fallen sharply from May's peak as foreign and retail investors pull back.",
+          "date": "2026-10-11T03:58:08+00:00",
+          "source": "Business Standard"
+        },
+        {
+          "title": "Kalshi taps former FBI agent to fight money laundering",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+          "summary": "The prediction market faces criticism over manipulation and insider trading.",
+          "date": "2026-10-09T22:23:11+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "How the beverage aisle got so wild",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5991779/how-the-beverage-aisle-got-so-wild",
+          "summary": "Many new drink flavours trace back to one lab that serves dozens of brands.",
+          "date": "2026-10-09T20:38:42+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "Why American investors love European defense startups",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+          "summary": "US investors supply about half of Europe's defense tech funding this year.",
+          "date": "2026-10-09T11:00:00+00:00",
+          "source": "NPR"
+        }
+      ]
+    }
+  ]
+}

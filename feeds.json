@@ -1,0 +1,59 @@
+{
+  "title": "The Krishna Brief",
+  "reader": "Krishna",
+  "itemsPerSection": 6,
+  "skipWords": [
+    "murder", "murdered", "murders", "killed his wife", "killed her husband", "affair", "illicit", "rape", "raped",
+    "molest", "molested", "stabbed", "hacked to death", "body found", "bodies found", "suicide", "dowry",
+    "honour killing", "eloped", "sexual assault", "pocso", "gang-raped", "chain snatching", "lover"
+  ],
+  "sections": [
+    {
+      "id": "geopolitics",
+      "name": "Geopolitics",
+      "blurb": "Power, conflict and diplomacy around the world",
+      "feeds": [
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://feeds.npr.org/1004/rss.xml",
+        "https://thediplomat.com/feed/",
+        "https://foreignpolicy.com/feed/"
+      ]
+    },
+    {
+      "id": "india-business",
+      "name": "India business",
+      "blurb": "Companies, markets and the economy at home",
+      "feeds": [
+        "https://www.business-standard.com/rss/companies-101.rss",
+        "https://www.business-standard.com/rss/economy-102.rss",
+        "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
+      ],
+      "filterCrime": true
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "blurb": "Civic, political and development news from TN, crime stories left out",
+      "feeds": [
+        "https://www.thehindu.com/news/national/tamil-nadu/feeder/default.rss",
+        { "url": "https://www.dtnext.in/feed", "match": "/(tamilnadu|chennai)/" }
+      ],
+      "filterCrime": true
+    },
+    {
+      "id": "ai",
+      "name": "New with AI",
+      "blurb": "New tools and things you can now do with AI",
+      "feeds": [
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://hnrss.org/newest?q=AI+OR+LLM&points=150"
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Global business",
+      "blurb": "Money, markets and companies worldwide",
+      "feeds": ["https://feeds.npr.org/1006/rss.xml"]
+    }
+  ]
+}

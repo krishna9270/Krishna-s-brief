@@ -1,0 +1,507 @@
+<title>The Krishna Brief</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#14213D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Brief">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one narrow reading column, masthead then sticky section tabs then stories; built for a phone held in one hand. */
+:root {
+  --paper: #EEF1F5;
+  --sheet: #F8FAFC;
+  --ink: #14213D;
+  --muted: #5A6478;
+  --rule: #D2D8E2;
+  --accent: #E3A21A;
+  --accent-ink: #8F5A00;
+  --read: #8D96A8;
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --body: "Literata", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0E1420; --sheet: #151D2D; --ink: #E7ECF4; --muted: #9AA4B8;
+    --rule: #26314A; --accent: #F2B544; --accent-ink: #F2B544; --read: #667089;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0E1420; --sheet: #151D2D; --ink: #E7ECF4; --muted: #9AA4B8;
+  --rule: #26314A; --accent: #F2B544; --accent-ink: #F2B544; --read: #667089;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1.0625rem/1.55 var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 40rem; margin: 0 auto; padding-inline: 16px; }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+.mono { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+
+/* Masthead */
+.mast { padding-block: 28px 18px; display: grid; gap: 10px; }
+.mast-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+.mast h1 {
+  margin: 0;
+  font: 800 clamp(2.4rem, 11vw, 3.6rem)/0.95 var(--display);
+  letter-spacing: -0.035em;
+  text-wrap: balance;
+}
+.mast h1 span { color: var(--accent); }
+.greet { margin: 0; font-size: 1.125rem; color: var(--muted); }
+.progress { display: grid; gap: 6px; margin-top: 6px; }
+.bar { height: 6px; border-radius: 3px; background: var(--rule); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .4s ease; }
+.icon-btn {
+  border: 1px solid var(--rule); background: var(--sheet); border-radius: 999px;
+  padding: 6px 12px; cursor: pointer; font-family: var(--mono); font-size: 0.75rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+
+/* Section tabs */
+.tabs {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--paper); border-bottom: 1px solid var(--rule);
+}
+.tabs .wrap { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px; scrollbar-width: none; }
+.tab {
+  flex: none; border: 1px solid var(--rule); background: transparent; border-radius: 999px;
+  padding: 6px 14px; cursor: pointer; font: 600 0.9375rem var(--display);
+  display: inline-flex; gap: 8px; align-items: center;
+}
+.tab[aria-selected="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.tab small { font: 500 0.6875rem var(--mono); opacity: 0.7; font-variant-numeric: tabular-nums; }
+
+/* Install hint */
+.install {
+  margin-top: 16px; padding: 12px 14px; border-radius: 12px; background: var(--sheet);
+  border: 1px dashed var(--accent); display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap;
+  font-size: 0.9375rem;
+}
+
+/* Stories */
+main { padding-block: 8px 48px; }
+.sec-head { padding-block: 22px 4px; display: grid; gap: 2px; }
+.sec-head h2 { margin: 0; font: 800 1.75rem/1.1 var(--display); letter-spacing: -0.02em; }
+.sec-head p { margin: 0; color: var(--muted); font-size: 0.9375rem; }
+.story { padding-block: 18px; border-bottom: 1px solid var(--rule); display: grid; gap: 6px; }
+.story:last-child { border-bottom: 0; }
+.kicker { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.kicker .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+.story h3 { margin: 0; font: 600 1.25rem/1.25 var(--display); letter-spacing: -0.01em; text-wrap: balance; }
+.story h3 a { text-decoration: none; }
+.story h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.story p { margin: 0; color: var(--muted); }
+.story .row { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.save {
+  border: 0; background: none; cursor: pointer; padding: 4px 0;
+  font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+}
+.save[aria-pressed="true"] { color: var(--accent-ink); }
+.story.is-read h3, .story.is-read p { color: var(--read); }
+.story.is-read .kicker .dot { background: var(--rule); }
+.empty { padding-block: 40px; text-align: center; color: var(--muted); }
+.done { margin-top: 28px; padding: 18px; border-radius: 14px; background: var(--sheet); text-align: center; }
+.done strong { font: 800 1.25rem var(--display); display: block; color: var(--ink); }
+
+/* Settings */
+.panel { margin-top: 14px; padding: 16px; border-radius: 14px; background: var(--sheet); border: 1px solid var(--rule); display: grid; gap: 12px; }
+.panel h2 { margin: 0; font: 800 1.125rem var(--display); }
+.toggle { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.toggle input { width: 20px; height: 20px; accent-color: var(--ink); }
+.panel .hint { margin: 0; font-size: 0.875rem; color: var(--muted); }
+.panel .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+footer { padding-block: 0 40px; }
+
+
+/* Personalisation */
+.why { font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); }
+.actions-row { display: flex; gap: 16px; align-items: center; }
+.less { border: 0; background: none; cursor: pointer; padding: 4px 0; font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.taste { display: grid; gap: 8px; }
+.taste h3 { margin: 6px 0 0; font: 600 0.9375rem var(--display); }
+.taste-row { display: grid; grid-template-columns: 8.5rem 1fr 2.5rem; gap: 10px; align-items: center; font-size: 0.875rem; }
+.taste-row .bar { height: 8px; }
+.taste-row span:last-child { font-family: var(--mono); font-size: 0.75rem; text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-family: var(--mono); font-size: 0.75rem; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--rule); }
+
+@media (prefers-reduced-motion: reduce) { .bar i { transition: none; } }
+</style>
+
+<header class="wrap mast">
+  <div class="mast-top">
+    <span class="mono" id="issue-line">Today's edition</span>
+    <button class="icon-btn" id="settings-btn" aria-expanded="false" aria-controls="settings">Topics</button>
+  </div>
+  <h1 id="title">The Krishna Brief<span>.</span></h1>
+  <p class="greet" id="greet">Good morning, Krishna.</p>
+  <div class="progress">
+    <div class="bar" aria-hidden="true"><i id="bar"></i></div>
+    <span class="mono" id="progress-label">0 read</span>
+  </div>
+  <div class="install" id="install" hidden>
+    <span id="install-text">Add the Brief to your home screen for one-tap reading.</span>
+    <button class="icon-btn" id="install-btn" hidden>Install</button>
+  </div>
+  <section class="panel" id="settings" hidden aria-label="Topics">
+    <h2>Your topics</h2>
+    <div id="toggles"></div>
+    <div class="taste" id="taste"></div>
+    <p class="hint">Your reading history stays on this phone. The Brief uses it to put the topics and stories you open most at the top. Want different topics? Tell Claude in the project thread.</p>
+    <div class="actions">
+      <button class="icon-btn" id="copy-taste">Copy my reading profile</button>
+      <button class="icon-btn" id="reset-read">Mark all unread</button>
+      <button class="icon-btn" id="reset-taste">Forget my reading history</button>
+    </div>
+  </section>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+  <div class="wrap" role="tablist" id="tabs"></div>
+</nav>
+
+<main class="wrap" id="stories" aria-live="polite">
+  <p class="empty">Loading today's stories…</p>
+</main>
+
+<footer class="wrap">
+  <p class="mono" id="updated"></p>
+</footer>
+
+<script>
+(() => {
+  const FIRST_ISSUE = Date.UTC(2026, 9, 12);
+  const LEARN_AFTER = 5; // opens before the Brief starts reordering things
+  const STOP = new Set("about after again against also among amid before being between could first from have here into just more most over says said than that their them then there these they this those through under were what when where which while will with would your year years after over news week today amid back make made 2026".split(" "));
+  const store = {
+    get(key, fallback) { try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch { return fallback; } },
+    set(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch {} }
+  };
+  let read = new Set(store.get("brief.read", []));
+  let saved = store.get("brief.saved", {});
+  let hidden = new Set(store.get("brief.hidden", []));
+  let dismissed = new Set(store.get("brief.dismissed", []));
+  let active = store.get("brief.tab", "all");
+  let profile = store.get("brief.profile", { opens: 0, sections: {}, words: {}, seen: [] });
+  let digest = null;
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  // ---- Personalisation (all on this device) ----
+  const words = (title) => [...new Set(String(title).toLowerCase().match(/[a-z][a-z0-9-]{3,}/g) || [])].filter((w) => !STOP.has(w));
+  const learned = () => profile.opens >= LEARN_AFTER;
+  const sec = (id) => (profile.sections[id] ||= { opens: 0, shown: 0 });
+  const saveProfile = () => store.set("brief.profile", profile);
+
+  function noteShown() {
+    // Count each edition once, so a topic's score is opens per story offered.
+    if (profile.seen.includes(digest.generated)) return;
+    profile.seen = profile.seen.concat(digest.generated).slice(-30);
+    digest.sections.forEach((s) => { sec(s.id).shown += s.items.length; });
+    saveProfile();
+  }
+
+  function noteOpen(item) {
+    profile.opens += 1;
+    sec(item.section).opens += 1;
+    words(item.title).forEach((w) => { profile.words[w] = (profile.words[w] || 0) + 1; });
+    saveProfile();
+  }
+
+  function noteLess(item) {
+    words(item.title).forEach((w) => { profile.words[w] = (profile.words[w] || 0) - 1.5; });
+    sec(item.section).opens = Math.max(0, sec(item.section).opens - 0.5);
+    saveProfile();
+  }
+
+  const sectionScore = (id) => { const s = sec(id); return (s.opens + 1) / (s.shown + 6); };
+  const storyScore = (item) => words(item.title).reduce((n, w) => n + (profile.words[w] || 0), 0) + sectionScore(item.section) * 4;
+
+  function topWords(n) {
+    return Object.entries(profile.words).filter(([, v]) => v >= 2).sort((a, b) => b[1] - a[1]).slice(0, n).map(([w]) => w);
+  }
+
+  // ---- Rendering ----
+  function ago(iso) {
+    if (!iso) return "";
+    const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (mins < 60) return `${Math.max(mins, 1)} min ago`;
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return `${hrs} hr ago`;
+    const days = Math.round(hrs / 24);
+    return days === 1 ? "yesterday" : `${days} days ago`;
+  }
+
+  function greeting(name) {
+    const h = new Date().getHours();
+    const part = h < 5 ? "Up late" : h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
+    return name ? `${part}, ${name}.` : `${part}.`;
+  }
+
+  function visibleSections() {
+    const secs = digest.sections
+      .filter((s) => !hidden.has(s.id))
+      .map((s) => ({ ...s, items: s.items.filter((i) => !dismissed.has(i.link)) }));
+    if (!learned()) return secs;
+    secs.forEach((s) => s.items.sort((a, b) => storyScore(b) - storyScore(a)));
+    return secs.sort((a, b) => sectionScore(b.id) - sectionScore(a.id));
+  }
+
+  function allStories() {
+    return visibleSections().flatMap((s) => s.items);
+  }
+
+  function forYou() {
+    if (!learned()) return [];
+    return allStories()
+      .filter((i) => !read.has(i.link))
+      .map((i) => ({ i, score: words(i.title).reduce((n, w) => n + Math.max(profile.words[w] || 0, 0), 0) }))
+      .filter((x) => x.score >= 2)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 4)
+      .map((x) => x.i);
+  }
+
+  function renderHeader() {
+    const date = new Date();
+    const issue = Math.max(1, Math.floor((Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) - FIRST_ISSUE) / 86400000) + 1);
+    const day = date.toLocaleDateString(undefined, { weekday: "long", day: "numeric", month: "long" });
+    $("issue-line").textContent = `No. ${issue} · ${day}`;
+    $("greet").textContent = greeting(digest.reader);
+    document.title = digest.title;
+    $("title").innerHTML = `${esc(digest.title)}<span>.</span>`;
+    const gen = new Date(digest.generated);
+    $("updated").textContent = `Stories gathered ${gen.toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" })}`;
+  }
+
+  function renderProgress() {
+    const stories = allStories();
+    const done = stories.filter((s) => read.has(s.link)).length;
+    $("bar").style.width = stories.length ? `${(done / stories.length) * 100}%` : "0";
+    $("progress-label").textContent = `${done} of ${stories.length} stories read`;
+  }
+
+  function renderTabs() {
+    const tabs = [{ id: "all", name: "All", count: allStories().length }]
+      .concat(visibleSections().map((s) => ({ id: s.id, name: s.name, count: s.items.length })))
+      .concat([{ id: "saved", name: "Saved", count: Object.keys(saved).length }]);
+    if (!tabs.some((t) => t.id === active)) active = "all";
+    $("tabs").innerHTML = tabs.map((t) =>
+      `<button class="tab" role="tab" id="tab-${t.id}" data-tab="${t.id}" aria-selected="${t.id === active}">${esc(t.name)}<small>${t.count}</small></button>`
+    ).join("");
+  }
+
+  function storyHTML(item, why) {
+    const isSaved = Boolean(saved[item.link]);
+    return `<article class="story${read.has(item.link) ? " is-read" : ""}">
+      <div class="kicker"><span class="dot"></span><span class="mono">${esc(item.source)}${item.date ? " · " + ago(item.date) : ""}</span>${why ? `<span class="why">${esc(why)}</span>` : ""}</div>
+      <h3><a href="${esc(item.link)}" target="_blank" rel="noopener" data-link="${esc(item.link)}">${esc(item.title)}</a></h3>
+      ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}
+      <div class="row"><span></span><div class="actions-row">
+        ${active === "saved" ? "" : `<button class="less" data-less="${esc(item.link)}">Show less like this</button>`}
+        <button class="save" data-save="${esc(item.link)}" aria-pressed="${isSaved}">${isSaved ? "★ Saved" : "☆ Save"}</button>
+      </div></div>
+    </article>`;
+  }
+
+  function sectionHTML(s, whyFor) {
+    return `<section aria-labelledby="h-${s.id}">
+      <div class="sec-head"><h2 id="h-${s.id}">${esc(s.name)}</h2>${s.blurb ? `<p>${esc(s.blurb)}</p>` : ""}</div>
+      ${s.items.length ? s.items.map((i) => storyHTML(i, whyFor && whyFor(i))).join("") : `<p class="empty">No stories in this section today.</p>`}
+    </section>`;
+  }
+
+  function renderStories() {
+    let html;
+    if (active === "saved") {
+      const items = Object.values(saved);
+      html = items.length
+        ? sectionHTML({ id: "saved", name: "Saved for later", blurb: "Stories you starred, kept until you unstar them", items })
+        : `<p class="empty">Nothing saved yet. Tap “Save” on any story to keep it here.</p>`;
+    } else {
+      let secs = active === "all" ? visibleSections() : visibleSections().filter((s) => s.id === active);
+      if (active === "all") {
+        const picks = forYou();
+        const pickLinks = new Set(picks.map((i) => i.link));
+        secs = secs.map((s) => ({ ...s, items: s.items.filter((i) => !pickLinks.has(i.link)) }));
+        const names = Object.fromEntries(digest.sections.map((s) => [s.id, s.name]));
+        html = (picks.length ? sectionHTML({ id: "for-you", name: "For you", blurb: "Picked from what you've been reading", items: picks }, (i) => names[i.section]) : "")
+          + secs.map((s) => sectionHTML(s)).join("");
+      } else {
+        html = secs.map((s) => sectionHTML(s)).join("");
+      }
+      html = html || `<p class="empty">All topics are switched off. Turn one on under Topics.</p>`;
+      const stories = allStories();
+      if (active === "all" && stories.length && stories.every((s) => read.has(s.link))) {
+        html += `<div class="done"><strong>You're all caught up.</strong>See you in tomorrow's edition.</div>`;
+      }
+    }
+    $("stories").innerHTML = html;
+  }
+
+  function renderToggles() {
+    $("toggles").innerHTML = digest.sections.map((s) =>
+      `<label class="toggle" for="t-${s.id}"><span>${esc(s.name)}</span><input type="checkbox" id="t-${s.id}" data-section="${s.id}" ${hidden.has(s.id) ? "" : "checked"}></label>`
+    ).join("");
+  }
+
+  function renderTaste() {
+    if (!profile.opens) {
+      $("taste").innerHTML = `<h3>What you read most</h3><p class="hint">Nothing yet. Open a few stories and your favourite topics will show up here.</p>`;
+      return;
+    }
+    const rows = digest.sections.map((s) => ({ name: s.name, opens: sec(s.id).opens }));
+    const max = Math.max(1, ...rows.map((r) => r.opens));
+    const tw = topWords(8);
+    $("taste").innerHTML = `<h3>What you read most</h3>`
+      + rows.sort((a, b) => b.opens - a.opens).map((r) =>
+        `<div class="taste-row"><span>${esc(r.name)}</span><div class="bar"><i style="width:${(r.opens / max) * 100}%"></i></div><span>${Math.round(r.opens)}</span></div>`).join("")
+      + (tw.length ? `<h3>Words you keep clicking</h3><div class="chips">${tw.map((w) => `<span class="chip">${esc(w)}</span>`).join("")}</div>` : "")
+      + (learned() ? "" : `<p class="hint">Open ${LEARN_AFTER - profile.opens} more ${LEARN_AFTER - profile.opens === 1 ? "story" : "stories"} and the Brief starts ordering itself around you.</p>`);
+  }
+
+  function renderAll() {
+    renderHeader(); renderTabs(); renderStories(); renderProgress(); renderToggles(); renderTaste();
+  }
+
+  const findItem = (link) => digest.sections.flatMap((s) => s.items).find((i) => i.link === link) || saved[link];
+
+  document.addEventListener("click", (e) => {
+    const tab = e.target.closest("[data-tab]");
+    if (tab) {
+      active = tab.dataset.tab; store.set("brief.tab", active);
+      renderTabs(); renderStories();
+      window.scrollTo({ top: $("stories").offsetTop - 70, behavior: "smooth" });
+      return;
+    }
+    const link = e.target.closest("[data-link]");
+    if (link) {
+      const key = link.dataset.link;
+      if (!read.has(key)) {
+        const item = findItem(key);
+        if (item && item.section) noteOpen(item);
+        read.add(key); store.set("brief.read", [...read]);
+      }
+      link.closest(".story").classList.add("is-read");
+      renderProgress(); renderTaste();
+      return;
+    }
+    const less = e.target.closest("[data-less]");
+    if (less) {
+      const item = findItem(less.dataset.less);
+      if (item) noteLess(item);
+      dismissed.add(less.dataset.less); store.set("brief.dismissed", [...dismissed]);
+      renderTabs(); renderStories(); renderProgress(); renderTaste();
+      return;
+    }
+    const save = e.target.closest("[data-save]");
+    if (save) {
+      const key = save.dataset.save;
+      if (saved[key]) delete saved[key];
+      else saved[key] = findItem(key);
+      store.set("brief.saved", saved);
+      renderTabs(); renderStories();
+    }
+  });
+
+  $("toggles").addEventListener("change", (e) => {
+    const id = e.target.dataset.section;
+    if (!id) return;
+    e.target.checked ? hidden.delete(id) : hidden.add(id);
+    store.set("brief.hidden", [...hidden]);
+    renderTabs(); renderStories(); renderProgress();
+  });
+
+  $("settings-btn").addEventListener("click", () => {
+    const panel = $("settings");
+    panel.hidden = !panel.hidden;
+    $("settings-btn").setAttribute("aria-expanded", String(!panel.hidden));
+  });
+
+  $("reset-read").addEventListener("click", () => {
+    read = new Set(); store.set("brief.read", []);
+    renderStories(); renderProgress();
+  });
+
+  let confirmReset = false;
+  $("reset-taste").addEventListener("click", (e) => {
+    if (!confirmReset) { confirmReset = true; e.target.textContent = "Tap again to forget"; return; }
+    confirmReset = false; e.target.textContent = "Forget my reading history";
+    profile = { opens: 0, sections: {}, words: {}, seen: [] };
+    dismissed = new Set(); store.set("brief.dismissed", []);
+    saveProfile(); noteShown(); renderAll();
+  });
+
+  $("copy-taste").addEventListener("click", async (e) => {
+    const summary = digest.sections.map((s) => `${s.name}: ${Math.round(sec(s.id).opens)} opened of ${sec(s.id).shown} shown`).join("\n")
+      + `\nTop words: ${topWords(15).join(", ") || "none yet"}`;
+    const btn = e.target;
+    try { await navigator.clipboard.writeText(summary); btn.textContent = "Copied"; }
+    catch { $("taste").insertAdjacentHTML("beforeend", `<pre class="hint" style="white-space:pre-wrap">${esc(summary)}</pre>`); btn.textContent = "Shown below"; }
+    setTimeout(() => { btn.textContent = "Copy my reading profile"; }, 2500);
+  });
+
+  function pruneRead() {
+    const current = new Set(digest.sections.flatMap((s) => s.items.map((i) => i.link)));
+    read = new Set([...read].filter((l) => current.has(l)));
+    dismissed = new Set([...dismissed].filter((l) => current.has(l)));
+    store.set("brief.read", [...read]); store.set("brief.dismissed", [...dismissed]);
+  }
+
+  async function load() {
+    try {
+      const res = await fetch("digest.json", { cache: "no-cache" });
+      if (!res.ok) throw new Error(res.status);
+      digest = await res.json();
+      digest.sections.forEach((s) => s.items.forEach((i) => { i.section = s.id; }));
+      pruneRead();
+      noteShown();
+      renderAll();
+    } catch {
+      $("stories").innerHTML = `<p class="empty">Couldn't load today's stories. Check your connection and open the app again.</p>`;
+    }
+  }
+
+  // Home-screen install support (only where the app is hosted as a real site).
+  function setupInstall() {
+    const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+    if (standalone || !("serviceWorker" in navigator)) return;
+    navigator.serviceWorker.register("sw.js").then(() => {
+      if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
+        $("install-text").textContent = "To add this to your home screen, tap Share, then “Add to Home Screen”.";
+        $("install").hidden = false;
+      }
+    }).catch(() => {});
+    let deferred;
+    addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault(); deferred = e;
+      $("install").hidden = false; $("install-btn").hidden = false;
+    });
+    $("install-btn").addEventListener("click", async () => {
+      if (!deferred) return;
+      deferred.prompt(); await deferred.userChoice; deferred = null;
+      $("install").hidden = true;
+    });
+  }
+
+  load();
+  setupInstall();
+})();
+</script>
