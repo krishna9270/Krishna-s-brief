@@ -1,6 +1,6 @@
 // Pages from this site and the digest are fetched fresh when online (so app updates
 // arrive), with the cached copy used offline. Fonts and icons are cache-first.
-const CACHE = "brief-v3";
+const CACHE = "brief-v4";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -21,7 +21,8 @@ self.addEventListener("fetch", (e) => {
   const fresh = url.origin === location.origin && (e.request.mode === "navigate" || /(\/|\.html|\.json|\.webmanifest)$/.test(url.pathname));
   if (fresh) {
     e.respondWith(
-      fetch(e.request)
+      // no-cache: always ask the server, so a stale browser copy is never shown.
+      fetch(e.request, { cache: "no-cache" })
         .then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); return res; })
         .catch(() => caches.match(e.request))
     );
