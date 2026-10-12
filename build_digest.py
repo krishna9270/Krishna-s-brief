@@ -24,7 +24,7 @@ MEDIA = "{http://search.yahoo.com/mrss/}"
 SOURCES = {
     "aljazeera.com": "Al Jazeera", "npr.org": "NPR", "thediplomat.com": "The Diplomat",
     "foreignpolicy.com": "Foreign Policy", "business-standard.com": "Business Standard",
-    "indiatimes.com": "Economic Times", "thehindu.com": "The Hindu", "dtnext.in": "DT Next",
+    "indiatimes.com": "Economic Times", "indianexpress.com": "Indian Express", "thehindu.com": "The Hindu", "dtnext.in": "DT Next",
     "techcrunch.com": "TechCrunch", "hnrss.org": "Hacker News", "sciencedaily.com": "ScienceDaily",
     "newscientist.com": "New Scientist", "space.com": "Space.com", "nasa.gov": "NASA",
     "espncricinfo.com": "ESPNcricinfo", "livemint.com": "Mint", "theguardian.com": "The Guardian",

@@ -42,6 +42,22 @@
       "core": true
     },
     {
+      "id": "india-politics",
+      "name": "India politics",
+      "blurb": "Parliament, parties, elections and policy",
+      "core": true,
+      "filterCrime": true,
+      "feeds": [
+        "https://indianexpress.com/section/political-pulse/feed/",
+        "https://www.business-standard.com/rss/politics-155.rss",
+        "https://www.thehindu.com/news/national/feeder/default.rss",
+        {
+          "url": "https://www.dtnext.in/feed",
+          "match": "/news/national/"
+        }
+      ]
+    },
+    {
       "id": "india-business",
       "name": "India business",
       "blurb": "Companies, markets and the economy at home",
