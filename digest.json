@@ -1,7 +1,7 @@
 {
   "title": "The Krishna Brief",
   "reader": "Krishna",
-  "generated": "2026-10-12T11:21:57+00:00",
+  "generated": "2026-10-12T11:30:03+00:00",
   "sections": [
     {
       "id": "geopolitics",
@@ -9,6 +9,14 @@
       "blurb": "Power, conflict and diplomacy around the world",
       "core": true,
       "items": [
+        {
+          "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
+          "summary": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791803802.jpg?resize=1920%2C1080&quality=80",
+          "date": "2026-10-12T11:17:02+00:00",
+          "source": "Al Jazeera"
+        },
         {
           "title": "Can Brussels Budget Like a Superpower?",
           "link": "https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/",
@@ -21,7 +29,7 @@
           "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
           "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
           "summary": "The EU also announced that it officially added almost 1,600 new sanctions on Russia's military industrial complex.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6accafc0b4-1791799232.jpg?resize=1920%2C1440",
           "date": "2026-10-12T10:35:51+00:00",
           "source": "Al Jazeera"
         },
@@ -29,7 +37,7 @@
           "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
           "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
           "summary": "City beat Reds despite a hostile Anfield reception, but Premier League season still hangs in the balance.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acbb493-1791734931.jpg?resize=1920%2C1440",
           "date": "2026-10-12T10:18:58+00:00",
           "source": "Al Jazeera"
         },
@@ -37,7 +45,7 @@
           "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
           "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
           "summary": "Samir Mohtadi \"strongly rejects\" any attempt to associate him or Islamic centre in Melbourne with the alleged attacker.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acc951e-1791792414.jpg?resize=1920%2C1440",
           "date": "2026-10-12T10:05:19+00:00",
           "source": "Al Jazeera"
         },
@@ -53,7 +61,7 @@
           "title": "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss",
           "summary": "Indian YouTube star Dhruv Rathee alleges he was abducted from home and held for nearly 24 hours without a lawyer.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791798833.jpg?resize=1920%2C1080&quality=80",
           "date": "2026-10-12T09:55:11+00:00",
           "source": "Al Jazeera"
         },
@@ -61,7 +69,7 @@
           "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
           "link": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
           "summary": "A year into a 'ceasefire', Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Gaza-poster-image-yellow-line-map-1791791912.png?resize=1200%2C630",
           "date": "2026-10-12T09:27:12+00:00",
           "source": "Al Jazeera"
         },
@@ -77,7 +85,7 @@
           "title": "Delhi braces for more protests against election chief amid crackdown",
           "link": "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss",
           "summary": "Opposition parties joined by student groups are back on the streets, disrupting New Delhi with flash marches.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T154403Z_8724982_RC2BWNAA4P9N_RTRMADP_3_INDIA-POLITICS-GEN-Z-1791786879.jpg?resize=1920%2C1440",
           "date": "2026-10-12T08:55:46+00:00",
           "source": "Al Jazeera"
         },
@@ -85,7 +93,7 @@
           "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
           "link": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
           "summary": "Pakistan has taken control of a province governed by Imran Khan’s PTI. Here's what the move means and what happens next.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-11T080911Z_1694873286_RC2W0OA1LYYO_RTRMADP_3_PAKISTAN-POLITICS-1791791467.jpg?resize=1920%2C1440",
           "date": "2026-10-12T08:54:25+00:00",
           "source": "Al Jazeera"
         },
@@ -93,16 +101,8 @@
           "title": "Russia introduces drone classes in public schools",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
           "summary": "Russian public schools are teaching children to assemble and fly drones as part of changes to the national curriculum.",
-          "image": null,
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791794714.jpg?resize=1920%2C1080&quality=80",
           "date": "2026-10-12T08:47:43+00:00",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-          "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-          "summary": "Hunger grips Gaza, with over 1.4 million people acutely short of food as aid remains insufficient to meet basic needs.",
-          "image": null,
-          "date": "2026-10-12T08:46:41+00:00",
           "source": "Al Jazeera"
         }
       ]
@@ -114,18 +114,26 @@
       "core": true,
       "items": [
         {
+          "title": "Tata Motors PV, Stellantis expand tie-up for global vehicle development",
+          "link": "https://www.business-standard.com/companies/news/tata-motors-pv-stellantis-expand-tie-up-for-global-vehicle-development-126101200728_1.html",
+          "summary": "The expanded partnership adds advanced technology and vehicle architecture collaboration to the companies' existing manufacturing relationship",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200728.jpg",
+          "date": "2026-10-12T11:14:25+00:00",
+          "source": "Business Standard"
+        },
+        {
           "title": "Retail inflation rises to 5.54% in Sep as food inflation zooms to 7.74%",
           "link": "https://www.business-standard.com/economy/news/retail-inflation-rises-to-5-54-in-sep-as-food-inflation-zooms-to-7-74-126101200671_1.html",
-          "summary": "",
+          "summary": "The latest reading marks the highest retail inflation rate recorded so far in 2026, with inflation rising every month since January, when it stood at 2.74 per cent",
           "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200671.jpg",
-          "date": "2026-10-12T10:47:50+00:00",
+          "date": "2026-10-12T10:47:05+00:00",
           "source": "Business Standard"
         },
         {
           "title": "Tax notice for getting salary in NRE bank a/c",
           "link": "https://economictimes.indiatimes.com/wealth/legal/will/salary-from-south-korean-employer-credited-to-nre-account-triggers-income-tax-notice-itat-bangalore-gives-employee-relief/articleshow/134889439.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-191064,resizemode-75,msid-134889439/wealth/legal/will/salary-from-south-korean-employer-credited-to-nre-account-triggers-income-tax-notice-itat-bangalore-gives-employee-relief.jpg",
           "date": "2026-10-12T10:29:05+00:00",
           "source": "Economic Times"
         },
@@ -133,7 +141,7 @@
           "title": "Germany warns of a shadow war beyond the Cold War",
           "link": "https://economictimes.indiatimes.com/news/international/world-news/germany-faces-a-shadow-war-more-far-reaching-than-cold-war-warns-minister/articleshow/134889696.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/msid-134889793,width-1200,height-900,imgsize-88616,overlay-economictimes/articleshow.jpg",
           "date": "2026-10-12T10:20:57+00:00",
           "source": "Economic Times"
         },
@@ -149,7 +157,7 @@
           "title": "AIDEF requests govt to announce DA hike soon",
           "link": "https://economictimes.indiatimes.com/wealth/save/da-hike-for-central-government-employees-aidefurgescabinet-secretary-finance-ministry-to-announce-da-soon-and-increase-bonus-ceiling/articleshow/134889160.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1237076,resizemode-75,msid-134889160/wealth/save/da-hike-for-central-government-employees-aidefurgescabinet-secretary-finance-ministry-to-announce-da-soon-and-increase-bonus-ceiling.jpg",
           "date": "2026-10-12T10:14:53+00:00",
           "source": "Economic Times"
         },
@@ -157,7 +165,7 @@
           "title": "Railways eyes bigger 24-coach Vande Bharat train",
           "link": "https://economictimes.indiatimes.com/industry/transportation/railways/new-bigger-vande-bharat-coming-soon-forget-16-coach-version-railways-eyes-24-coach-sleeper-train-with-features-that-could-give-rajdhani-express-tough-competition/articleshow/134888621.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/msid-134888860,width-1200,height-900,imgsize-94654,overlay-economictimes/articleshow.jpg",
           "date": "2026-10-12T10:00:51+00:00",
           "source": "Economic Times"
         },
@@ -173,7 +181,7 @@
           "title": "19 yrs marriage no child; HC refuses divorce",
           "link": "https://economictimes.indiatimes.com/wealth/legal/will/wife-underwent-treatment-but-couple-had-no-children-for-19-years-madras-hc-rejects-divorce-plea-over-childlessness/articleshow/134887121.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-160894,resizemode-75,msid-134887121/wealth/legal/will/wife-underwent-treatment-but-couple-had-no-children-for-19-years-madras-hc-rejects-divorce-plea-over-childlessness.jpg",
           "date": "2026-10-12T09:29:14+00:00",
           "source": "Economic Times"
         },
@@ -181,7 +189,7 @@
           "title": "GCCs drive 41% of India's office leasing",
           "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/gccs-gain-share-of-indias-office-leasing-as-demand-mix-shifts/articleshow/134887912.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/msid-134888493,width-1200,height-900,imgsize-159906,overlay-economictimes/articleshow.jpg",
           "date": "2026-10-12T09:28:01+00:00",
           "source": "Economic Times"
         },
@@ -189,7 +197,7 @@
           "title": "5% GST imposed on e-comm services? Govt says this",
           "link": "https://economictimes.indiatimes.com/wealth/save/has-government-imposed-5-gst-on-e-commerce-delivery-services-ahead-of-diwali-income-tax-dept-says-this/articleshow/134887613.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1363417,resizemode-75,msid-134887613/wealth/save/has-government-imposed-5-gst-on-e-commerce-delivery-services-ahead-of-diwali-income-tax-dept-says-this.jpg",
           "date": "2026-10-12T08:57:23+00:00",
           "source": "Economic Times"
         },
@@ -197,16 +205,8 @@
           "title": "Europe may help India to become a global car hub",
           "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-sees-india-becoming-global-car-hub-as-europes-regulations-hurt-competitiveness/articleshow/134887666.cms",
           "summary": "",
-          "image": null,
+          "image": "https://img.etimg.com/thumb/msid-134887757,width-1200,height-900,imgsize-132944,overlay-economictimes/articleshow.jpg",
           "date": "2026-10-12T08:52:29+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Less-than-2-lane NH stretches shrink to 8%",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/roadways/less-than-8-of-indias-national-highways-are-now-narrower-than-two-lanes-high-speed-corridors-grow-12-times-as-government-plans-51000-km-of-faster-roads/articleshow/134886986.cms",
-          "summary": "",
-          "image": null,
-          "date": "2026-10-12T08:39:34+00:00",
           "source": "Economic Times"
         }
       ]
@@ -218,10 +218,18 @@
       "core": true,
       "items": [
         {
+          "title": "26 injured as government bus rams into stationary private bus near TN’s Mettur",
+          "link": "https://www.dtnext.in/news/tamilnadu/26-injured-as-government-bus-rams-into-stationary-private-bus-near-tns-mettur",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-02-01/e26knc56/Accident.jpg",
+          "date": "2026-10-12T11:12:30+00:00",
+          "source": "DT Next"
+        },
+        {
           "title": "Caste discrimination during SC man’s burial: Protest in Erode seeks action against officials",
           "link": "https://www.thehindu.com/news/national/tamil-nadu/caste-discrimination-during-sc-mans-burial-protest-in-erode-seeks-action-against-officials/article71574390.ece",
           "summary": "The protesters demanded that officials be held accountable under the SC/ST Prevention of Atrocities Act for their alleged failure to prevent the humiliation meted out to members of an SC community",
-          "image": null,
+          "image": "https://www.thehindu.com/theme/images/og-image.png",
           "date": "2026-10-12T10:18:50+00:00",
           "source": "The Hindu"
         },
@@ -304,14 +312,6 @@
           "image": "https://media.assettype.com/dt-next/import/imported/2022-11/1c089133-d7fc-4f4e-be30-a92fc2b4e770/Untitled_5_.jpg",
           "date": "2026-10-12T07:45:10+00:00",
           "source": "DT Next"
-        },
-        {
-          "title": "Sivakumar Educational Trust honours veteran artist Jeevanandhan",
-          "link": "https://www.dtnext.in/news/tamilnadu/sivakumar-educational-trust-honours-veteran-artist-jeevanandhan",
-          "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-12/dkkwx10i/IMG2658.jpg",
-          "date": "2026-10-12T07:29:55+00:00",
-          "source": "DT Next"
         }
       ]
     },
@@ -325,7 +325,7 @@
           "title": "Will the HomeView be Apple’s first smart home success?",
           "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
           "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
           "date": "2026-10-11T21:14:40+00:00",
           "source": "TechCrunch"
         },
@@ -333,7 +333,7 @@
           "title": "The gap in shared understanding of LLM capability is widening",
           "link": "https://twitter.com/karpathy/status/2109361546505966046",
           "summary": "",
-          "image": null,
+          "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
           "date": "2026-10-11T20:20:52+00:00",
           "source": "Hacker News"
         },
@@ -341,7 +341,7 @@
           "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
           "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
           "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
           "date": "2026-10-11T19:00:00+00:00",
           "source": "TechCrunch"
         },
@@ -349,7 +349,7 @@
           "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
           "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
           "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
           "date": "2026-10-11T16:52:33+00:00",
           "source": "TechCrunch"
         },
@@ -357,7 +357,7 @@
           "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
           "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
           "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
           "date": "2026-10-11T14:00:00+00:00",
           "source": "TechCrunch"
         },
@@ -365,7 +365,7 @@
           "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
           "summary": "",
-          "image": null,
+          "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
           "date": "2026-10-11T02:02:38+00:00",
           "source": "Hacker News"
         },
@@ -373,7 +373,7 @@
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
           "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
           "date": "2026-10-10T21:47:51+00:00",
           "source": "TechCrunch"
         },
@@ -381,7 +381,7 @@
           "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
           "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
           "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
           "date": "2026-10-10T19:50:00+00:00",
           "source": "TechCrunch"
         },
@@ -397,7 +397,7 @@
           "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
           "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
           "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register…",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
           "date": "2026-10-10T15:00:00+00:00",
           "source": "TechCrunch"
         },
@@ -405,7 +405,7 @@
           "title": "Here are the top AI agents that can live in your text messages",
           "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
           "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
           "date": "2026-10-10T14:00:00+00:00",
           "source": "TechCrunch"
         },
@@ -413,7 +413,7 @@
           "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
           "link": "https://github.com/rociiu/talorys",
           "summary": "",
-          "image": null,
+          "image": "https://opengraph.githubassets.com/20ce11370e114250d90647e25e4f0327f3bc1dfb083fae23858faca82137c94c/rociiu/talorys",
           "date": "2026-10-10T10:52:09+00:00",
           "source": "Hacker News"
         }
@@ -429,7 +429,7 @@
           "title": "Two Americans win Nobel Prize in Economics for work on boom-bust cycles",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
           "summary": "Two Americans have won the Nobel Prize in Economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7794x4384+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F78%2Fddfdc1d243f09e93115d2fbd57d2%2Fgettyimages-2299286819.jpg",
           "date": "2026-10-12T08:35:16+00:00",
           "source": "NPR"
         },
@@ -437,7 +437,7 @@
           "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
           "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5262x2960+0+99/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F67%2F41db4eea4773be58f06b14e0c2f2%2Fap26284021705014.jpg",
           "date": "2026-10-11T12:04:00+00:00",
           "source": "NPR"
         },
@@ -445,7 +445,7 @@
           "title": "It's taking longer to find a new job after losing one",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
           "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+79/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fa1%2F2bc298f340b38e8dadaa0dabb377%2Fgettyimages-2297110253.jpg",
           "date": "2026-10-11T09:00:00+00:00",
           "source": "NPR"
         },
@@ -453,7 +453,7 @@
           "title": "Kalshi taps former FBI agent to fight against money laundering",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
           "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F1c%2Fdb89fe814ef380a180ae4dfac20a%2Fsean-fern-photo.jpg",
           "date": "2026-10-09T22:23:11+00:00",
           "source": "NPR"
         },
@@ -461,7 +461,7 @@
           "title": "Fired OpenAI employees question the company's commitment to safety",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
           "summary": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2Fab%2F353f227b4ed395e0c6390444a5a6%2Fgettyimages-2295203915.jpg",
           "date": "2026-10-09T21:28:09+00:00",
           "source": "NPR"
         },
@@ -469,7 +469,7 @@
           "title": "How the beverage aisle got so wild",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5991779/how-the-beverage-aisle-got-so-wild",
           "summary": "Planet Money traced many new beverage flavors to one laboratory that serves dozens of companies to see how new flavors are created and why we're seeing such an explosion of options right now.",
-          "image": null,
+          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
           "date": "2026-10-09T20:38:42+00:00",
           "source": "NPR"
         },
@@ -477,7 +477,7 @@
           "title": "Despite the controversy, data centers could be attractive to struggling rural towns",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5966615/despite-the-controversy-data-centers-could-be-attractive-to-struggling-rural-towns",
           "summary": "There's lots of debate over data centers and where they should be located. In a struggling rural town data center development can look a lot more attractive.",
-          "image": null,
+          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
           "date": "2026-10-09T20:03:15+00:00",
           "source": "NPR"
         },
@@ -485,7 +485,7 @@
           "title": "How the oil industry is preparing for Hurricane Isaias",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
           "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2Fc1%2Fe80e7e06427d888749e4131db8a2%2Fgettyimages-2298728974.jpg",
           "date": "2026-10-09T16:03:32+00:00",
           "source": "NPR"
         },
@@ -493,7 +493,7 @@
           "title": "Why American investors love European defense startups",
           "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
           "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how…",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4489x2525+0+187/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2Fd7%2F8535683b4b218688df960a0cf261%2Fgetty-image-ukraine.jpeg",
           "date": "2026-10-09T11:00:00+00:00",
           "source": "NPR"
         },
@@ -501,7 +501,7 @@
           "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
           "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5163x2904+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2Fc7%2F6cccc55c4e25a530dc16749b37cb%2Fap26272792510419.jpg",
           "date": "2026-10-09T00:25:15+00:00",
           "source": "NPR"
         }
@@ -525,7 +525,7 @@
           "title": "Scientists discover a hidden factor that can make or break chemical reactions",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
           "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/electrosynthesis-through-local-ph-control.webp",
           "date": "2026-10-12T06:24:46+00:00",
           "source": "ScienceDaily"
         },
@@ -533,7 +533,7 @@
           "title": "Scientists discover vanilla’s hidden healing potential",
           "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
           "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/aromatic-vanilla-sticks-and-flowers-on-wooden-board.webp",
           "date": "2026-10-12T04:34:24+00:00",
           "source": "ScienceDaily"
         },
@@ -541,7 +541,7 @@
           "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
           "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/happy-young-woman-waking-up-rested.webp",
           "date": "2026-10-12T00:51:31+00:00",
           "source": "ScienceDaily"
         },
@@ -549,7 +549,7 @@
           "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
           "summary": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/mushroom-farm.webp",
           "date": "2026-10-11T20:01:25+00:00",
           "source": "ScienceDaily"
         },
@@ -557,7 +557,7 @@
           "title": "The hidden math of Alzheimer's could point to new treatments",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
           "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/knowledge-education-science-technology-human-head.webp",
           "date": "2026-10-11T19:24:25+00:00",
           "source": "ScienceDaily"
         },
@@ -565,7 +565,7 @@
           "title": "Scientists make stunning discovery that could help explain why life exists",
           "link": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
           "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
           "date": "2026-10-11T16:35:58+00:00",
           "source": "ScienceDaily"
         },
@@ -573,7 +573,7 @@
           "title": "NASA spots a giant patch of Moon-like rock on Earth",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
           "summary": "An astronaut aboard the International Space Station photographed a remarkable formation in Madagascar that looks surprisingly similar to the Moon’s bright highlands. Made of anorthosite, a rock abundant on the lunar…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/moon-like-madagascar.webp",
           "date": "2026-10-11T15:30:06+00:00",
           "source": "ScienceDaily"
         },
@@ -581,7 +581,7 @@
           "title": "New injection makes fat cells self-destruct",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
           "summary": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/weight-loss-burning-fat-cells-adipose-tissue.webp",
           "date": "2026-10-11T15:08:28+00:00",
           "source": "ScienceDaily"
         },
@@ -589,7 +589,7 @@
           "title": "The eye has a hidden cleanup system scientists never knew existed",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
           "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/eye-iris-close-up.webp",
           "date": "2026-10-11T06:01:54+00:00",
           "source": "ScienceDaily"
         },
@@ -597,7 +597,7 @@
           "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
           "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks.…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp",
           "date": "2026-10-11T03:06:35+00:00",
           "source": "ScienceDaily"
         },
@@ -605,7 +605,7 @@
           "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
           "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/production-of-birch-tar.webp",
           "date": "2026-10-11T00:45:37+00:00",
           "source": "ScienceDaily"
         }
@@ -621,7 +621,7 @@
           "title": "APOD: 2026 October 12 – Jupiter and the Moons",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
           "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-12T04:05:00+00:00",
           "source": "NASA"
         },
@@ -629,7 +629,7 @@
           "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
           "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
           "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-12T04:00:00+00:00",
           "source": "NASA"
         },
@@ -637,7 +637,7 @@
           "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
           "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-11T04:05:00+00:00",
           "source": "NASA"
         },
@@ -645,7 +645,7 @@
           "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
           "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
           "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on…",
-          "image": null,
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
           "date": "2026-10-10T14:18:59+00:00",
           "source": "NASA"
         },
@@ -653,7 +653,7 @@
           "title": "APOD: 2026 October 10 – Lunar Farside",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
           "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/farside_lro1600.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-10T04:05:00+00:00",
           "source": "NASA"
         },
@@ -661,7 +661,7 @@
           "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
           "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
           "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals…",
-          "image": null,
+          "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
           "date": "2026-10-09T18:11:44+00:00",
           "source": "NASA"
         },
@@ -669,7 +669,7 @@
           "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
           "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
           "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
-          "image": null,
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
           "date": "2026-10-09T16:59:24+00:00",
           "source": "NASA"
         },
@@ -677,7 +677,7 @@
           "title": "Cosmic House of Mirrors",
           "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
           "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS…",
-          "image": null,
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
           "date": "2026-10-09T13:57:24+00:00",
           "source": "NASA"
         },
@@ -685,7 +685,7 @@
           "title": "APOD: 2026 October 9 – Stickney Crater",
           "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
           "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-09T04:05:00+00:00",
           "source": "NASA"
         },
@@ -693,7 +693,7 @@
           "title": "Floodwaters Overwhelm Thailand",
           "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
           "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
-          "image": null,
+          "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli2_20261002_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "date": "2026-10-09T04:01:00+00:00",
           "source": "NASA"
         }
@@ -709,7 +709,7 @@
           "title": "Popular weight loss drugs linked to a surprising fingernail problem",
           "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
           "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/fingernail-detachment.webp",
           "date": "2026-10-12T09:34:48+00:00",
           "source": "ScienceDaily"
         },
@@ -717,7 +717,7 @@
           "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
           "link": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
           "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
           "date": "2026-10-12T09:23:55+00:00",
           "source": "ScienceDaily"
         },
@@ -725,7 +725,7 @@
           "title": "Here's what to know if you're unsure about your measles immunity status",
           "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
           "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F03%2Fc627607e45a2a96bb711a7def771%2Fnpr-measles-109.jpg",
           "date": "2026-10-12T09:00:00+00:00",
           "source": "NPR"
         },
@@ -733,7 +733,7 @@
           "title": "Scientists discover vanilla’s hidden healing potential",
           "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
           "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/aromatic-vanilla-sticks-and-flowers-on-wooden-board.webp",
           "date": "2026-10-12T04:34:24+00:00",
           "source": "ScienceDaily"
         },
@@ -741,7 +741,7 @@
           "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
           "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/happy-young-woman-waking-up-rested.webp",
           "date": "2026-10-12T00:51:31+00:00",
           "source": "ScienceDaily"
         },
@@ -749,7 +749,7 @@
           "title": "The hidden math of Alzheimer's could point to new treatments",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
           "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/knowledge-education-science-technology-human-head.webp",
           "date": "2026-10-11T19:24:25+00:00",
           "source": "ScienceDaily"
         },
@@ -757,7 +757,7 @@
           "title": "New injection makes fat cells self-destruct",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
           "summary": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/weight-loss-burning-fat-cells-adipose-tissue.webp",
           "date": "2026-10-11T15:08:28+00:00",
           "source": "ScienceDaily"
         },
@@ -765,7 +765,7 @@
           "title": "How one antibiotic morning-after pill came to be widely available in San Francisco",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5913852/how-one-antibiotic-morning-after-pill-came-to-be-widely-available-in-san-francisco",
           "summary": "An antibiotic morning-after pill has been shown to be effective for preventing STIs among gay men, but some doctors worry about antibiotic resistance. This story discusses STIs and their symptoms.",
-          "image": null,
+          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
           "date": "2026-10-11T12:03:51+00:00",
           "source": "NPR"
         },
@@ -773,7 +773,7 @@
           "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
           "summary": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1367x769+0+71/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fee%2F536942a74e5586c426d8b455bb3e%2Fmarkoffs-gate.jpg",
           "date": "2026-10-11T12:00:00+00:00",
           "source": "NPR"
         },
@@ -781,7 +781,7 @@
           "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
           "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
           "summary": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+150/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F97%2F9a5f653442b6832c364132286e60%2Fjyoti-and-father-2.jpg",
           "date": "2026-10-11T11:28:15+00:00",
           "source": "NPR"
         },
@@ -789,7 +789,7 @@
           "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
           "summary": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6300x3544+0+254/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F3c%2F2e0513c846a39e7557ea290be8aa%2Fthe-well18.jpg",
           "date": "2026-10-11T10:00:00+00:00",
           "source": "NPR"
         },
@@ -797,7 +797,7 @@
           "title": "The eye has a hidden cleanup system scientists never knew existed",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
           "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new…",
-          "image": null,
+          "image": "https://www.sciencedaily.com/images/1920/eye-iris-close-up.webp",
           "date": "2026-10-11T06:01:54+00:00",
           "source": "ScienceDaily"
         }
@@ -917,15 +917,31 @@
           "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
           "date": "2026-10-12T00:59:01+00:00",
           "source": "TechCrunch"
+        },
+        {
+          "title": "Fingerprints are the new cookies",
+          "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "summary": "",
+          "image": null,
+          "date": "2026-10-11T22:33:39+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Passkeys are a trap",
+          "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "summary": "",
+          "image": null,
+          "date": "2026-10-11T21:59:48+00:00",
+          "source": "Hacker News"
         },
         {
           "title": "Will the HomeView be Apple’s first smart home success?",
           "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
           "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
           "date": "2026-10-11T21:14:40+00:00",
           "source": "TechCrunch"
         },
@@ -933,80 +949,64 @@
           "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
           "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
           "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/social-reckoning.jpg?resize=1200,800",
           "date": "2026-10-11T20:51:47+00:00",
           "source": "TechCrunch"
+        },
+        {
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "link": "https://twitter.com/karpathy/status/2109361546505966046",
+          "summary": "",
+          "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
+          "date": "2026-10-11T20:20:52+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Cartographers of North Korea (2019)",
+          "link": "https://cartographers-nk.wonyoung.so/",
+          "summary": "",
+          "image": "https://cartographers-nk.wonyoung.so/assets/og-img.png",
+          "date": "2026-10-11T19:46:40+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "So, you’d like to sell your print issues of The Onion?",
+          "link": "https://theonion.com/archivehunt/",
+          "summary": "",
+          "image": "https://theonion.com/wp-content/uploads/2026/10/onion-vol21-issue18-front-page.jpg",
+          "date": "2026-10-11T19:43:32+00:00",
+          "source": "Hacker News"
         },
         {
           "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
           "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
           "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
           "date": "2026-10-11T19:00:00+00:00",
           "source": "TechCrunch"
+        },
+        {
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "link": "https://nanolathe.gg",
+          "summary": "",
+          "image": null,
+          "date": "2026-10-11T18:04:47+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "NYC's \"Click to Cancel\" rule is now in effect",
+          "link": "https://www.nyc.gov/main/click-to-cancel",
+          "summary": "",
+          "image": null,
+          "date": "2026-10-11T18:01:16+00:00",
+          "source": "Hacker News"
         },
         {
           "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
-          "image": null,
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800",
           "date": "2026-10-11T17:53:37+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-          "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-          "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-          "image": null,
-          "date": "2026-10-11T16:52:33+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-          "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-          "image": null,
-          "date": "2026-10-11T16:02:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-          "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-          "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
-          "image": null,
-          "date": "2026-10-11T16:00:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-          "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-          "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
-          "image": null,
-          "date": "2026-10-11T15:00:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "What to know about the landmark Warner Bros. Discovery sale",
-          "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-          "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-          "image": null,
-          "date": "2026-10-11T14:15:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-          "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-          "image": null,
-          "date": "2026-10-11T14:00:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-          "image": null,
-          "date": "2026-10-10T21:47:51+00:00",
           "source": "TechCrunch"
         }
       ]
@@ -1017,6 +1017,22 @@
       "blurb": "Investing, savings and markets for individuals",
       "core": false,
       "items": [
+        {
+          "title": "Small-cap, mid-cap fund inflows jump 13% in September. Are investors chasing returns? What SIP investors should do",
+          "link": "https://www.livemint.com/money/personal-finance/smallcap-mid-cap-fund-inflows-jump-12-in-september-are-investors-chasing-returns-what-sip-investors-should-do-11791803347205.html",
+          "summary": "Small-cap and mid-cap funds attracted ₹16,873 crore in September, up 12.8% from August. Experts say inflows reflect long-term growth expectations and SIP participation, but investors should avoid chasing past returns…",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/Gemini_Generted_Image_njtwksnjtwksnjtw_17918036_1791803683071_X2Ll_1791803683217_fg2n_67860535-b3f5-4f51-95cd-72cc485a959e_w1PN.png",
+          "date": "2026-10-12T11:21:59+00:00",
+          "source": "Mint"
+        },
+        {
+          "title": "Tenant to pay Rs 24 lakh for unauthorised stay after failing to prove landlords sought eviction without returning Rs 10 lakh security amount: Delhi HC order",
+          "link": "https://economictimes.indiatimes.com/wealth/legal/will/tenant-to-pay-rs-24-lakh-for-unauthorised-stay-after-failing-to-prove-landlords-sought-eviction-without-returning-rs-10-lakh-security-amount-delhi-hc-order/articleshow/134890388.cms",
+          "summary": "Tenant ordered to pay Rs 24 lakh for unauthorised stay after failing to prove landlords wanted to evict without giving back Rs 10 lakh security amount; Delhi HC order explained.",
+          "image": "https://img.etimg.com/photo/msid-134890388,imgsize-151604.cms",
+          "date": "2026-10-12T11:18:59+00:00",
+          "source": "Economic Times"
+        },
         {
           "title": "Can a paternal uncle claim your father’s property? Understanding inheritance laws in India",
           "link": "https://www.livemint.com/money/personal-finance/can-a-paternal-uncle-claim-your-father-s-property-understanding-inheritance-laws-in-india-11791799282390.html",
@@ -1096,22 +1112,6 @@
           "image": "https://img.etimg.com/photo/msid-134887121,imgsize-160894.cms",
           "date": "2026-10-12T09:29:14+00:00",
           "source": "Economic Times"
-        },
-        {
-          "title": "NPS Swasthya top-up benefit explained: How much cover do you get under Aditya Birla Health Insurance plan?",
-          "link": "https://www.livemint.com/money/personal-finance/nps-swasthya-top-up-benefit-explained-family-floater-cover-1-30-lakh-aditya-birla-health-insurance-50k-3-lakh-deductible-11791790744471.html",
-          "summary": "Aditya Birla Health Insurance has partnered with PFRDA to launch NPS Swasthya coverage through its Group Activ Health plan. Eligible NPS account holders can cover themselves, a spouse and up to two dependent children.",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/Gemini_enerated_Image_xnang0xnang0xnan_17898733_17_1791794176088_XNmn_1791794176238_zghv_163beeee-9cd0-49cc-9c79-ff24ecb28979_AOd2.png",
-          "date": "2026-10-12T08:58:20+00:00",
-          "source": "Mint"
-        },
-        {
-          "title": "Has government imposed 5% GST on e-commerce delivery services ahead of Diwali? Income Tax Dept says this",
-          "link": "https://economictimes.indiatimes.com/wealth/save/has-government-imposed-5-gst-on-e-commerce-delivery-services-ahead-of-diwali-income-tax-dept-says-this/articleshow/134887613.cms",
-          "summary": "Recent speculation on social media suggests that a new GST has been introduced for e-commerce delivery services. However, the Press Information Bureau has clarified that instead, the GST rate has been lowered from 18%…",
-          "image": "https://img.etimg.com/photo/msid-134887613,imgsize-1363417.cms",
-          "date": "2026-10-12T08:57:23+00:00",
-          "source": "Economic Times"
         }
       ]
     },
@@ -1141,7 +1141,7 @@
           "title": "In New Mexico, a river runs through ‘the middle of a hellscape’",
           "link": "https://grist.org/accountability/new-mexico-oil-and-gas-wells-threaten-beautiful-river-in-the-middle-of-a-hellscape/",
           "summary": "As climate change dries the state, the Pecos faces a growing threat as it runs through the Permian Basin oilfield.",
-          "image": null,
+          "image": "https://grist.org/wp-content/uploads/2026/10/pecosriver-1.jpg",
           "date": "2026-10-11T13:00:00+00:00",
           "source": "Grist"
         },
@@ -1205,7 +1205,7 @@
           "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
           "link": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
           "summary": "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought. The country is trying to restore its native forests through one of the world’s most ambitious and well-funded tree-planting…",
-          "image": null,
+          "image": "https://grist.org/wp-content/uploads/2026/10/Ethiopiaplanting.jpg",
           "date": "2026-10-10T13:00:00+00:00",
           "source": "Grist"
         },
@@ -1261,7 +1261,7 @@
           "title": "Mahershala Ali is still hungry as an actor: 'Let's fail on camera until we find it'",
           "link": "https://www.npr.org/2026/10/12/nx-s1-5996551/mahershala-ali-your-mother",
           "summary": "Ali plays a devout Muslim family man, who also happens to be an assassin in Your Mother Your Mother Your Mother. After decades in the business and two Oscars, he says he has less fear as an actor.",
-          "image": null,
+          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
           "date": "2026-10-12T09:00:00+00:00",
           "source": "NPR"
         },
@@ -1269,7 +1269,7 @@
           "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
           "summary": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1367x769+0+71/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fee%2F536942a74e5586c426d8b455bb3e%2Fmarkoffs-gate.jpg",
           "date": "2026-10-11T12:00:00+00:00",
           "source": "NPR"
         },
@@ -1277,7 +1277,7 @@
           "title": "Sunday Puzzle: Back to school",
           "link": "https://www.npr.org/2026/10/11/g-s1-147131/sunday-puzzle-back-to-school",
           "summary": "NPR's Ayesha Rascoe plays the puzzle along with Weekend Edition Puzzlemaster Will Shortz and LAist listener Bill Etienne of Laguna Niguel, California.",
-          "image": null,
+          "image": "https://media.npr.org/assets/img/2020/10/10/sundaypuzzle-widecrop_wide-933bc5b683895f01fdfbecc1e1894b38c1b7c049.jpg?s=1400&c=85&f=jpeg",
           "date": "2026-10-11T11:55:05+00:00",
           "source": "NPR"
         },
@@ -1285,7 +1285,7 @@
           "title": "The Kennedy Center names new artistic director, amid concerns",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
           "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8101x4557+0+422/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F3b%2F9e69e9c54a8abaf6460c597bf61b%2Fgettyimages-2297491934.jpg",
           "date": "2026-10-10T18:17:12+00:00",
           "source": "NPR"
         },
@@ -1293,7 +1293,7 @@
           "title": "'Wait Wait' for October 10, 2026: With Not My Job guest Margo Price",
           "link": "https://www.npr.org/2026/10/10/g-s1-147573/wait-wait-for-october-10-2026-with-not-my-job-guest-margo-price",
           "summary": "This week, Wait Wait is live in Chicago with guest host Negin Farsad, special guest Margo Price and panelists Joyelle Nicole Johnson, Katie Nolan, and Mo Rocca",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Fe3%2F0c918c3941aea2fb3841984aef77%2Fwait-wait-template-1.jpg",
           "date": "2026-10-10T16:30:00+00:00",
           "source": "NPR"
         },
@@ -1301,7 +1301,7 @@
           "title": "16 cozy activities to add to your fall bucket list",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
           "summary": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F9e%2F68995f5746ce8ae1e4caa775343a%2Fcozy-illustration-16-9.jpg",
           "date": "2026-10-10T09:00:00+00:00",
           "source": "NPR"
         },
@@ -1309,7 +1309,7 @@
           "title": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
           "summary": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5819x3271+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fe6%2Fcc4894c441a99b6eaae0eb7549cf%2Fgettyimages-488958535.jpg",
           "date": "2026-10-10T09:00:00+00:00",
           "source": "NPR"
         },
@@ -1325,7 +1325,7 @@
           "title": "Latest in the 'Divergent' universe finds a different Tris",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5991459/divergent-sixth-faction-review",
           "summary": "Veronica Roth's latest, The Sixth Faction, takes us back to the beginning, where Beatrice Prior has a choice to make. This time, she chooses another path.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/993x559+0+471/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F02%2F3b2850a940dfb7c64eb4c21440be%2Froth.jpg",
           "date": "2026-10-09T19:21:06+00:00",
           "source": "NPR"
         },
@@ -1341,7 +1341,7 @@
           "title": "Five children are taken from their parents in 'Fjord,' which won top prize at Cannes",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996489/fjord-review-cristian-mungiu",
           "summary": "Cristian Mungiu's latest film takes place in a small Norwegian town, where a recently arrived couple stands accused of abusing their children — but in Fjord , the truth is never quite clear.",
-          "image": null,
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1216x683+190+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F3c%2Fb7cc21934cb9b816728b1dec7faa%2Ffjord.png",
           "date": "2026-10-09T16:26:23+00:00",
           "source": "NPR"
         },
