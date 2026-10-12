@@ -1,6 +1,6 @@
-// App shell is cached for offline use; the digest is fetched fresh when online
-// and falls back to the last copy when offline.
-const CACHE = "brief-v1";
+// Pages from this site and the digest are fetched fresh when online (so app updates
+// arrive), with the cached copy used offline. Fonts and icons are cache-first.
+const CACHE = "brief-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -18,7 +18,8 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET") return;
-  if (url.origin === location.origin && url.pathname.endsWith("digest.json")) {
+  const fresh = url.origin === location.origin && (e.request.mode === "navigate" || /(\/|\.html|\.json|\.webmanifest)$/.test(url.pathname));
+  if (fresh) {
     e.respondWith(
       fetch(e.request)
         .then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); return res; })
