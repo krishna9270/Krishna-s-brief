@@ -2,162 +2,138 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="icon" href="icons/icon-192.png">
-<meta name="theme-color" content="#14213D">
+<meta name="theme-color" content="#0B0E14">
+<meta name="color-scheme" content="dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Brief">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
-/* Layout: one narrow reading column, masthead then sticky section tabs then stories; built for a phone held in one hand. */
+/* Layout: one phone-width column. Greeting, sticky topic chips, then per topic a big photo card followed by compact photo rows. Dark by choice. */
 :root {
-  --paper: #EEF1F5;
-  --sheet: #F8FAFC;
-  --ink: #14213D;
-  --muted: #5A6478;
-  --rule: #D2D8E2;
-  --accent: #E3A21A;
-  --accent-ink: #8F5A00;
-  --read: #8D96A8;
-  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
-  --body: "Literata", Georgia, "Times New Roman", serif;
-  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper: #0E1420; --sheet: #151D2D; --ink: #E7ECF4; --muted: #9AA4B8;
-    --rule: #26314A; --accent: #F2B544; --accent-ink: #F2B544; --read: #667089;
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --paper: #0E1420; --sheet: #151D2D; --ink: #E7ECF4; --muted: #9AA4B8;
-  --rule: #26314A; --accent: #F2B544; --accent-ink: #F2B544; --read: #667089;
+  --bg: #0B0E14;
+  --surface: #161B26;
+  --surface-2: #1E2431;
+  --fg: #EEF1F6;
+  --muted: #A3ABBD;
+  --faint: #6F778B;
+  --rule: #232A38;
+  --accent: #F5C451;
+  --on-accent: #14110A;
+  --ui: "Manrope", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
   color-scheme: dark;
 }
-
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-body {
-  margin: 0;
-  background: var(--paper);
-  color: var(--ink);
-  font: 400 1.0625rem/1.55 var(--body);
-  -webkit-font-smoothing: antialiased;
-}
+html { background: var(--bg); }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 500 1rem/1.5 var(--ui); -webkit-font-smoothing: antialiased; }
 .wrap { max-width: 40rem; margin: 0 auto; padding-inline: 16px; }
-a { color: inherit; }
+a { color: inherit; text-decoration: none; }
 button { font: inherit; color: inherit; }
-:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 8px; }
+.mono { font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--faint); }
 
-.mono { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+/* Greeting */
+.mast { padding-block: 18px 14px; display: grid; gap: 6px; }
+.mast-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.brand { font: 800 0.9375rem var(--ui); letter-spacing: -0.01em; }
+.brand span { color: var(--accent); }
+.mast h1 { margin: 10px 0 0; font: 800 clamp(1.9rem, 8.5vw, 2.5rem)/1.05 var(--ui); letter-spacing: -0.035em; text-wrap: balance; }
+.progress { display: grid; gap: 6px; margin-top: 8px; }
+.bar { height: 5px; border-radius: 3px; background: var(--surface-2); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 3px; transition: width .4s ease; }
+.pill-btn { border: 0; background: var(--surface); border-radius: 999px; padding: 7px 14px; cursor: pointer; font-weight: 700; font-size: 0.8125rem; color: var(--muted); }
 
-/* Masthead */
-.mast { padding-block: 28px 18px; display: grid; gap: 10px; }
-.mast-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-.mast h1 {
-  margin: 0;
-  font: 800 clamp(2.4rem, 11vw, 3.6rem)/0.95 var(--display);
-  letter-spacing: -0.035em;
-  text-wrap: balance;
-}
-.mast h1 span { color: var(--accent); }
-.greet { margin: 0; font-size: 1.125rem; color: var(--muted); }
-.progress { display: grid; gap: 6px; margin-top: 6px; }
-.bar { height: 6px; border-radius: 3px; background: var(--rule); overflow: hidden; }
-.bar i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .4s ease; }
-.icon-btn {
-  border: 1px solid var(--rule); background: var(--sheet); border-radius: 999px;
-  padding: 6px 12px; cursor: pointer; font-family: var(--mono); font-size: 0.75rem;
-  letter-spacing: 0.06em; text-transform: uppercase;
-}
-
-/* Section tabs */
-.tabs {
-  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
-  background: var(--paper); border-bottom: 1px solid var(--rule);
-}
+/* Topic chips */
+.tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
 .tabs .wrap { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px; scrollbar-width: none; }
-.tab {
-  flex: none; border: 1px solid var(--rule); background: transparent; border-radius: 999px;
-  padding: 6px 14px; cursor: pointer; font: 600 0.9375rem var(--display);
-  display: inline-flex; gap: 8px; align-items: center;
-}
-.tab[aria-selected="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.tabs .wrap::-webkit-scrollbar { display: none; }
+.tab { flex: none; border: 0; background: var(--surface); color: var(--muted); border-radius: 999px; padding: 7px 13px; cursor: pointer; font-weight: 700; font-size: 0.8125rem; display: inline-flex; gap: 6px; align-items: center; }
+.tab[aria-selected="true"] { background: var(--accent); color: var(--on-accent); }
 .tab small { font: 500 0.6875rem var(--mono); opacity: 0.7; font-variant-numeric: tabular-nums; }
 
 /* Install hint */
-.install {
-  margin-top: 16px; padding: 12px 14px; border-radius: 12px; background: var(--sheet);
-  border: 1px dashed var(--accent); display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap;
-  font-size: 0.9375rem;
-}
+.install { margin-top: 12px; padding: 12px 14px; border-radius: 16px; background: var(--surface); display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap; font-size: 0.875rem; color: var(--muted); }
 
-/* Stories */
-main { padding-block: 8px 48px; }
-.sec-head { padding-block: 22px 4px; display: grid; gap: 2px; }
-.sec-head h2 { margin: 0; font: 800 1.75rem/1.1 var(--display); letter-spacing: -0.02em; }
-.sec-head p { margin: 0; color: var(--muted); font-size: 0.9375rem; }
-.story { padding-block: 18px; border-bottom: 1px solid var(--rule); display: grid; gap: 6px; }
-.story:last-child { border-bottom: 0; }
-.kicker { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-.kicker .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
-.story h3 { margin: 0; font: 600 1.25rem/1.25 var(--display); letter-spacing: -0.01em; text-wrap: balance; }
-.story h3 a { text-decoration: none; }
+/* Sections */
+main { padding-block: 4px 40px; display: grid; gap: 8px; }
+section { display: grid; gap: 10px; }
+.sec-head { padding-block: 18px 2px; display: grid; gap: 2px; }
+.sec-head h2 { margin: 0; font: 800 1.375rem/1.15 var(--ui); letter-spacing: -0.02em; }
+.sec-head p { margin: 0; color: var(--faint); font-size: 0.8125rem; }
+
+/* Generated art: shows behind every photo and stands in when a story has none */
+.art { position: relative; overflow: hidden; display: block;
+  background: radial-gradient(circle at 28% 30%, hsl(var(--h) 85% 62%), hsl(var(--h) 70% 32%) 58%, hsl(var(--h) 60% 12%)); }
+.art::after { content: ""; position: absolute; inset: 0; background: radial-gradient(rgba(255,255,255,.28) 1.2px, transparent 1.6px) 0 0 / 14px 14px; }
+.art img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; background: var(--surface-2); }
+
+/* Cards */
+.story { background: var(--surface); border-radius: 20px; overflow: hidden; }
+.story h3 { margin: 0; font-weight: 800; letter-spacing: -0.01em; text-wrap: pretty; }
 .story h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
-.story p { margin: 0; color: var(--muted); }
-.story .row { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
-.save {
-  border: 0; background: none; cursor: pointer; padding: 4px 0;
-  font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
-}
-.save[aria-pressed="true"] { color: var(--accent-ink); }
-.story.is-read h3, .story.is-read p { color: var(--read); }
-.story.is-read .kicker .dot { background: var(--rule); }
-.empty { padding-block: 40px; text-align: center; color: var(--muted); }
-.done { margin-top: 28px; padding: 18px; border-radius: 14px; background: var(--sheet); text-align: center; }
-.done strong { font: 800 1.25rem var(--display); display: block; color: var(--ink); }
+.meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 0.75rem; font-weight: 700; color: var(--faint); }
+.why { color: var(--accent); }
+.acts { display: flex; gap: 14px; justify-content: flex-end; }
+.save, .less { border: 0; background: none; cursor: pointer; padding: 4px 0; font-size: 0.75rem; font-weight: 700; color: var(--faint); }
+.save[aria-pressed="true"] { color: var(--accent); }
 
-/* Settings */
-.panel { margin-top: 14px; padding: 16px; border-radius: 14px; background: var(--sheet); border: 1px solid var(--rule); display: grid; gap: 12px; }
-.panel h2 { margin: 0; font: 800 1.125rem var(--display); }
-.toggle { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
-.toggle input { width: 20px; height: 20px; accent-color: var(--ink); }
-.panel .hint { margin: 0; font-size: 0.875rem; color: var(--muted); }
+.hero .cover { aspect-ratio: 16 / 9; max-width: 100%; }
+.hero .tag { position: absolute; left: 12px; top: 12px; z-index: 2; background: rgba(8,10,15,.72); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); color: #fff; font-size: 0.6875rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; padding: 5px 10px; border-radius: 999px; }
+.hero .body { padding: 14px 16px 12px; display: grid; gap: 8px; }
+.hero h3 { font-size: 1.1875rem; line-height: 1.25; }
+.hero p { margin: 0; color: var(--muted); font-size: 0.875rem; line-height: 1.5; }
+
+.row { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 12px; padding: 10px; border-radius: 18px; align-items: start; }
+.row .thumb { width: 76px; height: 76px; border-radius: 14px; }
+.row .body { display: grid; gap: 4px; min-width: 0; }
+.row h3 { font-size: 0.9375rem; line-height: 1.3; }
+.row .acts { justify-content: flex-start; }
+
+.story.is-read h3, .story.is-read p { color: var(--faint); }
+.story.is-read .art { opacity: 0.55; }
+
+.empty { padding-block: 32px; text-align: center; color: var(--faint); }
+.done { margin-top: 18px; padding: 18px; border-radius: 18px; background: var(--surface); text-align: center; color: var(--muted); }
+.done strong { font: 800 1.25rem var(--ui); display: block; color: var(--fg); }
+
+/* Topics panel */
+.panel { margin-top: 12px; padding: 16px; border-radius: 20px; background: var(--surface); display: grid; gap: 12px; }
+.panel h2 { margin: 0; font: 800 1.125rem var(--ui); }
+.toggle { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding-block: 2px; }
+.toggle small { font: 500 0.625rem var(--mono); color: var(--faint); letter-spacing: 0.06em; text-transform: uppercase; }
+.toggle input { width: 20px; height: 20px; accent-color: var(--accent); }
+.hint { margin: 0; font-size: 0.8125rem; color: var(--faint); }
 .panel .actions { display: flex; gap: 8px; flex-wrap: wrap; }
-footer { padding-block: 0 40px; }
-
-
-/* Personalisation */
-.why { font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); }
-.actions-row { display: flex; gap: 16px; align-items: center; }
-.less { border: 0; background: none; cursor: pointer; padding: 4px 0; font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 .taste { display: grid; gap: 8px; }
-.taste h3 { margin: 6px 0 0; font: 600 0.9375rem var(--display); }
-.taste-row { display: grid; grid-template-columns: 8.5rem 1fr 2.5rem; gap: 10px; align-items: center; font-size: 0.875rem; }
-.taste-row .bar { height: 8px; }
-.taste-row span:last-child { font-family: var(--mono); font-size: 0.75rem; text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+.taste h3 { margin: 6px 0 0; font: 800 0.9375rem var(--ui); }
+.taste-row { display: grid; grid-template-columns: 8.5rem 1fr 2.5rem; gap: 10px; align-items: center; font-size: 0.8125rem; color: var(--muted); }
+.taste-row .bar { height: 6px; }
+.taste-row span:last-child { font-family: var(--mono); font-size: 0.75rem; text-align: right; font-variant-numeric: tabular-nums; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { font-family: var(--mono); font-size: 0.75rem; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--rule); }
+.chip { font-size: 0.75rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
+footer { padding-block: 0 32px; }
 
 @media (prefers-reduced-motion: reduce) { .bar i { transition: none; } }
 </style>
 
 <header class="wrap mast">
   <div class="mast-top">
-    <span class="mono" id="issue-line">Today's edition</span>
-    <button class="icon-btn" id="settings-btn" aria-expanded="false" aria-controls="settings">Topics</button>
+    <span class="brand" id="title">The Krishna Brief<span>.</span></span>
+    <button class="pill-btn" id="settings-btn" aria-expanded="false" aria-controls="settings">Topics</button>
   </div>
-  <h1 id="title">The Krishna Brief<span>.</span></h1>
-  <p class="greet" id="greet">Good morning, Krishna.</p>
+  <span class="mono" id="issue-line">Today's edition</span>
+  <h1 id="greet">Good morning, Krishna</h1>
   <div class="progress">
     <div class="bar" aria-hidden="true"><i id="bar"></i></div>
     <span class="mono" id="progress-label">0 read</span>
   </div>
   <div class="install" id="install" hidden>
     <span id="install-text">Add the Brief to your home screen for one-tap reading.</span>
-    <button class="icon-btn" id="install-btn" hidden>Install</button>
+    <button class="pill-btn" id="install-btn" hidden>Install</button>
   </div>
   <section class="panel" id="settings" hidden aria-label="Topics">
     <h2>Your topics</h2>
@@ -165,8 +141,8 @@ footer { padding-block: 0 40px; }
     <div class="taste" id="taste"></div>
     <p class="hint">Your reading history stays on this phone. The Brief learns from what you open: topics you read more get more stories and move up, and topics you skip shrink.</p>
     <div class="actions">
-      <button class="icon-btn" id="reset-read">Mark all unread</button>
-      <button class="icon-btn" id="reset-taste">Forget my reading history</button>
+      <button class="pill-btn" id="reset-read">Mark all unread</button>
+      <button class="pill-btn" id="reset-taste">Forget my reading history</button>
     </div>
   </section>
 </header>
@@ -311,7 +287,7 @@ footer { padding-block: 0 40px; }
     const issue = Math.max(1, Math.floor((Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) - FIRST_ISSUE) / 86400000) + 1);
     const day = date.toLocaleDateString(undefined, { weekday: "long", day: "numeric", month: "long" });
     $("issue-line").textContent = `No. ${issue} · ${day}`;
-    $("greet").textContent = greeting(digest.reader);
+    $("greet").textContent = greeting(digest.reader).replace(/\.$/, "");
     document.title = digest.title;
     $("title").innerHTML = `${esc(digest.title)}<span>.</span>`;
     const gen = new Date(digest.generated);
@@ -335,25 +311,55 @@ footer { padding-block: 0 40px; }
     ).join("");
   }
 
-  function storyHTML(item, why) {
+  const HUES = { geopolitics: 215, "india-business": 150, "tamil-nadu": 18, ai: 265, business: 190, discover: 330 };
+  function hue(id) {
+    if (id in HUES) return HUES[id];
+    let h = 0;
+    for (const c of String(id)) h = (h * 31 + c.charCodeAt(0)) % 360;
+    return h;
+  }
+
+  function artHTML(item, cls, extra = "") {
+    const img = item.image ? `<img src="${esc(item.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : "";
+    return `<a class="art ${cls}" style="--h:${hue(item.section)}" href="${esc(item.link)}" target="_blank" rel="noopener" data-link="${esc(item.link)}" tabindex="-1" aria-hidden="true">${img}${extra}</a>`;
+  }
+
+  function actsHTML(item) {
     const isSaved = Boolean(saved[item.link]);
-    return `<article class="story${read.has(item.link) ? " is-read" : ""}">
-      <div class="kicker"><span class="dot"></span><span class="mono">${esc(item.source)}${item.date ? " · " + ago(item.date) : ""}</span>${why ? `<span class="why">${esc(why)}</span>` : ""}</div>
-      <h3><a href="${esc(item.link)}" target="_blank" rel="noopener" data-link="${esc(item.link)}">${esc(item.title)}</a></h3>
-      ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}
-      <div class="row"><span></span><div class="actions-row">
-        ${active === "saved" ? "" : `<button class="less" data-less="${esc(item.link)}">Show less like this</button>`}
-        <button class="save" data-save="${esc(item.link)}" aria-pressed="${isSaved}">${isSaved ? "★ Saved" : "☆ Save"}</button>
-      </div></div>
+    return `<div class="acts">
+      ${active === "saved" ? "" : `<button class="less" data-less="${esc(item.link)}">Less like this</button>`}
+      <button class="save" data-save="${esc(item.link)}" aria-pressed="${isSaved}">${isSaved ? "★ Saved" : "☆ Save"}</button>
+    </div>`;
+  }
+
+  function storyHTML(item, why, lead, sectionName) {
+    const meta = `<div class="meta"><span>${esc(item.source)}</span>${item.date ? `<span>· ${ago(item.date)}</span>` : ""}${why && !lead ? `<span class="why">· ${esc(why)}</span>` : ""}</div>`;
+    const title = `<h3><a href="${esc(item.link)}" target="_blank" rel="noopener" data-link="${esc(item.link)}">${esc(item.title)}</a></h3>`;
+    const readCls = read.has(item.link) ? " is-read" : "";
+    if (lead) {
+      return `<article class="story hero${readCls}">
+        ${artHTML(item, "cover", `<span class="tag">${esc(why || sectionName)}</span>`)}
+        <div class="body">${title}${item.summary ? `<p>${esc(item.summary)}</p>` : ""}${meta}${actsHTML(item)}</div>
+      </article>`;
+    }
+    return `<article class="story row${readCls}">
+      ${artHTML(item, "thumb")}
+      <div class="body">${title}${meta}${actsHTML(item)}</div>
     </article>`;
   }
 
   function sectionHTML(s, whyFor) {
+    // Lead with a story that has a photo when one of the top three does.
+    const withPhoto = s.items.slice(0, 3).findIndex((i) => i.image);
+    if (withPhoto > 0) s = { ...s, items: [s.items[withPhoto], ...s.items.filter((_, n) => n !== withPhoto)] };
     return `<section aria-labelledby="h-${s.id}">
       <div class="sec-head"><h2 id="h-${s.id}">${esc(s.name)}</h2>${s.blurb ? `<p>${esc(s.blurb)}</p>` : ""}</div>
-      ${s.items.length ? s.items.map((i) => storyHTML(i, whyFor && whyFor(i))).join("") : `<p class="empty">No stories in this section today.</p>`}
+      ${s.items.length ? s.items.map((i, n) => storyHTML(i, whyFor && whyFor(i), n === 0, s.name)).join("") : `<p class="empty">No stories in this section today.</p>`}
     </section>`;
   }
+
+  // A photo that fails to load is removed, leaving the generated art behind it.
+  document.addEventListener("error", (e) => { if (e.target.tagName === "IMG" && e.target.closest(".art")) e.target.remove(); }, true);
 
   const topicOf = (i) => (digest.sections.find((s) => s.id === i.section) || {}).name;
 

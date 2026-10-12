@@ -1,6 +1,6 @@
 // Pages from this site and the digest are fetched fresh when online (so app updates
 // arrive), with the cached copy used offline. Fonts and icons are cache-first.
-const CACHE = "brief-v4";
+const CACHE = "brief-v5";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {

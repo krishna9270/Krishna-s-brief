@@ -10,6 +10,7 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -124,6 +125,34 @@ def is_crime(item, words):
     return any(re.search(rf"\b{re.escape(w)}\b", text) for w in words)
 
 
+OG_IMAGE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\'][^>]*content=["\']([^"\']+)'
+    r'|<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)',
+    re.I,
+)
+
+
+def page_image(url):
+    """The share image an article page advertises (og:image), or None."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            head = resp.read(300_000).decode("utf-8", "ignore")
+    except Exception:
+        return None
+    m = OG_IMAGE.search(head)
+    found = m and (m.group(1) or m.group(2))
+    return html.unescape(found) if found and found.startswith("http") else None
+
+
+def fill_images(sections):
+    missing = [i for s in sections for i in s["items"] if not i.get("image")]
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        for item, image in zip(missing, pool.map(lambda i: page_image(i["link"]), missing)):
+            item["image"] = image
+    print(f"found photos for {sum(1 for i in missing if i['image'])} of {len(missing)} stories without one")
+
+
 def main():
     config = json.loads((HERE / "feeds.json").read_text())
     per_section = config.get("itemsPerSection", 5)
@@ -156,6 +185,7 @@ def main():
                 break
         sections.append({k: section[k] for k in ("id", "name", "blurb")} | {"core": section.get("core", True), "items": picked})
 
+    fill_images(sections)
     digest = {
         "title": config.get("title", "My Daily Brief"),
         "reader": config.get("reader", ""),
