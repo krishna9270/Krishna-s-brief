@@ -116,7 +116,7 @@ def main():
             picked.append(item)
             if len(picked) == per_section:
                 break
-        sections.append({k: section[k] for k in ("id", "name", "blurb")} | {"items": picked})
+        sections.append({k: section[k] for k in ("id", "name", "blurb")} | {"core": section.get("core", True), "items": picked})
 
     digest = {
         "title": config.get("title", "My Daily Brief"),

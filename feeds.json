@@ -3,9 +3,30 @@
   "reader": "Krishna",
   "itemsPerSection": 12,
   "skipWords": [
-    "murder", "murdered", "murders", "killed his wife", "killed her husband", "affair", "illicit", "rape", "raped",
-    "molest", "molested", "stabbed", "hacked to death", "body found", "bodies found", "suicide", "dowry",
-    "honour killing", "eloped", "sexual assault", "pocso", "gang-raped", "chain snatching", "lover"
+    "murder",
+    "murdered",
+    "murders",
+    "killed his wife",
+    "killed her husband",
+    "affair",
+    "illicit",
+    "rape",
+    "raped",
+    "molest",
+    "molested",
+    "stabbed",
+    "hacked to death",
+    "body found",
+    "bodies found",
+    "suicide",
+    "dowry",
+    "honour killing",
+    "eloped",
+    "sexual assault",
+    "pocso",
+    "gang-raped",
+    "chain snatching",
+    "lover"
   ],
   "sections": [
     {
@@ -17,7 +38,8 @@
         "https://feeds.npr.org/1004/rss.xml",
         "https://thediplomat.com/feed/",
         "https://foreignpolicy.com/feed/"
-      ]
+      ],
+      "core": true
     },
     {
       "id": "india-business",
@@ -28,7 +50,8 @@
         "https://www.business-standard.com/rss/economy-102.rss",
         "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
       ],
-      "filterCrime": true
+      "filterCrime": true,
+      "core": true
     },
     {
       "id": "tamil-nadu",
@@ -36,9 +59,13 @@
       "blurb": "Civic, political and development news from TN, crime stories left out",
       "feeds": [
         "https://www.thehindu.com/news/national/tamil-nadu/feeder/default.rss",
-        { "url": "https://www.dtnext.in/feed", "match": "/(tamilnadu|chennai)/" }
+        {
+          "url": "https://www.dtnext.in/feed",
+          "match": "/(tamilnadu|chennai)/"
+        }
       ],
-      "filterCrime": true
+      "filterCrime": true,
+      "core": true
     },
     {
       "id": "ai",
@@ -47,13 +74,108 @@
       "feeds": [
         "https://techcrunch.com/category/artificial-intelligence/feed/",
         "https://hnrss.org/newest?q=AI+OR+LLM&points=150"
-      ]
+      ],
+      "core": true
     },
     {
       "id": "business",
       "name": "Global business",
       "blurb": "Money, markets and companies worldwide",
-      "feeds": ["https://feeds.npr.org/1006/rss.xml"]
+      "feeds": [
+        "https://feeds.npr.org/1006/rss.xml"
+      ],
+      "core": true
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "blurb": "Discoveries and research",
+      "core": false,
+      "feeds": [
+        "https://www.sciencedaily.com/rss/top/science.xml",
+        "https://www.newscientist.com/feed/home/"
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "blurb": "Missions, launches and the night sky",
+      "core": false,
+      "feeds": [
+        "https://www.space.com/feeds/all",
+        "https://www.nasa.gov/news-release/feed/"
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "blurb": "Medicine, fitness and wellbeing",
+      "core": false,
+      "feeds": [
+        "https://feeds.npr.org/1128/rss.xml",
+        "https://www.sciencedaily.com/rss/health_medicine.xml"
+      ]
+    },
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "blurb": "Matches, series and players",
+      "core": false,
+      "feeds": [
+        "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+      ]
+    },
+    {
+      "id": "startups",
+      "name": "Startups & tech",
+      "blurb": "New companies, gadgets and products",
+      "core": false,
+      "feeds": [
+        "https://techcrunch.com/feed/",
+        "https://hnrss.org/frontpage?points=200"
+      ]
+    },
+    {
+      "id": "money",
+      "name": "Personal finance",
+      "blurb": "Investing, savings and markets for individuals",
+      "core": false,
+      "feeds": [
+        "https://www.livemint.com/rss/money",
+        "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms"
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate",
+      "blurb": "Energy, weather and the environment",
+      "core": false,
+      "feeds": [
+        "https://www.theguardian.com/environment/rss",
+        "https://grist.org/feed/"
+      ]
+    },
+    {
+      "id": "cinema",
+      "name": "Tamil cinema",
+      "blurb": "Films, releases and stars",
+      "core": false,
+      "feeds": [
+        {
+          "url": "https://www.dtnext.in/feed",
+          "match": "/entertainment/"
+        }
+      ]
+    },
+    {
+      "id": "curious",
+      "name": "Curiosities",
+      "blurb": "Odd places, history and culture",
+      "core": false,
+      "feeds": [
+        "https://www.atlasobscura.com/feeds/latest",
+        "https://feeds.npr.org/1008/rss.xml"
+      ]
     }
   ]
 }

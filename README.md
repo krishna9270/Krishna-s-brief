@@ -26,3 +26,8 @@ Every story you open is counted on your phone (local storage, never uploaded). A
 reorders topics by how often you read them, gives topics you read more stories (up to 12) and topics you
 skip fewer (down to 3), sorts stories by the words you click most, and adds a "For you" section. "Show less like this" pushes similar stories down. Open Topics to see
 what it has learned, or wipe it.
+
+## Discover
+Topics marked `"core": false` in feeds.json (science, space, health, cricket, startups, personal finance,
+climate, Tamil cinema, curiosities) start out as one story each in a rotating Discover section. Open two
+stories from one of them and it becomes a full section, sized by how much you read it.
