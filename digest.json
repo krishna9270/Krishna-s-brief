@@ -1,20 +1,13 @@
 {
   "title": "The Krishna Brief",
   "reader": "Krishna",
-  "generated": "2026-10-12T10:55:43+00:00",
+  "generated": "2026-10-12T10:58:14+00:00",
   "sections": [
     {
       "id": "geopolitics",
       "name": "Geopolitics",
       "blurb": "Power, conflict and diplomacy around the world",
       "items": [
-        {
-          "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
-          "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
-          "summary": "The EU also announced that it officially added almost 1,600 new sanctions on Russia's military industrial complex.",
-          "date": "2026-10-12T10:35:51+00:00",
-          "source": "Al Jazeera – Breaking News, World News…"
-        },
         {
           "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
           "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
@@ -49,6 +42,13 @@
           "summary": "A year into a 'ceasefire', Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
           "date": "2026-10-12T09:27:12+00:00",
           "source": "Al Jazeera – Breaking News, World News…"
+        },
+        {
+          "title": "From Xinjiang to the Front Lines of Syria",
+          "link": "https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/",
+          "summary": "How Uyghur militants were dragged into civil war.",
+          "date": "2026-10-12T09:00:23+00:00",
+          "source": "Foreign Policy"
         }
       ]
     },
@@ -63,13 +63,6 @@
           "summary": "Retail inflation rises to 5.54% in Sep as food inflation zooms to 7.74%",
           "date": "2026-10-12T10:47:50+00:00",
           "source": "Economy"
-        },
-        {
-          "title": "Tax notice for getting salary in NRE bank a/c",
-          "link": "https://economictimes.indiatimes.com/wealth/legal/will/salary-from-south-korean-employer-credited-to-nre-account-triggers-income-tax-notice-itat-bangalore-gives-employee-relief/articleshow/134889439.cms",
-          "summary": "",
-          "date": "2026-10-12T10:29:05+00:00",
-          "source": "Economic Times"
         },
         {
           "title": "Germany warns of a shadow war beyond the Cold War",
@@ -98,6 +91,13 @@
           "summary": "",
           "date": "2026-10-12T10:00:51+00:00",
           "source": "Economic Times"
+        },
+        {
+          "title": "Robert E Hall, Michael Woodford win Nobel Prize in Economics 2026",
+          "link": "https://www.business-standard.com/economy/news/robert-e-hall-michael-woodford-win-nobel-prize-in-economics-2026-126101200573_1.html",
+          "summary": "Their research has strengthened economists' ability to understand and respond to economic shocks, including energy crises and sudden shifts in household consumption",
+          "date": "2026-10-12T09:58:56+00:00",
+          "source": "Economy"
         }
       ]
     },
@@ -165,7 +165,7 @@
         {
           "title": "The gap in shared understanding of LLM capability is widening",
           "link": "https://twitter.com/karpathy/status/2109361546505966046",
-          "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 477 # Comments: 695",
+          "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 478 # Comments: 702",
           "date": "2026-10-11T20:20:52+00:00",
           "source": "Hacker News - Newest: \"\"AI\" \"LLM\"\""
         },
