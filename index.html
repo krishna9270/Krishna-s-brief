@@ -168,9 +168,8 @@ footer { padding-block: 0 40px; }
     <h2>Your topics</h2>
     <div id="toggles"></div>
     <div class="taste" id="taste"></div>
-    <p class="hint">Your reading history stays on this phone. The Brief uses it to put the topics and stories you open most at the top. Want different topics? Tell Claude in the project thread.</p>
+    <p class="hint">Your reading history stays on this phone. The Brief learns from what you open: topics you read more get more stories and move up, and topics you skip shrink.</p>
     <div class="actions">
-      <button class="icon-btn" id="copy-taste">Copy my reading profile</button>
       <button class="icon-btn" id="reset-read">Mark all unread</button>
       <button class="icon-btn" id="reset-taste">Forget my reading history</button>
     </div>
@@ -193,6 +192,7 @@ footer { padding-block: 0 40px; }
 (() => {
   const FIRST_ISSUE = Date.UTC(2026, 9, 12);
   const LEARN_AFTER = 5; // opens before the Brief starts reordering things
+  const BASE_STORIES = 6, MIN_STORIES = 3, MAX_STORIES = 12;
   const STOP = new Set("about after again against also among amid before being between could first from have here into just more most over says said than that their them then there these they this those through under were what when where which while will with would your year years after over news week today amid back make made 2026".split(" "));
   const store = {
     get(key, fallback) { try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch { return fallback; } },
@@ -264,8 +264,13 @@ footer { padding-block: 0 40px; }
     const secs = digest.sections
       .filter((s) => !hidden.has(s.id))
       .map((s) => ({ ...s, items: s.items.filter((i) => !dismissed.has(i.link)) }));
-    if (!learned()) return secs;
-    secs.forEach((s) => s.items.sort((a, b) => storyScore(b) - storyScore(a)));
+    if (!learned()) return secs.map((s) => ({ ...s, items: s.items.slice(0, BASE_STORIES) }));
+    // Topics you open more get more stories (up to MAX), topics you skip shrink (down to MIN).
+    const mean = secs.reduce((n, s) => n + sectionScore(s.id), 0) / Math.max(secs.length, 1);
+    secs.forEach((s) => {
+      const quota = Math.min(MAX_STORIES, Math.max(MIN_STORIES, Math.round(BASE_STORIES * sectionScore(s.id) / mean)));
+      s.items = s.items.sort((a, b) => storyScore(b) - storyScore(a)).slice(0, quota);
+    });
     return secs.sort((a, b) => sectionScore(b.id) - sectionScore(a.id));
   }
 
@@ -452,15 +457,6 @@ footer { padding-block: 0 40px; }
     profile = { opens: 0, sections: {}, words: {}, seen: [] };
     dismissed = new Set(); store.set("brief.dismissed", []);
     saveProfile(); noteShown(); renderAll();
-  });
-
-  $("copy-taste").addEventListener("click", async (e) => {
-    const summary = digest.sections.map((s) => `${s.name}: ${Math.round(sec(s.id).opens)} opened of ${sec(s.id).shown} shown`).join("\n")
-      + `\nTop words: ${topWords(15).join(", ") || "none yet"}`;
-    const btn = e.target;
-    try { await navigator.clipboard.writeText(summary); btn.textContent = "Copied"; }
-    catch { $("taste").insertAdjacentHTML("beforeend", `<pre class="hint" style="white-space:pre-wrap">${esc(summary)}</pre>`); btn.textContent = "Shown below"; }
-    setTimeout(() => { btn.textContent = "Copy my reading profile"; }, 2500);
   });
 
   function pruneRead() {

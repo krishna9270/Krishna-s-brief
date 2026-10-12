@@ -23,6 +23,6 @@ link on your phone, then:
 
 ## Personalisation
 Every story you open is counted on your phone (local storage, never uploaded). After 5 opens the Brief
-reorders topics by how often you read them, sorts stories inside each topic by the words you click most,
-and adds a "For you" section. "Show less like this" pushes similar stories down. Open Topics to see
-what it has learned, copy that profile to share with Claude, or wipe it.
+reorders topics by how often you read them, gives topics you read more stories (up to 12) and topics you
+skip fewer (down to 3), sorts stories by the words you click most, and adds a "For you" section. "Show less like this" pushes similar stories down. Open Topics to see
+what it has learned, or wipe it.
