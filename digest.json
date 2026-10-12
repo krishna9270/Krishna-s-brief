@@ -1,7 +1,7 @@
 {
   "title": "The Krishna Brief",
   "reader": "Krishna",
-  "generated": "2026-10-12T11:30:03+00:00",
+  "generated": "2026-10-12T11:33:10+00:00",
   "sections": [
     {
       "id": "geopolitics",
@@ -104,6 +104,110 @@
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791794714.jpg?resize=1920%2C1080&quality=80",
           "date": "2026-10-12T08:47:43+00:00",
           "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "id": "india-politics",
+      "name": "India politics",
+      "blurb": "Parliament, parties, elections and policy",
+      "core": true,
+      "items": [
+        {
+          "title": "Anti-CEC row LIVE: Rahul Gandhi, Priyanka, Neha Bora lead INDIA bloc parties march towards Supreme Court",
+          "link": "https://www.thehindu.com/news/national/anti-cec-protests-against-gyanesh-kumar-cjp-october-12-2026-live-updates/article71573601.ece",
+          "summary": "Delhi Police denotify Jantar Mantar as protest site; suggest three new locations; sources say CJI Surya Kant declined a request by Rahul Gandhi for a meeting as the issues were already sub judice",
+          "image": "https://th-i.thgim.com/public/incoming/9xq8b0/article71574770.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-12%20165029.png",
+          "date": "2026-10-12T11:17:53+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Govt. move to de-notify Jantar Mantar follows SC suggestion that protest sites need more space, open air",
+          "link": "https://www.thehindu.com/news/national/govt-move-to-de-notify-jantar-mantar-follows-sc-suggestion-that-protest-sites-need-more-space/article71574374.ece",
+          "summary": "A four-page court order passed on October 9 records the Supreme Court Bench headed by Chief Justice of India Surya Kant urging the government to look for a ‘spacious, open’ alternative site in Delhi",
+          "image": "https://th-i.thgim.com/public/incoming/91vhj/article71574694.ece/alternates/LANDSCAPE_1200/JANTAR%20MANTAR%20SECURITY%204.JPG",
+          "date": "2026-10-12T11:17:21+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Govt. mulling extension of pay revision panel term: Keralam CM V.D. Satheesan",
+          "link": "https://www.thehindu.com/news/national/kerala/govt-mulling-extension-of-pay-revision-panel-term-keralam-cm-vd-satheesan/article71574276.ece",
+          "summary": "He said leave surrender had also been allowed till May 31.",
+          "image": "https://th-i.thgim.com/public/incoming/m1mof1/article71574655.ece/alternates/LANDSCAPE_1200/VD_Satheesan_kochi_04.jpg",
+          "date": "2026-10-12T11:14:51+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Display rates of healthcare services prominently, Centre tells States",
+          "link": "https://www.thehindu.com/news/national/display-rates-of-healthcare-services-prominently-centre-tells-states/article71574327.ece",
+          "summary": "Clearly visible display will enable patients to take informed decisions, build trust, prevent billing-related disputes; Health Ministry also urges clinical establishments to display package rates for international…",
+          "image": "https://th-i.thgim.com/public/incoming/oqnpm6/article71574712.ece/alternates/LANDSCAPE_1200/BL13_Think_Rupee_Stethoscope.jpg",
+          "date": "2026-10-12T11:09:36+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Was within restrictions when police, CRPF personnel pounced on me: Brittas on Oct 11 'assault'",
+          "link": "https://www.dtnext.in/news/national/was-within-restrictions-when-police-crpf-personnel-pounced-on-me-brittas-on-oct-11-assault",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-10-12/kopc1p2m/Johan.jpg",
+          "date": "2026-10-12T11:04:45+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "Corruption case: Supreme Court directs no coercive action on FIR linked to Punjab CM office",
+          "link": "https://www.thehindu.com/news/national/corruption-case-supreme-court-directs-no-coercive-action-be-taken-against-people-linked-to-punjab-govt/article71574323.ece",
+          "summary": "The FIR had accused the Office on Special Duty (OSD), Rajbir Singh Ghuman, and five other named accused of influence-peddling and corruption",
+          "image": "https://th-i.thgim.com/public/incoming/th3n5x/article71574414.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_EFGIQVEC.jpg",
+          "date": "2026-10-12T10:55:28+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Supplyco’s Go Express marts will function for longer hours: Keralam Civil Supplies Minister Anoop Jacob",
+          "link": "https://www.thehindu.com/news/national/kerala/supplycos-go-express-marts-will-function-for-longer-hours-keralam-civil-supplies-minister-anoop-jacob/article71573964.ece",
+          "summary": "Responding to “widespread non-availability” of food kits to people under the extremely poor category, the Minister said the government would examine if food essentials could be supplied to them through kits or other…",
+          "image": "https://th-i.thgim.com/public/incoming/xvwxy9/article71574633.ece/alternates/LANDSCAPE_1200/Inspections-in-G3HGGLS4K.3.jpg.jpg",
+          "date": "2026-10-12T10:49:18+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Meeting incompatible with ethics, judicial propriety as matter sub judice: CJI to Rahul, Kharge",
+          "link": "https://www.dtnext.in/news/national/meeting-incompatible-with-ethics-judicial-propriety-as-matter-sub-judice-cji-to-rahul-kharge",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-10-12/ija2iiut/1-13.jpg",
+          "date": "2026-10-12T10:43:40+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "SFI members show bruises, recount 'assault' by police during anti-SIR protests; allege sexual harassment",
+          "link": "https://www.dtnext.in/news/national/sfi-members-show-bruises-recount-assault-by-police-during-anti-sir-protests-allege-sexual-harassment",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-10-12/dc09jpb4/SFI-1.jpg",
+          "date": "2026-10-12T10:23:47+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
+          "link": "https://www.thehindu.com/business/Economy/coal-stocks-at-thermal-plants-hold-above-18-mt-as-supply-deficit-narrows/article71574429.ece",
+          "summary": "The daily requirement of coal for domestic thermal power plants is less than 3 MT per day. They account for more than 60% of the power generated during peak hours.",
+          "image": "https://th-i.thgim.com/public/incoming/t1v84n/article71574519.ece/alternates/LANDSCAPE_1200/_NGP6499.jpg",
+          "date": "2026-10-12T10:22:40+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Caste discrimination during SC man’s burial: Protest in Erode seeks action against officials",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/caste-discrimination-during-sc-mans-burial-protest-in-erode-seeks-action-against-officials/article71574390.ece",
+          "summary": "The protesters demanded that officials be held accountable under the SC/ST Prevention of Atrocities Act for their alleged failure to prevent the humiliation meted out to members of an SC community",
+          "image": "https://www.thehindu.com/theme/images/og-image.png",
+          "date": "2026-10-12T10:18:50+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "‘Unacceptable’: CJP on Jantar Mantar being denotified as protest site",
+          "link": "https://www.thehindu.com/news/national/unacceptable-cjp-on-jantar-mantar-being-denotified-as-protest-site/article71574354.ece",
+          "summary": "Attacking the Prime Minister, Saurav Das said that said soon the government would denotify India as a democracy.",
+          "image": "https://th-i.thgim.com/public/incoming/ozs4n7/article71574363.ece/alternates/LANDSCAPE_1200/20261012037L_kkgPf6V.jpg",
+          "date": "2026-10-12T10:17:22+00:00",
+          "source": "The Hindu"
         }
       ]
     },
@@ -218,6 +322,14 @@
       "core": true,
       "items": [
         {
+          "title": "Nainar defends sharing dais with Modi, backs BJP’s Thiruvalluvar depiction; targets TVK over power cuts",
+          "link": "https://www.dtnext.in/news/tamilnadu/nainar-defends-sharing-dais-with-modi-backs-bjps-thiruvalluvar-depiction-targets-tvk-over-power-cuts",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-06-01/dbtuh2ul/Nainatr.jpg",
+          "date": "2026-10-12T11:16:37+00:00",
+          "source": "DT Next"
+        },
+        {
           "title": "26 injured as government bus rams into stationary private bus near TN’s Mettur",
           "link": "https://www.dtnext.in/news/tamilnadu/26-injured-as-government-bus-rams-into-stationary-private-bus-near-tns-mettur",
           "summary": "",
@@ -304,14 +416,6 @@
           "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/23hvit/article71574073.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-12%20at%2012.10.01.jpeg",
           "date": "2026-10-12T07:55:38+00:00",
           "source": "The Hindu"
-        },
-        {
-          "title": "Northeast monsoon likely to begin in Tamil Nadu, Puducherry on October 15",
-          "link": "https://www.dtnext.in/news/tamilnadu/northeast-monsoon-likely-to-begin-in-tamil-nadu-puducherry-on-october-15",
-          "summary": "",
-          "image": "https://media.assettype.com/dt-next/import/imported/2022-11/1c089133-d7fc-4f4e-be30-a92fc2b4e770/Untitled_5_.jpg",
-          "date": "2026-10-12T07:45:10+00:00",
-          "source": "DT Next"
         }
       ]
     },
@@ -661,7 +765,7 @@
           "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
           "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
           "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+          "image": null,
           "date": "2026-10-09T18:11:44+00:00",
           "source": "NASA"
         },
@@ -669,7 +773,7 @@
           "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
           "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
           "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
+          "image": null,
           "date": "2026-10-09T16:59:24+00:00",
           "source": "NASA"
         },
@@ -677,7 +781,7 @@
           "title": "Cosmic House of Mirrors",
           "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
           "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+          "image": null,
           "date": "2026-10-09T13:57:24+00:00",
           "source": "NASA"
         },
@@ -810,6 +914,14 @@
       "core": false,
       "items": [
         {
+          "title": "Springer: 'Not much you can really do besides be defensive' against Abhishek",
+          "link": "https://www.cricinfo.com/ci/content/story/1558062.html?ex_cid=OTC-RSS",
+          "summary": "\"He's the X-factor so far,\" Shamar Springer says about Roston Chase",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423679.jpg",
+          "date": "2026-10-12T11:28:33+00:00",
+          "source": "ESPNcricinfo"
+        },
+        {
           "title": "Bangladesh strike twice early after setting Afghanistan chase of 479",
           "link": "https://www.cricinfo.com/ci/content/story/1558079.html?ex_cid=OTC-RSS",
           "summary": "Hasan Mahmud and Ebadot Hossain struck for Bangladesh to reduce Afghanistan to 51 for 2 before tea",
@@ -831,14 +943,6 @@
           "summary": "On an Indore pitch whose low bounce made big hitting difficult, Abhishek Sharma's 30-ball 69 ended up giving India an above-par total",
           "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423688.jpg",
           "date": "2026-10-12T09:45:54+00:00",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Springer: 'Not much you can really do besides be defensive' against Abhishek",
-          "link": "https://www.cricinfo.com/ci/content/story/1558062.html?ex_cid=OTC-RSS",
-          "summary": "\"He's the X-factor so far,\" Shamar Springer says about Roston Chase",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423679.jpg",
-          "date": "2026-10-12T09:41:31+00:00",
           "source": "ESPNcricinfo"
         },
         {
