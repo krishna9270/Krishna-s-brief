@@ -1,7 +1,7 @@
 {
   "title": "The Krishna Brief",
   "reader": "Krishna",
-  "generated": "2026-10-14T05:07:22+00:00",
+  "generated": "2026-10-15T04:55:11+00:00",
   "sections": [
     {
       "id": "geopolitics",
@@ -10,99 +10,99 @@
       "core": true,
       "items": [
         {
-          "title": "China and India Want Much the Same Things From South Asia",
-          "link": "https://foreignpolicy.com/2026/10/14/china-india-south-asia-regional-framework/",
-          "summary": "The two countries have reset bilaterally and internationally. Now it’s time to think regionally.",
-          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/modi-xi-GettyImages-2294350714.jpg",
-          "date": "2026-10-14T05:00:44+00:00",
+          "title": "Heavy rain causes mass pileup in Brazil tunnel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
+          "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792037871.jpg?resize=1920%2C1080&quality=80",
+          "date": "2026-10-15T04:19:06+00:00",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
+          "link": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
+          "summary": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad03b7d-1792031613.jpg?resize=1920%2C1440",
+          "date": "2026-10-15T04:15:55+00:00",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Trump’s Midterm Strategy Harks Back to 1970",
+          "link": "https://foreignpolicy.com/2026/10/15/trump-midterm-strategy-positive-polarization/",
+          "summary": "Forget hearts and minds, this path to power revolves around appealing to hate and anger.",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/Zelizer-PositivePolarization-GettyImages-515395856.jpg",
+          "date": "2026-10-15T04:01:54+00:00",
           "source": "Foreign Policy"
         },
         {
-          "title": "The Autumn Myanmar Turned Pretty",
-          "link": "https://foreignpolicy.com/2026/10/14/myanmar-diplomatic-breakthroughs-min-aung-hlaing/",
-          "summary": "It’s been a week of diplomatic breakthroughs for the junta.",
-          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/myanmar-malaysia-GettyImages-2298512907-1.jpg",
-          "date": "2026-10-14T05:00:38+00:00",
-          "source": "Foreign Policy"
-        },
-        {
-          "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-          "link": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-          "summary": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acef891-1791948945.jpg?resize=1920%2C1440",
-          "date": "2026-10-14T04:27:18+00:00",
+          "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+          "link": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
+          "summary": "The US President's ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0338b4d6e-1792029579.jpg?resize=1920%2C1440",
+          "date": "2026-10-15T03:50:14+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-          "link": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-          "summary": "City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25121084376348-1791942832_cd66fb-1791948704.jpg?resize=1200%2C630&quality=80",
-          "date": "2026-10-14T04:25:02+00:00",
+          "title": "Albanian Ministry of Justice on fire as education protesters riot",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
+          "summary": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792034966.jpg?resize=1920%2C1080&quality=80",
+          "date": "2026-10-15T03:30:42+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-          "summary": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791951336.jpg?resize=1920%2C1080&quality=80",
-          "date": "2026-10-14T04:16:13+00:00",
+          "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
+          "link": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
+          "summary": "Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&quality=80",
+          "date": "2026-10-15T03:28:44+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
-          "link": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-          "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/13630743-1776607778.jpg?resize=1920%2C1440",
-          "date": "2026-10-14T03:57:24+00:00",
+          "title": "North Korea tests two submarine-launched missiles, state media reports",
+          "link": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+          "summary": "The tests showcase North Korea's war deterrent capabilities in the region, KCNA says.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad01c58e25e-1792023640.jpg?resize=1920%2C1440",
+          "date": "2026-10-15T03:23:49+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Israel returns 22 stolen ancient artefacts to Greece",
-          "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
-          "summary": "The cultural exchange comes amid strengthening ties between the two countries.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acee202329d-1791943170.jpg?resize=1920%2C1440",
-          "date": "2026-10-14T03:23:08+00:00",
+          "title": "Teenager dies as heavy rain floods Istanbul",
+          "link": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+          "summary": "Roads collapse and hospitals take in water as floods swamp Turkiye's largest city, shutting schools and halting traffic.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad031dc14c4e-1792029148.jpg?resize=1920%2C1440",
+          "date": "2026-10-15T03:12:02+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-          "summary": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791947309.jpg?resize=1920%2C1051&quality=80",
-          "date": "2026-10-14T03:09:46+00:00",
+          "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+          "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+          "summary": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acd05bae07a-1791821242.jpg?resize=1920%2C1440",
+          "date": "2026-10-15T03:03:00+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-          "link": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
-          "summary": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6aced654-1791940180.jpg?resize=1920%2C1440",
-          "date": "2026-10-14T03:06:42+00:00",
+          "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+          "summary": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792032795.jpg?resize=1920%2C1080&quality=80",
+          "date": "2026-10-15T02:54:31+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "UN Human Rights Council elects 15 members in uncontested vote",
-          "link": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss",
-          "summary": "Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aba4a38ca60-1790593592.jpg?resize=1920%2C1440",
-          "date": "2026-10-14T02:55:15+00:00",
+          "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
+          "link": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
+          "summary": "The scare exposed gaps in how far outbreak readiness reaches Kenya’s remote communities.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG-20261006-WA0015-1791986592.jpg?resize=1200%2C630",
+          "date": "2026-10-15T02:45:49+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
-          "summary": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791945906.jpg?resize=1620%2C1080&quality=80",
-          "date": "2026-10-14T02:45:40+00:00",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
-          "summary": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791942932.jpg?resize=1920%2C1080&quality=80",
-          "date": "2026-10-14T01:56:23+00:00",
+          "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
+          "link": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
+          "summary": "Rising prices, unemployment and public debt test Saied’s economic promises.",
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s4-1791974168.jpg?resize=1920%2C1280&quality=80",
+          "date": "2026-10-15T02:42:21+00:00",
           "source": "Al Jazeera"
         }
       ]
@@ -114,99 +114,99 @@
       "core": true,
       "items": [
         {
-          "title": "Mamata’s party files police complaint over alleged ‘knife attack attempt’ on former CM near her home",
-          "link": "https://www.thehindu.com/news/cities/kolkata/mamatas-party-files-police-complaint-over-alleged-knife-attack-attempt-on-former-cm-near-her-home/article71580768.ece",
-          "summary": "There were no reports of any injuries to the former Chief Minister",
-          "image": "https://th-i.thgim.com/public/incoming/bsgwsp/article71580982.ece/alternates/LANDSCAPE_1200/20261010383L.jpg",
-          "date": "2026-10-14T05:02:45+00:00",
+          "title": "October 10 detainees provided ‘hot, fresh, good meals’, only cellular internet was suspended: Delhi Police to SC",
+          "link": "https://www.thehindu.com/news/national/oct-10-detainees-provided-hot-fresh-good-meals-only-cellular-internet-was-suspended-delhi-police-to-sc/article71586610.ece",
+          "summary": "Preventive measures were necessary to protect peace and tranquility of vital, sensitive New Delhi area, the police chief said",
+          "image": "https://th-i.thgim.com/public/incoming/p45aby/article71586640.ece/alternates/LANDSCAPE_1200/6744_11_10_2026_16_20_12_1_A16_65155.JPEG",
+          "date": "2026-10-15T04:36:47+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
-          "link": "https://www.thehindu.com/business/rupee-rises-44-paise-to-9492-against-us-dollar-in-early-trade/article71582299.ece",
-          "summary": "The rupee gained for a fourth straight session, helped by RBI measures to curb speculative trading, as Finance Minister Nirmala Sitharaman said the currency had depreciated “significantly” over the past 18 months",
-          "image": "https://th-i.thgim.com/public/incoming/3msnbo/article71582311.ece/alternates/LANDSCAPE_1200/2026-10-13T041544Z_2064203482_RC26SMAZP5HR_RTRMADP_3_INDIA-CENBANK-RUPEE.JPG",
-          "date": "2026-10-14T05:00:50+00:00",
+          "title": "Belagavi-based Aequs announces long-term supply agreements with Safran for aerospace applications",
+          "link": "https://www.thehindu.com/business/belagavi-based-aequs-announces-long-term-supply-agreements-with-safran-for-aerospace-applications/article71583760.ece",
+          "summary": "The agreements involve major work being carried out at the upcoming Aequs Engine Components Ecosystem (AECE) at Hosur in Tamil Nadu",
+          "image": "https://th-i.thgim.com/public/incoming/hxek31/article71586625.ece/alternates/LANDSCAPE_1200/Aravind_4.jpg",
+          "date": "2026-10-15T04:35:00+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Delhi Police registers four FIRs against ‘rumour-mongers’, Pakistan social media handles under scanner",
-          "link": "https://www.thehindu.com/news/national/delhi-police-registers-four-firs-against-rumour-mongers-pakistan-social-media-handles-under-scanner/article71578965.ece",
-          "summary": "Cases have been registered against social media handles allegedly disseminating misleading information, attempting to create an “anti-India narrative” and disturb law and order, officials said",
-          "image": "https://www.thehindu.com/theme/images/og-image.png",
-          "date": "2026-10-14T04:58:30+00:00",
+          "title": "Karnataka asks Czech companies to invest beyond Bengaluru",
+          "link": "https://www.thehindu.com/news/national/karnataka/karnataka-asks-czech-companies-to-invest-beyond-bengaluru/article71582987.ece",
+          "summary": "Chief Minister discusses opportunities in energy, automobiles, aerospace and defence with Czech delegation",
+          "image": "https://th-i.thgim.com/public/news/cities/Mangalore/ic8w7d/article71583207.ece/alternates/LANDSCAPE_1200/delegation%20of%20the%20Czech%20Republic.jpeg",
+          "date": "2026-10-15T04:34:31+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "SIR: Special camps on October 15, 16 to help enrol omitted voters in Telangana",
-          "link": "https://www.thehindu.com/news/national/telangana/sir-special-camps-on-october-15-16-to-help-enrol-omitted-voters-in-telangana/article71580414.ece",
-          "summary": "First-time electors can also apply for enrolment through Form-6; though the claims and objections period has ended, enrolment will remain open until November 7",
-          "image": "https://th-i.thgim.com/public/incoming/5e4e8p/article71580750.ece/alternates/LANDSCAPE_1200/SIR-enumerationG9DGB4NGU.4.jpg.jpg",
-          "date": "2026-10-14T04:53:43+00:00",
+          "title": "Anti-CEC protest LIVE | Supreme Court likely to hear Rahul Gandhi, INDIA bloc leaders’ plea against SIR today",
+          "link": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
+          "summary": "Cockroach Janta Party (CJP) founder Abhijeet Dipke has called for a ‘Lehra Do Tiranga’ gathering at Central Park, Connaught Place, in Delhi, on October 16",
+          "image": "https://th-i.thgim.com/public/incoming/a25oyi/article71586458.ece/alternates/LANDSCAPE_1200/GYANESH%20PROTEST%20DELHI%2022.JPG",
+          "date": "2026-10-15T04:33:01+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Two Assistant Professors, two PG students suspended for medical negligence at Kakinada GGH",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-assistant-professors-two-pg-students-suspended-for-medical-negligence-at-kakinada-ggh/article71580270.ece",
-          "summary": "Rangaraya Medical College Principal says a cannula was left in the woman’s abdomen during delivery surgery and was removed after she was readmitted with stomach pain",
-          "image": "https://www.thehindu.com/theme/images/og-image.png",
-          "date": "2026-10-14T04:48:29+00:00",
+          "title": "India’s largest red light area in Kolkata’s Sonagachi inaugurates Durga Puja",
+          "link": "https://www.thehindu.com/news/national/west-bengal/indias-largest-red-light-area-in-kolkatas-sonagachi-inaugurates-durga-puja/article71586553.ece",
+          "summary": "Sex workers say their annual celebration remains a fight for dignity and acceptance, despite growing participation from public representatives and local residents",
+          "image": "https://th-i.thgim.com/public/news/national/id0ofv/article71586577.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-14%20at%2010.42.35%20PM.jpeg",
+          "date": "2026-10-15T03:49:28+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "J&K Waqf Board takes U-turn on uniform Friday sermons",
-          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-mehbooba-mirwaiz-oppose-jk-waqf-boards-push-for-uniform-friday-sermons/article71578682.ece",
-          "summary": "Chairperson Darakshan Andrabi said preachers, not politicians, would decide on sermon topics, two days after first proposing a committee to pre-decide them; Opposition had called the move interference in religious…",
-          "image": "https://th-i.thgim.com/public/news/national/wys3s3/article71578953.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_000267B.jpg",
-          "date": "2026-10-14T04:48:10+00:00",
+          "title": "India asks when UN body will report on PoK human rights concerns",
+          "link": "https://www.thehindu.com/news/national/india-asks-when-un-body-will-report-on-pok-human-rights-concerns/article71586551.ece",
+          "summary": "The statements had also called for detained leaders of the Joint Awami Action Committee to have access to legal representation and their families, and had called for due process and fair trial",
+          "image": "https://th-i.thgim.com/public/incoming/aho45u/article71586587.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-15%20091038.png",
+          "date": "2026-10-15T03:42:21+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Towards an age-ready Keralam: translating rights into care",
-          "link": "https://www.thehindu.com/news/national/kerala/towards-an-age-ready-keralam-translating-rights-into-care/article71579075.ece",
-          "summary": "The Keralam Senior Citizens (Care and Protection of Rights) Bill, 2026, a first-of-its-kind legislation in the country, is a welcome step towards protecting the rights and well-being of the elderly",
-          "image": "https://th-i.thgim.com/public/news/national/kerala/bwz6r6/article71579082.ece/alternates/LANDSCAPE_1200/Dr%20Sudha%20Chandrashekar.jpg",
-          "date": "2026-10-14T04:47:57+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Keralam Senior Citizens Bill referred to Assembly Subject Committee",
-          "link": "https://www.thehindu.com/news/national/kerala/keralam-senior-citizens-bill-referred-to-assembly-subject-committee/article71578941.ece",
-          "summary": "Bill aims at promoting healthy and active ageing, regulation of senior citizen care centres, capacity-building for family and care givers, and protection of rights, dignity, and social security of the elderly",
-          "image": "https://th-i.thgim.com/public/news/national/kerala/3pbacw/article71578959.ece/alternates/LANDSCAPE_1200/IMG_Innovative-hous_GNNC_2_1_TUFT6A47.jpg",
-          "date": "2026-10-14T04:47:36+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Linking Madras, Cuddalore, and Calcutta",
-          "link": "https://www.thehindu.com/news/cities/chennai/linking-madras-cuddalore-and-calcutta/article71582217.ece",
-          "summary": "A visit to Fort St. David in Cuddalore, now a heritage guesthouse, reveals an unexpected link to colonial Calcutta through Dr H.E. Busteed, author of Echoes from Old Calcutta",
-          "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/3wb5wr/article71582266.ece/alternates/LANDSCAPE_1200/IMG_3573.jpeg",
-          "date": "2026-10-14T04:46:45+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Anti-CEC protest LIVE | CJP’s Saurav Das and Ashutosh Ranka sent to 5 days judicial custody in trespassing case",
-          "link": "https://www.thehindu.com/news/national/anti-cec-protests-cjp-arrest-rahul-gandhi-india-bloc-gyanesh-kumar-resignation-saurav-das-ashutosh-ranka-live-updates/article71582057.ece",
-          "summary": "Delhi Police has filed an FIR against CJP leaders Saurav Das, Ashutosh Ranka and its other members for allegedly trespassing into the Jantar Mantar area without authorisation, said the officials",
-          "image": "https://th-i.thgim.com/public/incoming/q8do68/article71582205.ece/alternates/LANDSCAPE_1200/HUiofWnagAEVvZr.jpeg",
-          "date": "2026-10-14T04:46:06+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "2 CJP leaders in judicial custody: Dipke slams govt, claims it is imposing 'unofficial emergency'",
-          "link": "https://www.dtnext.in/news/national/2-cjp-leaders-in-judicial-custody-dipke-slams-govt-claims-it-is-imposing-unofficial-emergency",
+          "title": "SC to hear on Oct 15 plea filed by Rahul Gandhi, others on SIR issue",
+          "link": "https://www.dtnext.in/news/national/sc-to-hear-on-oct-15-plea-filed-by-rahul-gandhi-others-on-sir-issue",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-14/ioj4wldq/1-13.jpg",
-          "date": "2026-10-14T04:45:56+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-13/u1zn7qbi/rahul-gandhi.jpg",
+          "date": "2026-10-15T03:09:17+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council",
-          "link": "https://www.thehindu.com/news/national/karnataka/brain-damage-to-toddler-health-department-refers-medical-negligence-case-against-hospital-to-karnataka-medical-council/article71580964.ece",
-          "summary": "During the procedure, the toddler suffered a cardiac arrest in the operation theatre and subsequently sustained severe brain injury due to lack of oxygen.",
-          "image": "https://th-i.thgim.com/public/incoming/smkxkk/article71581031.ece/alternates/LANDSCAPE_1200/iStock-1132264405.jpg",
-          "date": "2026-10-14T04:44:02+00:00",
+          "title": "Air India Frankfurt-Delhi flight diverted to Jaipur after hijack alert, resumes journey after checks",
+          "link": "https://www.thehindu.com/news/national/air-india-frankfurt-delhi-flight-diverted-to-jaipur-after-hijack-alert-resumes-journey-after-checks/article71586486.ece",
+          "summary": "Security sources said that the AI plane landed at Jaipur after the Pilot-in-Command transmitted Code 7500 to the concerned ATC, indicating unlawful interference",
+          "image": "https://th-i.thgim.com/public/incoming/n167ry/article71586515.ece/alternates/LANDSCAPE_1200/20261014348L.jpg",
+          "date": "2026-10-15T02:41:25+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "CBI arrests executive director of defence firm for graft",
+          "link": "https://www.thehindu.com/news/national/cbi-arrests-executive-director-of-defence-firm-for-graft/article71584734.ece",
+          "summary": "CBI registered the case against Anil Kumar following allegations that he connived with private parties and demanded and accepted illegal gratification for extending official favours",
+          "image": "https://th-i.thgim.com/public/incoming/r9so9c/article70468778.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+          "date": "2026-10-15T02:35:53+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Mary Millben, Abhijeet Dipke exchange barbs over CJP funding",
+          "link": "https://www.thehindu.com/news/national/mary-millben-abhijeet-dipke-exchange-barbs-over-cjp-funding/article71586449.ece",
+          "summary": "The U.S. singer claimed in a post on X that the CJP is being ‘funded by donors’ in the U.S.",
+          "image": "https://th-i.thgim.com/public/news/national/82yco8/article71586451.ece/alternates/LANDSCAPE_1200/millben%20dipke.jpg",
+          "date": "2026-10-15T02:29:05+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "India, U.S. ironing out differences on trade deal; nearing 'landing point': Jaishankar",
+          "link": "https://www.thehindu.com/news/national/india-us-ironing-out-differences-on-trade-deal-nearing-landing-point-jaishankar/article71582690.ece",
+          "summary": "India and the U.S. have been in talks since early 2025 on the proposed trade pact to address tariff friction, eliminate non-tariff barriers, and boost bilateral market access.",
+          "image": "https://th-i.thgim.com/public/incoming/y0g155/article71582706.ece/alternates/LANDSCAPE_1200/AP09_03_2026_000282A.jpg",
+          "date": "2026-10-15T02:12:30+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Marco Rubio to skip Delhi, visit Mumbai and Jamnagar next week",
+          "link": "https://www.thehindu.com/news/national/marco-rubio-to-skip-delhi-visit-mumbai-and-jamnagar-next-week/article71585393.ece",
+          "summary": "His Jamnagar Reliance refinery visit will come a day after U.S. President is expected to take a decision on sanctions on Russian oil imports",
+          "image": "https://th-i.thgim.com/public/incoming/kbdrm/article71585468.ece/alternates/LANDSCAPE_1200/2026-10-09T135232Z_1409201437_RC2PZNA2T3KD_RTRMADP_3_USA-VENEZUELA.JPG",
+          "date": "2026-10-15T02:12:22+00:00",
           "source": "The Hindu"
         }
       ]
@@ -218,99 +218,99 @@
       "core": true,
       "items": [
         {
-          "title": "GMR Airports incorporates wholly owned subsidiary for land development",
-          "link": "https://www.business-standard.com/companies/news/gmr-airports-incorporates-wholly-owned-subsidiary-for-land-development-126101400281_1.html",
-          "summary": "GMR Airports has incorporated GMR Aero Realty as a wholly owned subsidiary with ₹1 crore in paid-up capital to pursue real estate and land development opportunities; operations are yet to begin",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261014/full-126101400281.jpg",
-          "date": "2026-10-14T04:58:38+00:00",
+          "title": "IMF stands ready as Sri Lanka recovers",
+          "link": "https://economictimes.indiatimes.com/news/international/business/imf-stands-ready-to-support-sri-lanka-as-economy-improves-debt-restructuring-nears-completion/articleshow/134957288.cms",
+          "summary": "",
+          "image": "https://img.etimg.com/thumb/msid-134957303,width-1200,height-900,imgsize-37476,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T04:25:51+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "US to use 'mother of all bombs' on Iran",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-military-weighs-use-of-mother-of-all-bombs-in-potential-future-strikes-on-iran-cnn-says/articleshow/134957262.cms",
+          "summary": "",
+          "image": "https://img.etimg.com/thumb/msid-134957281,width-1200,height-900,imgsize-84422,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T04:23:01+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Delhi Police details protest measures for Oct 10",
+          "link": "https://economictimes.indiatimes.com/news/india/delhi-police-files-affidavit-in-sc-details-security-measures-metro-restrictions-during-oct-10-protest/articleshow/134957131.cms",
+          "summary": "",
+          "image": "https://img.etimg.com/thumb/msid-134957130,width-1200,height-900,imgsize-247446,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T04:13:34+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Q2 results today: Wipro, Nestle India, 47 others to announce earnings",
+          "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-wipro-nestle-india-47-others-to-announce-earnings-126101500151_1.html",
+          "summary": "Q2FY27 results today: Jio Financial, Wipro, Nestle India, HDFC AMC, HDFC Life, and Indian Bank, and 43 other firms will announce their earnings for the second quarter of financial year 2026-27 today",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500151.jpg",
+          "date": "2026-10-15T03:50:30+00:00",
           "source": "Business Standard"
         },
         {
-          "title": "India eyes 25-year plan to cut critical tech reliance",
-          "link": "https://economictimes.indiatimes.com/news/india/india-eyes-reduced-critical-tech-dependence-over-next-20-25-years-ashwini-vaishnaw/articleshow/134931844.cms",
+          "title": "Punjab Bandh Today: What's open what's closed?",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/punjab-band-today-october-15-timing-reason-are-banks-open-check-bus-and-train-updates/articleshow/134956309.cms",
           "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134931842,width-1200,height-900,imgsize-112895,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T04:20:24+00:00",
+          "image": "https://img.etimg.com/thumb/msid-134956440,width-1200,height-900,imgsize-285522,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T03:37:37+00:00",
           "source": "Economic Times"
         },
         {
-          "title": "RBI open to more steps to curb FX speculation",
-          "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-open-to-more-steps-to-curb-fx-speculation-governor-sanjay-malhotra-says/articleshow/134931504.cms",
-          "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134931625,width-1200,height-900,imgsize-72932,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T03:52:53+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings",
-          "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-bhel-canara-bank-groww-24-others-to-report-earnings-126101400177_1.html",
-          "summary": "Q2FY27 results today: Aditya Birla Money, Elecon Engineering Company, Emmvee Photovoltaic Power, Tata Technologies and Groww will announce their quarterly results today",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261014/full-126101400177.jpg",
-          "date": "2026-10-14T03:52:11+00:00",
+          "title": "Audi India bets on new models as it eyes double-digit growth next year",
+          "link": "https://www.business-standard.com/companies/news/audi-india-bets-on-new-models-as-it-eyes-double-digit-growth-next-year-126101400911_1.html",
+          "summary": "Luxury car market expected to grow 12%; festive quarter typically brings 20-25% rise in inquiries and conversions",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261014/full-126101400911.jpg",
+          "date": "2026-10-15T03:35:18+00:00",
           "source": "Business Standard"
         },
         {
-          "title": "Saurav Das, Ashutosh sent to Tihar jail: Here's why",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/saurav-das-ashutosh-ranka-tihar-jail-for-5-days-reason-cockroach-janta-party-founders-jantar-mantar-arrest-case-explained/articleshow/134930696.cms",
+          "title": "Home Secy apologises to SC over Delhi restrictions",
+          "link": "https://economictimes.indiatimes.com/news/india/home-secretary-tenders-unconditional-apology-to-sc-over-non-compliance-on-delhi-restrictions-seeks-discharge-of-contempt-notice/articleshow/134955849.cms",
           "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134931241,width-1200,height-900,imgsize-108460,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T03:39:47+00:00",
+          "image": "https://img.etimg.com/thumb/msid-134955847,width-1200,height-900,imgsize-56792,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T02:55:19+00:00",
           "source": "Economic Times"
         },
         {
-          "title": "Trump blocked from banning CNN, Politico reporters",
-          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-judge-extends-order-blocking-trump-from-banning-cnn-ms-now-politico-reporters-from-white-house/articleshow/134931156.cms",
+          "title": "IMF says Asia to outpace the world",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/asia-set-to-continue-to-outpace-the-world-says-imf-as-it-asks-central-banks-to-stay-focused-on-price-stability/articleshow/134955464.cms",
           "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134931197,width-1200,height-900,imgsize-137262,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T03:33:31+00:00",
+          "image": "https://img.etimg.com/thumb/msid-134955472,width-1200,height-900,imgsize-104802,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T02:21:15+00:00",
           "source": "Economic Times"
         },
         {
-          "title": "Makhi Janta Party after CJI's 'hammer to kill fly'",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/makhi-janta-party-gains-3-4-lakh-followers-after-chief-justice-of-india-said-hammer-to-kill-a-fly-mjp-wants-to-partner-with-cjp/articleshow/134931069.cms",
+          "title": "SK Hynix's US plant comes with a China condition",
+          "link": "https://economictimes.indiatimes.com/news/international/business/sk-hynix-seeks-us-nod-to-expand-china-chip-output-ties-approval-to-us-plant-report/articleshow/134955363.cms",
           "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134931152,width-1200,height-900,imgsize-148111,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T03:30:22+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Kolkata Rajdhani train introduces floral comforters",
-          "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-rajdhani-express-introduces-floral-comforters-instead-of-blankets-howrah-new-delhi-trains-first-ac-passengers-get-festive-upgrade-ahead-of-durga-puja/articleshow/134930350.cms",
-          "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134930456,width-1200,height-900,imgsize-1605642,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T02:39:55+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "Sigma Advanced Systems, Munitions India tie up for artillery technology",
-          "link": "https://www.business-standard.com/companies/news/sigma-advanced-systems-munitions-india-mou-155mm-artillery-fuzes-126101400120_1.html",
-          "summary": "Sigma Advanced Systems has signed an exclusive MoU with Munitions India for indigenous manufacturing and integration of 155 mm artillery course-correction fuzes",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261014/full-126101400120.jpg",
-          "date": "2026-10-14T02:38:19+00:00",
-          "source": "Business Standard"
-        },
-        {
-          "title": "India in talks to host PM Carney for R-Day",
-          "link": "https://economictimes.indiatimes.com/news/india/india-in-talks-to-host-canada-pm-carney-as-republic-day-chief-guest-trade-pact-in-focus/articleshow/134930239.cms",
-          "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134930249,width-1200,height-900,imgsize-96266,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T02:20:49+00:00",
-          "source": "Economic Times"
-        },
-        {
-          "title": "India ‘natural option’ for Russia: EAM",
-          "link": "https://economictimes.indiatimes.com/news/india/as-russia-turns-to-asia-india-a-natural-option-for-moscow-beyond-china-says-eam-jaishankar/articleshow/134930069.cms",
-          "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134930090,width-1200,height-900,imgsize-51576,overlay-economictimes/articleshow.jpg",
-          "date": "2026-10-14T02:12:31+00:00",
+          "image": "https://img.etimg.com/thumb/msid-134955379,width-1200,height-900,imgsize-108982,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T02:03:27+00:00",
           "source": "Economic Times"
         },
         {
           "title": "Top tech and startup stories to start your day with",
-          "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/upi-mdr-rollout-pushed-indias-first-quantum-computer-coming-soon/articleshow/134929832.cms",
+          "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/skyroot-eyes-funding-boost-mdr-deferment-cheers-d2c-brands/articleshow/134955236.cms",
           "summary": "",
-          "image": "https://img.etimg.com/thumb/msid-134929832,width-1070,height-580,imgsize-146773,overlay-ettech/editionshow.jpg",
-          "date": "2026-10-14T02:05:42+00:00",
+          "image": "https://img.etimg.com/thumb/msid-134955236,width-1070,height-580,imgsize-1239905,overlay-ettech/editionshow.jpg",
+          "date": "2026-10-15T02:02:58+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Pune-Mumbai E-way traffic update: Diversions",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/pune-mumbai-expressway-to-see-heavy-traffic-this-week-commuters-urged-to-take-trains-instead-vehicle-diversions-road-restriction-timings-and-alternative-routes/articleshow/134955209.cms",
+          "summary": "",
+          "image": "https://img.etimg.com/thumb/msid-134955279,width-1200,height-900,imgsize-374180,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T01:55:06+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Ambani added 13 zeros to Dhirubhai’s dream",
+          "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/rs-10-lakh-crore-mukesh-ambani-added-13-zeros-to-dhirubhais-dream/articleshow/134955051.cms",
+          "summary": "",
+          "image": "https://img.etimg.com/thumb/msid-134955294,width-1200,height-900,imgsize-52906,overlay-economictimes/articleshow.jpg",
+          "date": "2026-10-15T01:40:25+00:00",
           "source": "Economic Times"
         }
       ]
@@ -322,99 +322,99 @@
       "core": true,
       "items": [
         {
-          "title": "Linking Madras, Cuddalore, and Calcutta",
-          "link": "https://www.thehindu.com/news/cities/chennai/linking-madras-cuddalore-and-calcutta/article71582217.ece",
-          "summary": "A visit to Fort St. David in Cuddalore, now a heritage guesthouse, reveals an unexpected link to colonial Calcutta through Dr H.E. Busteed, author of Echoes from Old Calcutta",
-          "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/3wb5wr/article71582266.ece/alternates/LANDSCAPE_1200/IMG_3573.jpeg",
-          "date": "2026-10-14T04:46:45+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Chennai gold price falls by Rs 760 on October 14, 2026; check today's gold, silver rates",
-          "link": "https://www.dtnext.in/news/chennai/chennai-gold-price-falls-by-rs-760-on-october-14-2026-check-todays-gold-silver-rates",
+          "title": "Chennai gold price falls by Rs 600 on October 15, 2026; check today's gold, silver rates",
+          "link": "https://www.dtnext.in/news/chennai/chennai-gold-price-falls-by-rs-600-on-october-15-2026-check-todays-gold-silver-rates",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-07-17/3ckvofi9/PTI05222026000260B.jpg",
-          "date": "2026-10-14T04:31:48+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-01-08/ppzk4gq1/gold.jpg",
+          "date": "2026-10-15T04:31:43+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Vegetable prices remain stable at Chennai's Koyambedu market on October 14, 2026",
-          "link": "https://www.dtnext.in/news/chennai/vegetable-prices-remain-stable-at-chennais-koyambedu-market-on-october-14-2026",
+          "title": "Police response sought on Prakash’s anticipatory bail plea in Veeramani case",
+          "link": "https://www.dtnext.in/news/tamilnadu/police-response-sought-on-prakashs-anticipatory-bail-plea-in-veeramani-case",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-02-07/7wz5vbyq/vegetable.jpg",
-          "date": "2026-10-14T04:05:32+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-09-22/gqrohksu/1-3.jpg",
+          "date": "2026-10-15T03:13:22+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Madurai Corporation tax scam: Ex-zone chief's husband held",
-          "link": "https://www.dtnext.in/news/tamilnadu/madurai-corporation-tax-scam-ex-zone-chiefs-husband-held",
+          "title": "Tamil Nadu Cooperative Department plans series of loan melas",
+          "link": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-cooperative-department-plans-series-of-loan-melas",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-07-27/xfo4mi9v/Arrest-4.jpg",
-          "date": "2026-10-14T03:19:24+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/breaj87j/Untitled-Design-33.jpg",
+          "date": "2026-10-15T02:47:55+00:00",
           "source": "DT Next"
         },
         {
-          "title": "TVK’s bypoll wins fuel C Vijayabaskar’s hopes",
-          "link": "https://www.dtnext.in/news/tamilnadu/tvks-bypoll-wins-fuel-c-vijayabaskars-hopes",
+          "title": "Invest in girls’ education, jobs, among others, IDEA urges TVK govt",
+          "link": "https://www.dtnext.in/news/tamilnadu/invest-in-girls-education-jobs-among-others-idea-urges-tvk-govt",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-14/5l0n2qdp/1-1.jpg",
-          "date": "2026-10-14T03:18:07+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/w6jyfnjk/Untitled-Design-32.jpg",
+          "date": "2026-10-15T02:40:39+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Check out petrol and diesel prices in Chennai on October 14, 2026",
-          "link": "https://www.dtnext.in/news/chennai/check-out-petrol-and-diesel-prices-in-chennai-on-october-14-2026",
+          "title": "Check out petrol and diesel prices in Chennai on October 15, 2026",
+          "link": "https://www.dtnext.in/news/chennai/check-out-petrol-and-diesel-prices-in-chennai-on-october-15-2026",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-04-15/tjq6h989/dailythanthi2026-04-157re2l4230.avif",
-          "date": "2026-10-14T02:32:45+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-08-02/gyfr3ko0/Untitled-design-23.jpg",
+          "date": "2026-10-15T02:30:23+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open for Ujjivan Small Finance Bank Transgender Programme; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-for-ujjivan-small-finance-bank-transgender-programme-here-is-how-you-can-apply-4",
+          "title": "TNUEF seeks sanitation engineering departments as 6 workers die in 10 days",
+          "link": "https://www.dtnext.in/news/chennai/tnuef-seeks-sanitation-engineering-departments-as-6-workers-die-in-10-days",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-01-07/kvrmu3kl/New-Project-29.jpg",
-          "date": "2026-10-14T02:30:23+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-08-07/8rxu4zfo/1-3.jpg",
+          "date": "2026-10-15T02:27:00+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open for SDEF India Programme; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-for-sdef-india-programme-here-is-how-you-can-apply",
+          "title": "File status report on free battery car service for diff-abled: Madras HC to Railways",
+          "link": "https://www.dtnext.in/news/tamilnadu/file-status-report-on-free-battery-car-service-for-diff-abled-madras-hc-to-railways",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2025-12-31/lm3n7io5/scholarship-6.jpg",
-          "date": "2026-10-14T02:28:12+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/gcy48nsl/1-7.jpg",
+          "date": "2026-10-15T02:24:56+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open forTata Capital Pankh Programme; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-fortata-capital-pankh-programme-here-is-how-you-can-apply",
+          "title": "Tamil Nadu, Odisha form special team for ganja crackdown",
+          "link": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-odisha-form-special-team-for-ganja-crackdown",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2025-12-24/d1knmmdg/scholarship.jpg",
-          "date": "2026-10-14T02:25:47+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-01-07/90tbhmiq/Police.jpg",
+          "date": "2026-10-15T02:22:41+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open for Muskaan Programme 2.0; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-for-muskaan-programme-20-here-is-how-you-can-apply-9",
+          "title": "From a Lakshmi statue to 108 handmade dolls",
+          "link": "https://www.dtnext.in/news/chennai/from-a-lakshmi-statue-to-108-handmade-dolls",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2025-12-31/a3dy3ym8/scholarship-5.jpg",
-          "date": "2026-10-14T02:24:23+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/s9j69qfa/Untitled-Design-28.jpg",
+          "date": "2026-10-15T02:19:18+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open for Parivartan ECSS Programme; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-for-parivartan-ecss-programme-here-is-how-you-can-apply-4",
+          "title": "Deranged man held for damaging mosque property in Kodambakkam",
+          "link": "https://www.dtnext.in/news/chennai/deranged-man-held-for-damaging-mosque-property-in-kodambakkam",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-08-25/q51ltq3q/834302_750x450752162_untitled1.webp",
-          "date": "2026-10-14T02:21:31+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-06-22/se5xk2pa/arr.jpg",
+          "date": "2026-10-15T02:15:38+00:00",
           "source": "DT Next"
         },
         {
-          "title": "DT Next Campus | Applications open for Indic AI Programme CAT; here is how you can apply",
-          "link": "https://www.dtnext.in/news/tamilnadu/dt-next-campus-applications-open-for-indic-ai-programme-cat-here-is-how-you-can-apply",
+          "title": "Faulty water supply valve wastes 1000s of litres amid concerns over dwindling Chembarambakkam levels",
+          "link": "https://www.dtnext.in/news/tamilnadu/faulty-water-supply-valve-wastes-1000s-of-litres-amid-concerns-over-dwindling-chembarambakkam-levels-2",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/import/h-upload/2024/07/17/834300-harriheliovaarahenrypatten24.webp",
-          "date": "2026-10-14T02:20:30+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/m39m7fab/1-4.jpg",
+          "date": "2026-10-15T02:06:37+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "MTC's e-bus expansion hits roadblock as two tenders fail",
+          "link": "https://www.dtnext.in/news/chennai/mtcs-e-bus-expansion-hits-roadblock-as-two-tenders-fail",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/h35beswq/1-3.jpg",
+          "date": "2026-10-15T02:05:25+00:00",
           "source": "DT Next"
         }
       ]
@@ -426,100 +426,100 @@
       "core": true,
       "items": [
         {
-          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-          "date": "2026-10-13T23:13:31+00:00",
+          "title": "Figma announces new features to define how agents work on its platform",
+          "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "summary": "Figma is also releasing its code layers feature in open beta.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+          "date": "2026-10-15T04:30:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
-          "date": "2026-10-13T23:05:34+00:00",
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+          "date": "2026-10-15T01:01:32+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-          "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-          "date": "2026-10-13T23:00:00+00:00",
+          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+          "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+          "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball…",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+          "date": "2026-10-15T00:00:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
-          "date": "2026-10-13T22:36:59+00:00",
+          "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+          "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+          "date": "2026-10-14T21:30:33+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-          "date": "2026-10-13T20:36:44+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-          "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-          "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
-          "date": "2026-10-13T18:30:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Facebook is giving users more control over their algorithm",
-          "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-          "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
-          "date": "2026-10-13T18:05:24+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield…",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-          "date": "2026-10-13T17:30:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-          "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-          "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their…",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
-          "date": "2026-10-13T17:18:25+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-          "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-          "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-          "date": "2026-10-13T17:00:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-          "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-          "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
-          "date": "2026-10-13T16:30:00+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-          "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+          "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
           "summary": "",
-          "image": null,
-          "date": "2026-10-13T15:25:50+00:00",
+          "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
+          "date": "2026-10-14T18:32:52+00:00",
           "source": "Hacker News"
+        },
+        {
+          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+          "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+          "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+          "date": "2026-10-14T18:23:46+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+          "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
+          "date": "2026-10-14T18:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "summary": "",
+          "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024",
+          "date": "2026-10-14T17:45:23+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Why do LLM pelicans look like this?",
+          "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+          "summary": "",
+          "image": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/diverse-grid.png",
+          "date": "2026-10-14T16:33:34+00:00",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+          "date": "2026-10-14T15:16:04+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+          "date": "2026-10-14T15:13:24+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+          "date": "2026-10-14T15:08:00+00:00",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -529,6 +529,38 @@
       "blurb": "Money, markets and companies worldwide",
       "core": true,
       "items": [
+        {
+          "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+          "summary": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F61%2Fc0ae826a434f85125c7d6ab98c31%2Fgettyimages-2298003777.jpg",
+          "date": "2026-10-14T13:33:44+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
+          "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fb7%2F7e5e3c7041bf9b160ee55734de73%2Fmazal-promo.jpg",
+          "date": "2026-10-14T09:00:00+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+          "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fd2%2F7648be544386b00b26b12b0b994f%2Fupright-circle.jpg",
+          "date": "2026-10-14T09:00:00+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "CNN, MS NOW and Politico prevail against White House — for now",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+          "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a…",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F43%2F782065af4948bc749692b20c1373%2Fgettyimages-2295498318.jpg",
+          "date": "2026-10-14T07:16:02+00:00",
+          "source": "NPR"
+        },
         {
           "title": "What ice cream has to do with this year's Nobel Prize in economics",
           "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
@@ -576,38 +608,6 @@
           "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+79/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fa1%2F2bc298f340b38e8dadaa0dabb377%2Fgettyimages-2297110253.jpg",
           "date": "2026-10-11T09:00:00+00:00",
           "source": "NPR"
-        },
-        {
-          "title": "Kalshi taps former FBI agent to fight against money laundering",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-          "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F1c%2Fdb89fe814ef380a180ae4dfac20a%2Fsean-fern-photo.jpg",
-          "date": "2026-10-09T22:23:11+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Fired OpenAI employees question the company's commitment to safety",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-          "summary": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2Fab%2F353f227b4ed395e0c6390444a5a6%2Fgettyimages-2295203915.jpg",
-          "date": "2026-10-09T21:28:09+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "How the beverage aisle got so wild",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5991779/how-the-beverage-aisle-got-so-wild",
-          "summary": "Planet Money traced many new beverage flavors to one laboratory that serves dozens of companies to see how new flavors are created and why we're seeing such an explosion of options right now.",
-          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-          "date": "2026-10-09T20:38:42+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Despite the controversy, data centers could be attractive to struggling rural towns",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5966615/despite-the-controversy-data-centers-could-be-attractive-to-struggling-rural-towns",
-          "summary": "There's lots of debate over data centers and where they should be located. In a struggling rural town data center development can look a lot more attractive.",
-          "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-          "date": "2026-10-09T20:03:15+00:00",
-          "source": "NPR"
         }
       ]
     },
@@ -618,100 +618,100 @@
       "core": false,
       "items": [
         {
-          "title": "Dinosaur named new species 102 years after fossil found on Isle of Wight",
-          "link": "https://www.newscientist.com/article/2593437-dinosaur-named-new-species-102-years-after-fossil-found-on-isle-of-wight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "Invictibellatrix amberina, a predator in the megaraptoran group of dinosaurs, lived in what is now Britain 120 million years ago and may have had claws 20 centimetres long",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316310035.jpg",
-          "date": "2026-10-13T23:01:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "Dogs are susceptible to the bouba-kiki effect",
-          "link": "https://www.newscientist.com/article/2593290-dogs-are-susceptible-to-the-bouba-kiki-effect/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "Just like humans, dogs seem to associate the nonsense word “bouba” with a rounded shape and “kiki” with a spiky shape, suggesting the connection stems from brain mechanisms that are shared between species",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316414456.jpg",
-          "date": "2026-10-13T23:01:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "Brain training shows promise for short-term depression relief",
-          "link": "https://www.newscientist.com/article/2593366-brain-training-shows-promise-for-short-term-depression-relief/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "Training that encourages people to alter their brain's activity seems to reduce negative emotions among people with depression, but not in the way researchers expected",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316435163.jpg",
-          "date": "2026-10-13T17:00:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "Cells from your mother could stay in your brain your whole life",
-          "link": "https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "Most people seem to have cells that crossed the placenta from their mother into their developing brain in utero, even if they're now in their 80s",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316444256.jpg",
-          "date": "2026-10-13T15:00:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "A revolutionary way of targeting tumours could beat even the worst cancers",
-          "link": "https://www.newscientist.com/article/2591348-a-revolutionary-way-of-targeting-tumours-could-beat-even-the-worst-cancers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "We have long treated cancer based on its location in the body. But a whole new approach that analyses tumours differently is now helping people survive forms of cancer that were once considered a death sentence",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315792197.jpg",
-          "date": "2026-10-13T15:00:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "The land’s ability to store carbon has bounced back after two bad years",
-          "link": "https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "Carbon absorption by forests and grasslands bounced back in 2025 thanks to favourable growing conditions, but El Niño could lead to another sharp slump next year",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316419659.jpg",
-          "date": "2026-10-13T13:00:00+00:00",
-          "source": "New Scientist"
-        },
-        {
-          "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-          "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a…",
-          "image": "https://www.sciencedaily.com/images/1920/cluster-xlssc-122.webp",
-          "date": "2026-10-13T11:27:24+00:00",
+          "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
+          "summary": "A groundbreaking study suggests that 2.22 million Indigenous Australians lived on the continent before European colonization, far more than previously believed. Researchers estimate that 93% of this population was lost…",
+          "image": "https://www.sciencedaily.com/images/1920/indigenous-australians-men-ceremonial-dance.webp",
+          "date": "2026-10-14T23:34:00+00:00",
           "source": "ScienceDaily"
         },
         {
-          "title": "This tiny jurassic predator helped pave the way for the human brain",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-          "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages. Although only 20 inches long, Megacauda…",
-          "image": "https://www.sciencedaily.com/images/1920/megacauda.webp",
-          "date": "2026-10-13T10:44:22+00:00",
+          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+          "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first…",
+          "image": "https://www.sciencedaily.com/images/1920/invictibellatrix-amberina.webp",
+          "date": "2026-10-14T22:51:56+00:00",
           "source": "ScienceDaily"
         },
         {
-          "title": "DNA recording system reveals how a single cell becomes a body",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211556.htm",
-          "summary": "Scientists have traced the development of a mouse embryo from its first two cells to the formation of organs, using a remarkable DNA recording system that reveals the family history of individual cells. Their findings…",
-          "image": "https://www.sciencedaily.com/images/1920/pronuclear-injection-of-dna-typewriter-into-fertilized-mouse-egg.webp",
-          "date": "2026-10-13T10:17:08+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-          "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a…",
-          "image": "https://www.sciencedaily.com/images/1920/hybrid-quantum-system-loop.webp",
-          "date": "2026-10-13T09:47:22+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Will we observe dark matter as a particle or a wave?",
-          "link": "https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "summary": "We have arguably already discovered dark matter, says columnist Chanda Prescod-Weinstein. To observe it, we will need to figure out whether we expect it to act like a particle or a wave.",
-          "image": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313800308.jpg",
-          "date": "2026-10-13T08:00:00+00:00",
+          "title": "Ancient shipwreck discovered off Turkey claimed to be world’s oldest",
+          "link": "https://www.newscientist.com/article/2593986-ancient-shipwreck-discovered-off-turkey-claimed-to-be-worlds-oldest/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "A ship that sank in the Early Bronze Age was probably carrying jars of olive oil and may have been on its way to the ancient city of Troy when it sank",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316584878.jpg",
+          "date": "2026-10-14T18:36:40+00:00",
           "source": "New Scientist"
         },
         {
-          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
-          "image": "https://www.sciencedaily.com/images/1920/lipizones-in-mouse-brain.webp",
-          "date": "2026-10-13T05:00:55+00:00",
-          "source": "ScienceDaily"
+          "title": "Self-replicating AIs are a great digital horror story – here’s the reality",
+          "link": "https://www.newscientist.com/article/2593983-self-replicating-ais-are-a-great-digital-horror-story-heres-the-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "Anthropic announced that an AI could self-replicate inside smart devices within months, stoking fear around the internet. Columnist Jacob Aron explains the technical limitations that make this spook story less than…",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316607502.jpg",
+          "date": "2026-10-14T18:11:02+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "We can rescue the AMOC after its collapse – but it won’t be easy",
+          "link": "https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "An AMOC weakened by climate change can be revived by cooling global temperatures, but we don't have the technology to remove huge quantities of CO2 and drive that cooling",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316600964.jpg",
+          "date": "2026-10-14T18:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "Twisteddoodles on life before the study began…",
+          "link": "https://www.newscientist.com/article/2593499-twisteddoodles-on-life-before-the-study-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "This week's cartoon from Twisteddoodles",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315900208.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "Tom Gauld: DNA and fossil evidence proved they were close relatives",
+          "link": "https://www.newscientist.com/article/2593496-tom-gauld-dna-and-fossil-evidence-proved-they-were-close-relatives/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "Tom Gauld's weekly cartoon",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315899499.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "Some of our favourite New Scientist Live moments – in photographs",
+          "link": "https://www.newscientist.com/article/2593337-some-of-our-favourite-new-scientist-live-moments-in-photographs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "With talks by experts from Alice Roberts to Tim Spector and a host of scientific fun to be had, this year's New Scientist Live took place from 10 to 12 October. Check out the action in this selection of shots from the…",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316312672.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "This El Niño will bring predictable disasters, so why aren’t we ready?",
+          "link": "https://www.newscientist.com/article/2593320-__trashed-111/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "We know that this monster El Niño will bring floods, droughts, cyclones and wildfires, but some governments aren’t putting in the necessary resources to prepare for disaster",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316316106.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "This week’s new questions",
+          "link": "https://www.newscientist.com/article/2593198-this-weeks-new-questions-367/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "Why do humans enjoy black-and-white photos or videos, but have less tolerance for images that have only two other colours? If two chromosomes are better than one, why not three?",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315509712.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "This prize-winning sci-fi novel about wolf rewilding made me cry",
+          "link": "https://www.newscientist.com/article/2593191-this-prize-winning-sci-fi-novel-about-wolf-rewilding-made-me-cry/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "When There Are Wolves Again by E. J. Swift somehow delivers both a determined call for more wildernesses globally – and a great novel. Sci-fi columnist Emily H. Wilson is thrilled she gave it another chance",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315511608.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
+        },
+        {
+          "title": "Hidden sounds of nature brought to life in fascinating new book",
+          "link": "https://www.newscientist.com/article/2593189-hidden-sounds-of-nature-brought-to-life-in-fascinating-new-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "summary": "From ice groaning to a very noisy troop of monkeys, Wilderness Songs by Justin Anderson shows some of the best nature stories are told through soundscapes as well as words – with added QR codes, finds Dhruti Shah",
+          "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315751716.jpg",
+          "date": "2026-10-14T17:00:00+00:00",
+          "source": "New Scientist"
         }
       ]
     },
@@ -722,99 +722,99 @@
       "core": false,
       "items": [
         {
-          "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-          "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-          "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "date": "2026-10-14T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Hurricane Simon Lurks Off the Mexican Coast",
-          "link": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-          "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-          "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir2_20261011_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "date": "2026-10-14T04:01:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
-          "summary": "On Oct. 13, 1773, a French astronomer named Charles Messier discovered the \"Whirlpool Galaxy,\" also known as Messier 51, or M51. Here's why it mattered.",
-          "image": "https://cdn.mos.cms.futurecdn.net/HysbXdLLrhsSef2Qzd4BJW-1920-80.jpg",
-          "date": "2026-10-13T21:00:00+00:00",
+          "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+          "summary": "SpaceX's CRS-35 cargo Dragon will rendezvous with the International Space Station today (Oct. 15) after a two-day chase. Here's how to watch it live.",
+          "image": "https://cdn.mos.cms.futurecdn.net/JZpzwSrjyMf3WvaFW3PhKH-1920-80.jpg",
+          "date": "2026-10-15T04:05:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-          "link": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-          "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg",
-          "date": "2026-10-13T20:41:11+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
-          "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
-          "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
-          "image": "https://cdn.mos.cms.futurecdn.net/uASj4gtGhAVC4axVFBoJdB-1920-80.jpg",
-          "date": "2026-10-13T20:00:00+00:00",
+          "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
+          "link": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
+          "summary": "Scientists have performed a cosmic genealogy on planetary systems in the Milky Way, finding two distinct families that influence the evolution and fate of these systems.",
+          "image": "https://cdn.mos.cms.futurecdn.net/2hhjsHRacj2LrS7kazdKDZ-1920-80.png",
+          "date": "2026-10-14T21:00:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-          "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-          "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
-          "image": "https://cdn.mos.cms.futurecdn.net/NAZYusmisB9G4RE3CTnRj5-1920-80.jpg",
-          "date": "2026-10-13T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-          "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-          "summary": "The location of Earth's geographic poles has changed several times over the past 320 million years in a process known as true polar wander.",
-          "image": "https://cdn.mos.cms.futurecdn.net/42LpKnXfZEAEmymrjURR8K-1920-80.jpg",
-          "date": "2026-10-13T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Comparing Off-World Rover Driving Distances",
-          "link": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
-          "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and…",
-          "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26814/PIA26814.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "date": "2026-10-13T17:56:08+00:00",
+          "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+          "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+          "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson…",
+          "image": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
+          "date": "2026-10-14T20:13:29+00:00",
           "source": "NASA"
         },
         {
-          "title": "NASA’s Record-Setting Perseverance Rover Team",
-          "link": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
-          "summary": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover…",
-          "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26813/PIA26813.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "date": "2026-10-13T17:48:46+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "How to watch 'VisionQuest' online — stream the MCU's 'WandaVision' spinoff series from anywhere",
-          "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-visionquest",
-          "summary": "How to watch \"VisionQuest\", the MCU spinoff starring Paul Bettany, James Spader and Todd Stashwick. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-          "image": "https://cdn.mos.cms.futurecdn.net/sNho39kJvduMhQ4QZdFxHk-1920-80.jpg",
-          "date": "2026-10-13T17:45:00+00:00",
+          "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
+          "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview",
+          "summary": "'Luckily I’m still in love with this story, and I am in love with writing it.'",
+          "image": "https://cdn.mos.cms.futurecdn.net/aLZ8NFZTnqbp2ksicjjuv8-1920-80.jpg",
+          "date": "2026-10-14T20:00:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "Perseverance Navcam Image Marks Record Drive",
-          "link": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
-          "summary": "Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol,…",
-          "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26812/PIA26812.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "date": "2026-10-13T17:42:51+00:00",
+          "title": "NASA Astronauts to Answer Questions from Florida Students",
+          "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+          "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m.…",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+          "date": "2026-10-14T19:12:51+00:00",
           "source": "NASA"
         },
         {
-          "title": "Transporter-18 SmallSats Encapsulation",
-          "link": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
-          "summary": "Three NASA-supported small spacecraft, along with many commercial payloads, are shown before being encapsulated in a SpaceX Falcon 9 ahead of launch on Oct. 1, 2026. The ASCENT Propulsion Dual Mode CubeSat, the…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg",
-          "date": "2026-10-13T17:38:37+00:00",
+          "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
+          "summary": "A decade after Elon Musk publicly unveiled plans for the fully reusable megarocket, Starship has reached orbit. How far away is Mars?",
+          "image": "https://cdn.mos.cms.futurecdn.net/cNUJh6WPZB3JHY5nSRH6Uh-1920-80.jpg",
+          "date": "2026-10-14T18:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+          "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+          "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical…",
+          "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/trebleclef.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "date": "2026-10-14T16:46:58+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane",
+          "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-14-2026",
+          "summary": "On Oct. 14, 1947, Chuck Yeager broke the sound barrier for the first time! Here's why it mattered.",
+          "image": "https://cdn.mos.cms.futurecdn.net/vAoqMrgVLnW5fTPmbwpupL-1920-80.jpg",
+          "date": "2026-10-14T16:30:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
+          "link": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
+          "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
+          "image": "https://cdn.mos.cms.futurecdn.net/srm5QgGPesHZUwwF9z2CAn-1920-80.jpg",
+          "date": "2026-10-14T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+          "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+          "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the…",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
+          "date": "2026-10-14T15:18:38+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon",
+          "link": "https://www.space.com/entertainment/space-movies-shows/the-x-files-is-officially-returning-as-hulu-picks-up-ryan-cooglers-reimagining-of-the-sci-fi-icon",
+          "summary": "Trust no one.",
+          "image": "https://cdn.mos.cms.futurecdn.net/8LFwebPC88EWazRj6Ut4iZ-1920-80.jpg",
+          "date": "2026-10-14T15:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+          "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+          "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery…",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03142.jpg",
+          "date": "2026-10-14T14:41:21+00:00",
           "source": "NASA"
         }
       ]
@@ -826,99 +826,99 @@
       "core": false,
       "items": [
         {
-          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
-          "summary": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night , she writes about two young prodigies in the late 18th and early 19th centuries.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/750x422+0+105/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F23%2Fea5a754d4a5ba207acd1f62ff6c6%2Fyiyun-li-credit-hannah-yoon-1200.jpg",
-          "date": "2026-10-13T17:41:07+00:00",
+          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
+          "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains…",
+          "image": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
+          "date": "2026-10-15T04:14:55+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "A 47-year study reveals the age when your body starts losing strength",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+          "summary": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates…",
+          "image": "https://www.sciencedaily.com/images/1920/tired-asian-man-fitness-running-exercise-looking-at-watch.webp",
+          "date": "2026-10-15T00:28:19+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
+          "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the…",
+          "image": "https://www.sciencedaily.com/images/1920/cancer-cells-hiding-on-tissue.webp",
+          "date": "2026-10-14T22:03:26+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+          "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains.…",
+          "image": "https://www.sciencedaily.com/images/1920/athletic-man-workout-recovery-ice-bath.webp",
+          "date": "2026-10-14T12:04:20+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+          "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two…",
+          "image": "https://www.sciencedaily.com/images/1920/gary-and-shaggy-cats-marfan-syndrome.webp",
+          "date": "2026-10-14T11:56:22+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+          "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to…",
+          "image": "https://www.sciencedaily.com/images/1920/success-strength-boost.webp",
+          "date": "2026-10-14T11:36:23+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+          "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at…",
+          "image": "https://www.sciencedaily.com/images/1920/tau-tangles-amyloid-beta-neuron-cells-in-brain-alzheimers-dementia.webp",
+          "date": "2026-10-14T11:06:19+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
+          "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and…",
+          "image": "https://www.sciencedaily.com/images/1920/embryonic-stem-cells-cellular-therapy-regeneration.webp",
+          "date": "2026-10-14T10:17:58+00:00",
+          "source": "ScienceDaily"
+        },
+        {
+          "title": "These workers help train robots who could one day steal their jobs",
+          "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+          "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3703x2083+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fc6%2Fd28dafef4d61ba6cc03148fd71ef%2Fai-robots-final.jpeg",
+          "date": "2026-10-14T09:28:47+00:00",
           "source": "NPR"
         },
         {
-          "title": "Scientists discover a surprising paradox in how our cells age",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
-          "summary": "Scientists have discovered that the body's cellular recycling system behaves very differently during aging than previously believed, with higher activity sometimes linked to worse physical health. A small study suggests…",
-          "image": "https://www.sciencedaily.com/images/1920/human-biological-cells-with-nucleus-and-membrane-structures.webp",
-          "date": "2026-10-13T11:01:38+00:00",
-          "source": "ScienceDaily"
+          "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+          "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fd2%2F7648be544386b00b26b12b0b994f%2Fupright-circle.jpg",
+          "date": "2026-10-14T09:00:00+00:00",
+          "source": "NPR"
         },
         {
-          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
-          "image": "https://www.sciencedaily.com/images/1920/lipizones-in-mouse-brain.webp",
-          "date": "2026-10-13T05:00:55+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
-          "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The…",
-          "image": "https://www.sciencedaily.com/images/1920/mithocondria-coating.webp",
-          "date": "2026-10-13T01:33:58+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
-          "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed…",
-          "image": "https://www.sciencedaily.com/images/1920/transparent-brain-inflammation-disease.webp",
-          "date": "2026-10-13T00:43:43+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Scientists find a hidden problem with endless smartphone scrolling",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211611.htm",
-          "summary": "Excessive smartphone use may be taking a hidden toll on the brain and body, with heavy scrolling linked to poorer memory, reduced attention, disrupted sleep, and potential balance problems. Researchers found that weak…",
-          "image": "https://www.sciencedaily.com/images/1920/sad-young-adult-female-smartphone-stare.webp",
-          "date": "2026-10-12T22:25:50+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Your gut bacteria could be changing how many calories you absorb",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
-          "summary": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a…",
-          "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
-          "date": "2026-10-12T21:44:16+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Sauna research gathers steam",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5977014/sauna-research-gathers-steam",
-          "summary": "Leading researchers in heat exposure are coming together to reach a consensus on what we know — and don't — about the health benefits of sauna and its potential for treating and preventing disease.",
+          "title": "What to know about Pope Leo's lung cancer diagnosis",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000696/what-to-know-about-pope-leos-lung-cancer-diagnosis",
+          "summary": "NPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis.",
           "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-          "date": "2026-10-12T21:39:54+00:00",
+          "date": "2026-10-14T08:41:12+00:00",
           "source": "NPR"
         },
         {
-          "title": "Popular weight loss drugs linked to a surprising fingernail problem",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-          "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently…",
-          "image": "https://www.sciencedaily.com/images/1920/fingernail-detachment.webp",
-          "date": "2026-10-12T09:34:48+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-          "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with…",
-          "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-          "date": "2026-10-12T09:23:55+00:00",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Here's what to know if you're unsure about your measles immunity status",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
-          "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F03%2Fc627607e45a2a96bb711a7def771%2Fnpr-measles-109.jpg",
-          "date": "2026-10-12T09:00:00+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Scientists discover vanilla’s hidden healing potential",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-          "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The…",
-          "image": "https://www.sciencedaily.com/images/1920/aromatic-vanilla-sticks-and-flowers-on-wooden-board.webp",
-          "date": "2026-10-12T04:34:24+00:00",
+          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+          "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced…",
+          "image": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-pain-inflammation-x-ray.webp",
+          "date": "2026-10-14T04:39:11+00:00",
           "source": "ScienceDaily"
         }
       ]
@@ -930,99 +930,99 @@
       "core": false,
       "items": [
         {
-          "title": "Alzarri Joseph, Shai Hope to miss WI's two-Test series in Bangladesh",
-          "link": "https://www.cricinfo.com/ci/content/story/1558358.html?ex_cid=OTC-RSS",
-          "summary": "Alzarri Joseph has been \"withdrawn\" to manage his workload while Hope was rested keeping the ODI World Cup qualifiers in February 2027 in mind",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/384500/384531.jpg",
-          "date": "2026-10-14T04:47:42+00:00",
+          "title": "Samson: Tilak's wicket the 'turning point' in India's loss",
+          "link": "https://www.cricinfo.com/ci/content/story/1558515.html?ex_cid=OTC-RSS",
+          "summary": "India lost the fourth T20I by 24 runs while chasing 248 in Hyderabad",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423800/423809.jpg",
+          "date": "2026-10-15T03:22:16+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Atal century, lower-order resistence help Afghanistan hang on to a draw",
-          "link": "https://www.cricinfo.com/ci/content/story/1558264.html?ex_cid=OTC-RSS",
-          "summary": "Bangladesh's missed chances especially in the final hour cost them as they couldn't pick up the last two wickets",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423726.jpg",
-          "date": "2026-10-14T04:27:47+00:00",
+          "title": "Hope ton, Paul five-for help West Indies level series 2-2",
+          "link": "https://www.cricinfo.com/ci/content/story/1558497.html?ex_cid=OTC-RSS",
+          "summary": "West Indies bowlers reined India in after Sanju Samson's 56 off 23",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423800/423807.jpg",
+          "date": "2026-10-15T03:12:47+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Australia bowl again, Litchfield out with hip complaint; Bangladesh debut for Disha Biswas",
-          "link": "https://www.cricinfo.com/ci/content/story/1558362.html?ex_cid=OTC-RSS",
-          "summary": "Bangladesh made three changes in search of their first win of the series",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414985.jpg",
-          "date": "2026-10-14T04:09:41+00:00",
+          "title": "Green 'progressing well' but still uncertain for second Test",
+          "link": "https://www.cricinfo.com/ci/content/story/1558422.html?ex_cid=OTC-RSS",
+          "summary": "Josh Inglis has returned to the nets after rejoining the squad following the fractured finger he suffered in the first ODI",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/421400/421432.jpg",
+          "date": "2026-10-14T18:08:29+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Rabada closing in on return for Gqeberha Test",
-          "link": "https://www.cricinfo.com/ci/content/story/1558331.html?ex_cid=OTC-RSS",
-          "summary": "He had missed the first Test against Australia \"from a precautionary point of view\" but remained with the squad and was shown bowling with increasing intensity",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/407600/407694.jpg",
-          "date": "2026-10-14T03:30:03+00:00",
+          "title": "Maddinson admits 'huge relief' after second outing in Durban",
+          "link": "https://www.cricinfo.com/ci/content/story/1558423.html?ex_cid=OTC-RSS",
+          "summary": "Maddinson said he was aware of \"some negative comments around\" but said he got support from within the team",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423671.jpg",
+          "date": "2026-10-14T18:05:20+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Weibgen century helps Queensland to One-Day Cup win over WA",
-          "link": "https://www.cricinfo.com/ci/content/story/1558351.html?ex_cid=OTC-RSS",
-          "summary": "Former Australia Under-19 captain makes second One-Day century of the season to help Queensland beat WA",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423768.jpg",
-          "date": "2026-10-14T00:34:02+00:00",
+          "title": "Rahmat Shah calls hard-fought Abu Dhabi draw 'equal to a win'",
+          "link": "https://www.cricinfo.com/ci/content/story/1558370.html?ex_cid=OTC-RSS",
+          "summary": "\"Qais paid absolutely no attention to my advice whatsoever,\" jokes Richard Pybus after the No. 9 batter brought out his big shots at a time when another wicket would have been costly for Afghanistan",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423742.jpg",
+          "date": "2026-10-14T16:03:03+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Hardie and hamstrung Fanning pull off stunning victory for Western Australia",
-          "link": "https://www.cricinfo.com/ci/content/story/1557933.html?ex_cid=OTC-RSS",
-          "summary": "Hardie made 80 not out and Fanning limped to 14 not out, while carrying a serious hamstring injury, to guide WA home to a thrilling chase of 201 with two wickets to spare",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423619.jpg",
-          "date": "2026-10-14T00:12:25+00:00",
+          "title": "MCC dig up 'unsatisfactory' Test pitch after ICC demerit point",
+          "link": "https://www.cricinfo.com/ci/content/story/1558470.html?ex_cid=OTC-RSS",
+          "summary": "Surface used for New Zealand Test in June led to 40 wickets falling in 166 overs",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/417900/417912.jpg",
+          "date": "2026-10-14T15:48:20+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Australia keep door open for shuffling batting order",
-          "link": "https://www.cricinfo.com/ci/content/story/1558335.html?ex_cid=OTC-RSS",
-          "summary": "Cummins, though, says there needs to be a compelling case to move Renshaw from No.5",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423604.jpg",
-          "date": "2026-10-13T18:19:02+00:00",
+          "title": "SA's middle order in a muddle and Conrad wants them to 'get bloody better'",
+          "link": "https://www.cricinfo.com/ci/content/story/1558426.html?ex_cid=OTC-RSS",
+          "summary": "The SA coach could look for middle-order replacements outside the current squad but he cautioned against overreacting to their 214-run loss against Australia",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423656.jpg",
+          "date": "2026-10-14T15:14:25+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
-          "link": "https://www.cricinfo.com/ci/content/story/1558343.html?ex_cid=OTC-RSS",
-          "summary": "Sri Lanka hunted down Pakistan's total of 168 for 8 with 17 balls and eight wickets to spare",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423766.jpg",
-          "date": "2026-10-13T17:21:42+00:00",
+          "title": "Unchanged India bowl first in bid to win series, West Indies make two changes",
+          "link": "https://www.cricinfo.com/ci/content/story/1558464.html?ex_cid=OTC-RSS",
+          "summary": "Jewel Andrew replaces Kamil Pooran while Romario Shepherd is back for Quentin Sampson",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/404500/404522.jpg",
+          "date": "2026-10-14T13:33:50+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Bavuma focused on South Africa response after first taste of defeat",
-          "link": "https://www.cricinfo.com/ci/content/story/1558308.html?ex_cid=OTC-RSS",
-          "summary": "Test captain says there are \"obvious things we could improve on\" after unbeaten run ended in Durban",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423741.jpg",
-          "date": "2026-10-13T17:17:01+00:00",
+          "title": "Natarajan returns to SRH, Ansari traded to Dehi Capitals",
+          "link": "https://www.cricinfo.com/ci/content/story/1558453.html?ex_cid=OTC-RSS",
+          "summary": "Natarajan joins SRH at a revised fee of INR 5 crore, while Ansari goes to DC at his existing fee of INR 40 lakh",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379543.jpg",
+          "date": "2026-10-14T12:37:51+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "'We should have taken all ten wickets' - Shanto rues missed chances",
-          "link": "https://www.cricinfo.com/ci/content/story/1558342.html?ex_cid=OTC-RSS",
-          "summary": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423762.jpg",
-          "date": "2026-10-13T17:00:25+00:00",
+          "title": "Iyer moves to fourth in T20I batting rankings",
+          "link": "https://www.cricinfo.com/ci/content/story/1558447.html?ex_cid=OTC-RSS",
+          "summary": "Markram has moved into the top ten of the Test batting charts, while Hazlewood has moved to to seventh on the bowling front",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423400/423471.jpg",
+          "date": "2026-10-14T11:42:26+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "SA20: Donald replaces Simons as JSK's bowling coach",
-          "link": "https://www.cricinfo.com/ci/content/story/1558340.html?ex_cid=OTC-RSS",
-          "summary": "Eric Simons and Tommy Simsek exit JSK",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/300700/300732.jpg",
-          "date": "2026-10-13T16:12:16+00:00",
+          "title": "Chad Laycock takes record-breaking five wickets in an over in South African T20 match",
+          "link": "https://www.cricinfo.com/ci/content/story/1558419.html?ex_cid=OTC-RSS",
+          "summary": "The KZN-Inland fast bowler finished with 6 for 26, the best figures in Pro20 Cup history",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423794.jpg",
+          "date": "2026-10-14T10:30:58+00:00",
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Hazlewood six-for seals dominant Australia win",
-          "link": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
-          "summary": "Set a record 421-run target, South Africa were bowled out for 206 in their second innings",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423736.jpg",
-          "date": "2026-10-13T15:43:38+00:00",
+          "title": "Home ODI World Cup before retiring 'certainly a blessing' for Sikandar Raza",
+          "link": "https://www.cricinfo.com/ci/content/story/1558414.html?ex_cid=OTC-RSS",
+          "summary": "\"Our performances will get better in all formats,\" Sikandar Raza says of Zimbabwe cricket if, as expected, the WTC becomes a 12-team tournament from the next cycle",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414136.jpg",
+          "date": "2026-10-14T10:21:16+00:00",
           "source": "ESPNcricinfo"
         }
       ]
@@ -1034,100 +1034,100 @@
       "core": false,
       "items": [
         {
-          "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-          "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-          "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
-          "date": "2026-10-14T01:30:42+00:00",
+          "title": "Figma announces new features to define how agents work on its platform",
+          "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "summary": "Figma is also releasing its code layers feature in open beta.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+          "date": "2026-10-15T04:30:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-          "date": "2026-10-13T23:13:31+00:00",
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+          "date": "2026-10-15T01:01:32+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
-          "date": "2026-10-13T23:05:34+00:00",
+          "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+          "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+          "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
+          "date": "2026-10-15T00:49:31+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-          "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-          "date": "2026-10-13T23:00:00+00:00",
+          "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+          "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+          "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
+          "date": "2026-10-15T00:30:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
-          "date": "2026-10-13T22:36:59+00:00",
+          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+          "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+          "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball…",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+          "date": "2026-10-15T00:00:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-          "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-          "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792",
-          "date": "2026-10-13T21:15:00+00:00",
+          "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+          "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+          "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
+          "date": "2026-10-14T23:00:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-          "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-          "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
-          "date": "2026-10-13T20:59:11+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-          "date": "2026-10-13T20:36:44+00:00",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI engineer arrested in bugging of executive conference room",
-          "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-          "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 486 # Comments: 420",
-          "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
-          "date": "2026-10-13T20:23:55+00:00",
+          "title": "Tiny Little Office",
+          "link": "https://tinylittleoffice.com/",
+          "summary": "",
+          "image": "https://tinylittleoffice.com/og.png",
+          "date": "2026-10-14T22:10:08+00:00",
           "source": "Hacker News"
         },
         {
-          "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-          "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-          "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
-          "date": "2026-10-13T20:13:53+00:00",
+          "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+          "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+          "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+          "date": "2026-10-14T22:00:00+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-          "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-          "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-          "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850",
-          "date": "2026-10-13T20:00:00+00:00",
+          "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+          "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+          "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
+          "date": "2026-10-14T21:48:20+00:00",
           "source": "TechCrunch"
         },
         {
-          "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-          "link": "https://guitoro.com/",
-          "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each…",
-          "image": "https://guitoro.com/brand/guitoro-social.png?v=gold-cutout-medium",
-          "date": "2026-10-13T19:11:48+00:00",
+          "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+          "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+          "date": "2026-10-14T21:30:33+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+          "link": "https://typesafe.ai/blog/jev-1-14",
+          "summary": "",
+          "image": "https://framerusercontent.com/images/KBTvCTXoQaZeABcI7te5PTQw7Q.png?width=1574&height=996",
+          "date": "2026-10-14T21:11:03+00:00",
           "source": "Hacker News"
+        },
+        {
+          "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+          "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+          "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
+          "date": "2026-10-14T21:00:00+00:00",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -1138,100 +1138,100 @@
       "core": false,
       "items": [
         {
-          "title": "Diwali shopping 2026: CPI inflation crosses 5% in September, may hit 6.8% in November — what item-wise data reveals",
-          "link": "https://www.livemint.com/money/personal-finance/diwali-shopping-2026-cpi-inflation-crosses-5-in-september-may-hit-6-8-in-november-what-item-wise-data-reveals-11791946414211.html",
-          "summary": "India’s retail inflation crossed 5% in September 2026, with projections pointing to a possible peak in November. As households prepare for Diwali shopping, what do the latest CPI figures reveal about festive expenses,…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/diwa_1791952061342_4KG9_1791952065727_Qx1O_0a4e837e-81c3-48b6-8c39-a04b35f5273d_IZEX.png",
-          "date": "2026-10-14T04:43:31+00:00",
-          "source": "Mint"
-        },
-        {
-          "title": "Auto and tyre stocks: Sales are booming, but costs are biting. Motilal Oswal's 13 Buy, Sell and Neutral calls",
-          "link": "https://economictimes.indiatimes.com/wealth/invest/auto-and-tyre-stocks-sales-are-booming-but-costs-are-biting-motilal-oswals-13-buy-sell-and-neutral-calls/slideshow/134932102.cms",
+          "title": "Blacklisted, sued, sold to collectors? The real cost of not paying your credit card",
+          "link": "https://economictimes.indiatimes.com/wealth/borrow/blacklisted-sued-sold-to-collectorsthe-real-cost-of-not-paying-your-credit-card-bill/slideshow/134957228.cms",
           "summary": "",
-          "image": "https://img.etimg.com/photo/msid-134932081,imgsize-120334.cms",
-          "date": "2026-10-14T04:30:41+00:00",
+          "image": "https://img.etimg.com/photo/msid-134957214,imgsize-136998.cms",
+          "date": "2026-10-15T04:17:18+00:00",
           "source": "Economic Times"
         },
         {
-          "title": "Best car for city driving in India: Petrol, hybrid, EV or automatic? 8 things to consider",
-          "link": "https://economictimes.indiatimes.com/wealth/plan/best-car-for-city-driving-in-india-petrol-hybrid-ev-or-automatic-8-things-to-consider/slideshow/134931948.cms",
+          "title": "Apartment vs individual house: Which is a better bet for your money? Compare cost, maintenance and long-term returns",
+          "link": "https://economictimes.indiatimes.com/wealth/invest/apartment-vs-individual-house-which-is-a-better-bet-for-your-money-compare-cost-maintenance-and-long-term-returns/slideshow/134956471.cms",
           "summary": "",
-          "image": "https://img.etimg.com/photo/msid-134931930,imgsize-106030.cms",
-          "date": "2026-10-14T04:15:35+00:00",
+          "image": "https://img.etimg.com/photo/msid-134956403,imgsize-141706.cms",
+          "date": "2026-10-15T03:35:41+00:00",
           "source": "Economic Times"
         },
         {
-          "title": "5 money lessons from Jay Shetty's bestseller ‘Think Like a Monk’: Ancient Vedic wisdom for wealth creation",
-          "link": "https://www.livemint.com/money/personal-finance/5-money-lessons-from-jay-shettys-bestseller-think-like-a-monk-ancient-vedic-wisdom-for-wealth-creation-11791948616725.html",
-          "summary": "Jay Shetty’s Think Like a Monk offers five ways to build a healthier relationship with money. Check out 5 lessons about wealth creation.&nbsp;",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/Monk_1791948791858_HpLG_1791948798378_VZpr_518f24e5-6e17-4f95-bbf0-9a32d4c0ffce_890X.jpg",
-          "date": "2026-10-14T03:37:09+00:00",
+          "title": "HDFC Small Cap Fund is the only scheme with negative YTD returns in 2026: What sets it apart from the category leader?",
+          "link": "https://www.livemint.com/money/personal-finance/hdfc-small-cap-fund-is-the-only-scheme-with-negative-ytd-returns-in-2026-what-sets-it-apart-11792030311670.html",
+          "summary": "HDFC Small Cap Fund has delivered negative returns in 2026 so far, while Bank of India Small Cap Fund leads the category with 32.71% returns. Differences in small-cap allocation, sector exposure and stock selection…",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/hdfccc_1792033291967_I5Sz_1792033300125_JYrz_1bf1e319-8d66-4e2b-bd86-f65468f4ecf5_HJIP.png",
+          "date": "2026-10-15T03:33:18+00:00",
           "source": "Mint"
         },
         {
-          "title": "Online shopping, job and lottery scams in India 2026: 67% of victims recover no money, survey finds",
-          "link": "https://www.livemint.com/money/personal-finance/online-shopping-job-and-lottery-scams-in-india-2026-67-of-victims-recover-no-money-survey-finds-11791943198008.html",
-          "summary": "Nearly 67% of Indian scam victims who lost money recovered nothing, while 33% of reported cases remain unresolved. From online shopping fraud to AI-enabled scams, here's what the findings reveal and what consumers need…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/online_sm_1791945903550_5UoW_1791945910441_1ROq_35d60636-d807-459b-9573-59d98d81a52b_KIpo.png",
-          "date": "2026-10-14T03:00:10+00:00",
+          "title": "Govt renames NSAP as PM Samajik Sahayata Yojana, raises disability pension to ₹375; minimum age limit removed",
+          "link": "https://www.livemint.com/money/personal-finance/govt-renames-nsap-as-pm-samajik-sahayata-yojana-raises-disability-pension-to-375-minimum-age-limit-removed-11792025745647.html",
+          "summary": "The Union Cabinet has approved renaming the National Social Assistance Programme (NSAP) and revising disability pension rules. Monthly assistance will rise to ₹375 for beneficiaries aged 0-79 and ₹625 for those aged 80…",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/ens_1792027666252_pe81_1792027669743_Wtr7_721fa6ab-c2eb-4d5a-adc1-395ed73603b1_jwuf.png",
+          "date": "2026-10-15T01:54:10+00:00",
           "source": "Mint"
         },
         {
-          "title": "Income Tax Act, 2025: NRI tax residency in India—182-day stay rule, ₹15 lakh threshold and ITR exemption condition",
-          "link": "https://www.livemint.com/money/personal-finance/income-tax-act-2025-nri-tax-residency-in-india-182-day-stay-rule-15-lakh-threshold-and-itr-exemption-condition-11791939879172.html",
-          "summary": "Living abroad does not automatically make you a non-resident for Indian tax purposes. Residency depends on the number of days spent in India, income and other conditions. Know about the 182-day and 120-day tests, deemed…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/taxx_1791942327313_6Fap_1791942331337_BlBN_7d4822d7-ac9f-4e4d-8ee6-f2e098124b93_kyx2.png",
-          "date": "2026-10-14T02:11:31+00:00",
+          "title": "NPS Charges: ₹20,000 a year on ₹1 crore corpus; What subscribers should know before investing through PoP",
+          "link": "https://economictimes.indiatimes.com/wealth/invest/nps-charges-20000-a-year-on-1-crore-corpus-what-subscribers-should-know-before-investing-through-pop/articleshow/134848126.cms",
+          "summary": "Thinking about joining the National Pension System (NPS)? The choice you make between accessing e-NPS or utilizing a Point of Presence (PoP) can greatly influence your overall costs for years to come. Grasping the fee…",
+          "image": "https://img.etimg.com/photo/msid-134848126,imgsize-167334.cms",
+          "date": "2026-10-15T01:00:00+00:00",
+          "source": "Economic Times"
+        },
+        {
+          "title": "Sent money to the wrong UPI ID? Here’s how to raise a complaint and recover it",
+          "link": "https://www.livemint.com/money/personal-finance/sent-money-to-the-wrong-upi-id-here-s-how-to-raise-a-complaint-and-recover-it-11792001015222.html",
+          "summary": "Report the transaction through your UPI app and bank immediately to improve your chances of recovering the money",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/call_1727265966176_1792001703359_oQbh_9dc410e8-efc2-4400-91ff-554d7ba94894_zMuI.jpg",
+          "date": "2026-10-14T18:28:56+00:00",
           "source": "Mint"
         },
         {
-          "title": "CBDT sends tax audit reminders to nearly 12,000 professionals ahead of 21 October deadline: What is SAKSHAM NUDGE?",
-          "link": "https://www.livemint.com/money/personal-finance/cbdt-sends-tax-audit-reminders-to-nearly-12-000-professionals-ahead-of-21-october-deadline-what-is-saksham-nudge-11791941640497.html",
-          "summary": "The CBDT has expanded its SAKSHAM NUDGE initiative to include tax professionals, sending nearly 12,000 reminders to those with lower-than-usual tax audit filings.&nbsp;",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/pexels-photo-8296977_1791941943613_HUEQ_1791941955392_5w4t_ebf50501-8d22-4a7f-b05e-619cebad15d8_Uhu6.jpeg",
-          "date": "2026-10-14T01:43:13+00:00",
+          "title": "US stocks: You receive $75 on a $100 dividend, but India may tax the full amount again; how to claim relief",
+          "link": "https://www.livemint.com/money/personal-finance/us-stocks-you-receive-75-on-a-100-dividend-but-india-may-tax-the-full-amount-again-how-to-claim-relief-11791996665585.html",
+          "summary": "Indian residents earning dividends from US stocks generally receive payouts after US withholding tax. The full dividend is again taxable in India. Here's how to claim relief.",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/NYSE-TRUMP-50_1741919261406_1792001721929_N23V_8234f154-d977-4b66-a810-90fd61647f94_lO8d.jpg",
+          "date": "2026-10-14T18:21:36+00:00",
           "source": "Mint"
         },
         {
-          "title": "LIC to launch three insurance plans on 19 October: Benefits, features and eligibility explained",
-          "link": "https://www.livemint.com/money/personal-finance/lic-to-launch-three-insurance-plans-on-19-october-benefits-features-and-eligibility-explained-11791913041766.html",
-          "summary": "LIC will offer three new insurance plans from 19 October 2026. New Jeevan Dhara-II provides deferred annuity income, Health Shield offers fixed health benefits, and New Cancer Cover provides financial payouts for…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Gemini_Geneated_Image_rvayo6rvayo6rvay_179191346_1791913476610_2iL3_1791913476750_qbGO_5b69a3f5-4654-4eb5-b96e-1c5afb2f28b9_U3Vo.png",
-          "date": "2026-10-13T18:06:03+00:00",
+          "title": "SC makes insurance mandatory for all train tickets from Oct 27; here's what it means for customers booking offline",
+          "link": "https://www.livemint.com/money/sc-makes-insurance-mandatory-for-all-train-tickets-from-oct-27-heres-what-it-means-for-customers-booking-offline-11791992943821.html",
+          "summary": "The Supreme Court has directed Indian Railways to make insurance mandatory for all tickets bought at station counters from October 27, 2026, extending coverage already available optionally to online ticket holders.…",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/a786d724-5a01-4634-b3f9-9b2f2cfcc3ed_1791996213315_pESZ_1791996217502_jvk5_c6aaee44-3588-439f-8f4f-51bcd3988924_bDWn.png",
+          "date": "2026-10-14T16:45:30+00:00",
           "source": "Mint"
         },
         {
-          "title": "PPF account declared irregular after 12 years: What happens to your interest? High Court ruling explained",
-          "link": "https://www.livemint.com/money/personal-finance/ppf-account-declared-irregular-after-12-years-what-happens-to-your-interest-high-court-ruling-explained-11791910200005.html",
-          "summary": "The Karnataka High Court ruled that postal authorities could not deny PPF interest after allowing an irregular HUF account to operate for 12 years. The decision highlights the authorities' responsibility for…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Gemini_GeneratedImage_en82jpen82jpen82_1791910446_1791910455838_6AUQ_1791910456047_2xTC_cd3663dd-2c9f-4543-b291-1876e8f91960_BL3K.png",
-          "date": "2026-10-13T16:55:10+00:00",
+          "title": "Asked to be an executor? Know your duties before you agree",
+          "link": "https://www.livemint.com/money/personal-finance/asked-to-be-an-executor-know-your-duties-before-you-agree-11791871371082.html",
+          "summary": "Being an executor involves managing a deceased person’s estate, settling liabilities and distributing assets. Here’s what the role entails and when you can renounce it.",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/While-a-Will-is-perhaps-one-of-the-most-basic-elem_1686072640580_1791875427933_mFWL_40730466-2624-49ac-b2cf-84e7def19bf1_pDXN.jpg",
+          "date": "2026-10-14T16:13:55+00:00",
           "source": "Mint"
         },
         {
-          "title": "Stocks, mutual funds, gold and property: How LTCG tax differs across asset classes",
-          "link": "https://www.livemint.com/money/personal-finance/stocks-mutual-funds-gold-and-property-how-ltcg-tax-differs-across-asset-classes-11791904793274.html",
-          "summary": "LTCG tax rules differ across stocks, mutual funds, gold and property, with different holding periods, tax rates and exemptions. Here is what investors need to know about the tax treatment of their investments under the…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Gemini_Generated_Imge_it1nsyit1nsyit1n_179190597_1791905977665_chks_1791905977812_PKLE_f76ed613-120b-4a8e-a435-198c5cca04ce_50dM.png",
-          "date": "2026-10-13T15:46:41+00:00",
+          "title": "Personal loan closure: How long does it take for your credit score to improve?",
+          "link": "https://www.livemint.com/money/personal-loan-closure-how-long-does-it-take-for-your-credit-score-to-improve-11791979794825.html",
+          "summary": "A credit score may not rise immediately after the final EMI; lenders must first report the loan closure to credit bureaus.",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/credit_score_4_1758625531498_1758625541243_1791980932527_lZHf_554fbdef-514a-445a-87d3-da2ff5264bc9_SCOU.jpg",
+          "date": "2026-10-14T13:04:14+00:00",
           "source": "Mint"
         },
         {
-          "title": "Buying property in a relative’s name? Key benami law and tax risks to know",
-          "link": "https://www.livemint.com/money/buying-property-in-a-relative-s-name-key-benami-law-and-tax-risks-to-know-11791900729453.html",
-          "summary": "Buying property in a spouse’s, child’s or parent’s name can invite benami law and tax scrutiny if ownership and funding arrangements do not meet legal requirements. Know the statutory exemptions, potential penalties and…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/flat_1791903952822_4ZfF_1791904006509_UzMl_22e2ce77-7f16-4f37-beab-e162f45bc228_JJBG.jpg",
-          "date": "2026-10-13T15:40:23+00:00",
-          "source": "Mint"
+          "title": "NPS investment in startups: AINPSEF writes to PM Modi seeking probe and asks for dissolution of NPS Trust",
+          "link": "https://economictimes.indiatimes.com/wealth/save/nps-investment-in-startups-ainpsef-writes-to-pm-modi-seeking-probe-and-asks-for-dissolution-of-nps-trust/articleshow/134943418.cms",
+          "summary": "Manjeet Singh Patel has alleged serious financial irregularities concerning the National Pension System Trust. He has requested a high-level audit by the Comptroller and Auditor General of India. Patel asserts that many…",
+          "image": "https://img.etimg.com/photo/msid-134943418,imgsize-1201240.cms",
+          "date": "2026-10-14T12:59:18+00:00",
+          "source": "Economic Times"
         },
         {
-          "title": "Have a ₹50 lakh home loan? Check how much your EMI could rise after the RBI rate hike",
-          "link": "https://www.livemint.com/money/personal-finance/have-a-50-lakh-home-loan-check-how-much-your-emi-could-rise-after-the-rbi-rate-hike-11791902165697.html",
-          "summary": "The RBI's 25-basis-point repo rate hike could increase the EMI on a ₹50 lakh home loan by ₹852– ₹867 a month over 30 years, or ₹759 over 20 years under a separate interest-rate assumption. Borrowers with larger loans…",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Gemini_Generated_Image_cjijt4cjij4cjij_179190263_1791902645004_ZFIZ_1791902645206_y5rm_eb54cb8b-c8d1-4c89-940e-e69c38df6da0_t76K.png",
-          "date": "2026-10-13T14:46:13+00:00",
-          "source": "Mint"
+          "title": "Travel insurance mandatory for all railway passengers including offline tickets bought at rail counters from this date, Supreme Court order; Know how this helps",
+          "link": "https://economictimes.indiatimes.com/wealth/insure/travel-insurance-mandatory-for-all-railway-passengers-including-offline-tickets-bought-at-rail-counters-from-this-date-supreme-court-order-know-how-this-helps/articleshow/134943352.cms",
+          "summary": "The Supreme Court of India has ruled that all train tickets must include mandatory travel insurance starting October 27, 2026. This decision applies to both online tickets purchased through IRCTC and offline tickets…",
+          "image": "https://img.etimg.com/photo/msid-134943352,imgsize-240260.cms",
+          "date": "2026-10-14T12:58:46+00:00",
+          "source": "Economic Times"
         }
       ]
     },
@@ -1242,35 +1242,91 @@
       "core": false,
       "items": [
         {
-          "title": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
-          "link": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
-          "summary": "Federal court overrules decision by former environment minister for the McPhillamys goldmine development at Blayney Follow our Australian politics live blog for latest updates Get our breaking news email , free app or…",
-          "image": "https://i.guim.co.uk/img/media/bb75bc756f72fded7e1c23d0d4d437bba79cf254/422_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1a0406b293b522e386e436b9996925c5",
-          "date": "2026-10-14T04:03:30+00:00",
+          "title": "For the future of green politics, look beyond the Green party | Zoe Williams",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/14/green-politics-environmentalists-action",
+          "summary": "Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras…",
+          "image": "https://i.guim.co.uk/img/media/936055716ead24f09b381e97cd71df2ba08959e7/130_0_6698_5359/master/6698.jpg?width=140&quality=85&auto=format&fit=max&s=49db6f7fafc54584686441e217c4670a",
+          "date": "2026-10-14T17:15:25+00:00",
           "source": "The Guardian"
         },
         {
-          "title": "Flying foxes in NSW and Victoria face mass starvation amid food shortages",
-          "link": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
-          "summary": "Rescuers respond to surge in callouts for the vulnerable bat species, which usually feeds on blossoms and tree nectar Get our breaking news email , free app or daily news podcast Flying foxes are starving en masse…",
-          "image": "https://i.guim.co.uk/img/media/e271df08581834ee52b239de772f333abc348bb2/0_410_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=cc188726373f78d56f8bde2f3208580d",
-          "date": "2026-10-13T23:52:50+00:00",
+          "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+          "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+          "summary": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding The government has set an ambition to increase the share of English land farmed organically to 10% by…",
+          "image": "https://i.guim.co.uk/img/media/c3a911c9ccf6a6e1e4f95fd0946ec6f2546394e0/864_0_4336_3471/master/4336.jpg?width=140&quality=85&auto=format&fit=max&s=a408a8e04217c5a0345a3b370f5b0ece",
+          "date": "2026-10-14T16:49:15+00:00",
           "source": "The Guardian"
         },
         {
-          "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-          "link": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-          "summary": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes,…",
-          "image": "https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=140&quality=85&auto=format&fit=max&s=f590642d26b00d3e939738fb2b6d715c",
-          "date": "2026-10-13T16:34:13+00:00",
+          "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+          "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+          "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Western Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now…",
+          "image": "https://i.guim.co.uk/img/media/6052299a2ea98c73a944118da1d60fb665b7dd0e/617_35_4656_3725/master/4656.jpg?width=140&quality=85&auto=format&fit=max&s=de91485a6e9c2aff3e2910e876b97d67",
+          "date": "2026-10-14T15:33:52+00:00",
           "source": "The Guardian"
         },
         {
-          "title": "‘Shocking and sobering’: UK bird populations fall to lowest level on record",
-          "link": "https://www.theguardian.com/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
-          "summary": "Nearly half of species are in decline, with farmland birds and seabirds the worst hit, conservation bodies say Wild bird populations in the UK have fallen to their lowest level since records began, figures show, with…",
-          "image": "https://i.guim.co.uk/img/media/56b2e842f1096e1df17497f1a83e47777536657c/432_0_3324_2660/master/3324.jpg?width=140&quality=85&auto=format&fit=max&s=9e9b46c8c7932182f871bb87c494a65e",
-          "date": "2026-10-13T15:08:25+00:00",
+          "title": "Is it really ‘madness’ to account for emissions from fossil fuels burned overseas? The Coalition sure thinks so | Temperature Check",
+          "link": "https://www.theguardian.com/environment/2026/oct/14/is-it-really-madness-to-account-for-emissions-from-fossil-fuels-burned-overseas-the-coalition-sure-thinks-so",
+          "summary": "The emissions might occur elsewhere, but they generate global harm that scientists can now quantify Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The Coalition has come up with…",
+          "image": "https://i.guim.co.uk/img/media/931407a7773531d7c21ec4342a89b1ef2d5c46a5/380_417_4021_3217/master/4021.jpg?width=140&quality=85&auto=format&fit=max&s=4b5b973f0985ac07345cf5e9304ec959",
+          "date": "2026-10-14T14:14:43+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "After a decade of wildfires, an overlooked election could shape California’s climate future",
+          "link": "https://grist.org/politics/decade-of-wildfires-california-insurance-commissioner-race-shape-state-climate-future/",
+          "summary": "The race for state insurance commissioner hinges on a pivotal question: can the private market help us adapt to climate disasters?",
+          "image": "https://grist.org/wp-content/uploads/2026/10/california-insurance-commissioner-social.jpg",
+          "date": "2026-10-14T12:50:36+00:00",
+          "source": "Grist"
+        },
+        {
+          "title": "I work for a major insurer. Much of my industry is fudging the numbers in the face of the climate crisis | Anonymous",
+          "link": "https://www.theguardian.com/commentisfree/2026/oct/14/climate-crisis-insurance-risk-disaster-catastrophe",
+          "summary": "Insurers are taking on more risk than they should. If – or when – a major disaster hits, the catastrophe will have far-reaching consequences I work for a major insurer, assessing the risk posed by natural disasters on…",
+          "image": "https://i.guim.co.uk/img/media/6a668ead04e21df6ccd139ccb83b33ad0d2b85d2/688_0_3717_2975/master/3717.jpg?width=140&quality=85&auto=format&fit=max&s=60afac57bb711b6f67cfe3aecb3fcbcf",
+          "date": "2026-10-14T10:00:01+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Pampered city trees deal with stress better than their country cousins",
+          "link": "https://grist.org/cities/pampered-city-trees-deal-with-stress-better-than-their-country-cousins/",
+          "summary": "They’re facing pollution and extreme heat, but a new study finds that city trees are actually more resilient than you'd think. Here's why.",
+          "image": "https://grist.org/wp-content/uploads/2026/10/GettyImages-2298283881s.jpeg",
+          "date": "2026-10-14T08:30:00+00:00",
+          "source": "Grist"
+        },
+        {
+          "title": "America’s AI ambitions threaten Indigenous lands in the Philippines",
+          "link": "https://grist.org/indigenous/americas-ai-ambitions-threaten-indigenous-lands-in-the-philippines/",
+          "summary": "Indigenous Aeta communities are fighting to protect their lands from a sprawling tech hub that critics warn could strain wate and energy supplies.",
+          "image": "https://grist.org/wp-content/uploads/2026/10/Pax-Silica-US-AI-Philippines-protest.jpeg",
+          "date": "2026-10-14T08:15:00+00:00",
+          "source": "Grist"
+        },
+        {
+          "title": "Wildlife photographer of the year 2026 winners – in pictures",
+          "link": "https://www.theguardian.com/environment/gallery/2026/oct/14/wildlife-photographer-of-the-year-2026-winners-in-pictures",
+          "summary": "A selection of the winning images from this year’s competition across topics ranging from underwater to urban wildlife, and photojournalism to mammal behaviour. The overall winner is Federico Veronesi of Italy for his…",
+          "image": "https://i.guim.co.uk/img/media/fa7ccd190a600483b984e1b3f4d5c77f40b6d870/133_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=1e9ed030af0882d711680ba67b55cc90",
+          "date": "2026-10-14T07:41:54+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Scale back on hake and coley, seafood charity tells shoppers",
+          "link": "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers",
+          "summary": "Declining stocks and increased fishing pressure have led to lower sustainability ratings for two popular cod alternatives UK shoppers have previously been urged to avoid UK-caught cod and to buy European hake or coley…",
+          "image": "https://i.guim.co.uk/img/media/b003beedc86778429f219496fe4531e81b9d853f/587_0_4477_3582/master/4477.jpg?width=140&quality=85&auto=format&fit=max&s=a6be3fd2e1d594198b31c40cc57bcc52",
+          "date": "2026-10-14T07:00:48+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Pollinating insects flock to plants gardeners might think of as ‘weeds’",
+          "link": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
+          "summary": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveys Ubiquitous urban plants often derided as “weeds” are the most attractive to pollinating insects. The…",
+          "image": "https://i.guim.co.uk/img/media/b1f621e86423121406740e25ac39a95a26a40125/57_0_1735_1387/master/1735.jpg?width=140&quality=85&auto=format&fit=max&s=fc7e6ce3ce0bc4c0bc72ef99839fef35",
+          "date": "2026-10-14T07:00:47+00:00",
           "source": "The Guardian"
         },
         {
@@ -1279,62 +1335,6 @@
           "summary": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decade Off the coast of Monterey, California , a team of researchers is gearing…",
           "image": "https://i.guim.co.uk/img/media/dfcb746c1eb83c289abdeb6dc4a0d699c51d1f17/329_0_2388_1911/master/2388.jpg?width=140&quality=85&auto=format&fit=max&s=a992cbb39e8be1ca9e292b3413a21cc4",
           "date": "2026-10-13T12:00:01+00:00",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
-          "link": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
-          "summary": "When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survival Listening to birdsong is one of life’s great joys, but…",
-          "image": "https://i.guim.co.uk/img/media/4e1bc462771d3504453cdb7719b53ba105bd9258/569_253_2382_1907/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=cfe82e9bbb55ae0cd6da24ce3553df47",
-          "date": "2026-10-13T09:00:19+00:00",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Why Google is paying to upgrade nuclear power plants",
-          "link": "https://grist.org/energy/why-google-is-paying-to-upgrade-nuclear-power-plants/",
-          "summary": "In the race to power data centers, could tech company cash help carbon-free energy win out?",
-          "image": "https://grist.org/wp-content/uploads/2026/10/Vogtle-towers.jpg",
-          "date": "2026-10-13T08:45:00+00:00",
-          "source": "Grist"
-        },
-        {
-          "title": "A federal program to restore forests after disaster has gotten too many funding requests",
-          "link": "https://grist.org/extreme-weather/emergency-forest-restoration-program-money-applications-michigan-ice-storm/",
-          "summary": "The USDA has received more applications for forest aid than it can pay out, leaving Michigan landowners in limbo after a historic ice storm.",
-          "image": "https://grist.org/wp-content/uploads/2026/10/fl-forest-damage.jpeg",
-          "date": "2026-10-13T08:30:00+00:00",
-          "source": "Grist"
-        },
-        {
-          "title": "Honeybee's stinger continues to pump venom once detached from body, new footage shows – video",
-          "link": "https://www.theguardian.com/environment/video/2026/oct/13/honeybees-stinger-continues-to-pump-venom-once-detached-from-body-new-footage-shows-video",
-          "summary": "High-speed video captures a previously unknown process that lets a honeybee’s two-millimetre stinger pump venom even after detaching from the insect’s body. Using a clear gel that mimics human skin as a target,…",
-          "image": "https://i.guim.co.uk/img/media/15bb71050d69b4e3e6c41fae8c6e756cd60017cd/39_0_1044_835/master/1044.jpg?width=140&quality=85&auto=format&fit=max&s=93fc006fb7861288af62d02bd577d336",
-          "date": "2026-10-13T07:10:38+00:00",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Judge halts tree removal at Washington golf course Trump eyes for expansion",
-          "link": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
-          "summary": "Ana Reyes demands Trump officials explain East Potomac tree cutting saying it will probably cause ‘irreparable harm’ US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East…",
-          "image": "https://i.guim.co.uk/img/media/c51da49bd8d3b2080aea3eaf6b1061f9d3600e80/605_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=beacc5fff110cf6b43f503955d7b8501",
-          "date": "2026-10-12T16:55:37+00:00",
-          "source": "The Guardian"
-        },
-        {
-          "title": "A once-in-a-generation opportunity for California’s ocean",
-          "link": "https://grist.org/sponsored/a-once-in-a-generation-opportunity-for-californias-ocean/",
-          "summary": "California is weighing new marine protections that could safeguard vital coastal habitats, help restore marine life, and give Tribes a greater role in ocean stewardship.",
-          "image": "https://grist.org/wp-content/uploads/2026/10/GettyImages-566005219-California-coastline.jpg",
-          "date": "2026-10-12T13:30:54+00:00",
-          "source": "Grist"
-        },
-        {
-          "title": "A super el Niño threatens our food system. Here’s how farms can prepare | Liz Carlisle",
-          "link": "https://www.theguardian.com/commentisfree/2026/oct/12/super-el-nino-farms-prepare",
-          "summary": "Planting cover crops or perennial plants can protect soil amid potential flooding. Congress must act to protect these practices As forecasters warn that this year’s El Niño could become the strongest on record ,…",
-          "image": "https://i.guim.co.uk/img/media/b5f2e4f2236aaeb5b5208cd01b334568bbb13612/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=38e2aff364d98fc330eb7dbf45c8c291",
-          "date": "2026-10-12T13:00:55+00:00",
           "source": "The Guardian"
         }
       ]
@@ -1346,27 +1346,35 @@
       "core": false,
       "items": [
         {
-          "title": "Jai's next film, a horror comedy, goes on floors in Tenkasi",
-          "link": "https://www.dtnext.in/entertainment/cinema/jais-next-film-a-horror-comedy-goes-on-floors-in-tenkasi-2",
+          "title": "Ranabaali gets U/A certificate ahead of October 16 release",
+          "link": "https://www.dtnext.in/entertainment/cinema/ranabaali-gets-ua-certificate-ahead-of-october-16-release",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-14/pixxa06g/1-9.jpg",
-          "date": "2026-10-14T03:16:20+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-03-01/8snjewlx/Untitled-design-2026-02-28T125709.377.png",
+          "date": "2026-10-15T03:49:05+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Ranbir Kapoor’s Ramayana makers unveil first poster of Anupam Kher as Jatayu",
-          "link": "https://www.dtnext.in/entertainment/cinema/ranbir-kapoors-ramayana-makers-unveil-first-poster-of-anupam-kher-as-jatayu",
+          "title": "'Sathyavan Savithiri' teaser: A young woman lawyer locks horns with her mentor in a gripping courtroom drama",
+          "link": "https://www.dtnext.in/entertainment/cinema/sathyavan-savithiri-teaser-a-young-woman-lawyer-locks-horns-with-her-mentor-in-a-gripping-courtroom-drama",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-14/6anvr0ga/1-8.jpg",
-          "date": "2026-10-14T03:13:11+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/1ovq8xla/Untitled-Design-36.jpg",
+          "date": "2026-10-15T03:44:21+00:00",
           "source": "DT Next"
         },
         {
-          "title": "Sivakarthikeyan tells music director Sai Abhyankkar: First Day First Show of #SK27 is going to be hot with your music",
-          "link": "https://www.dtnext.in/entertainment/cinema/sivakarthikeyan-tells-music-director-sai-abhyankkar-first-day-first-show-of-sk27-is-going-to-be-hot-with-your-music-2",
+          "title": "Andrea Jeremiah: Music is the single greatest thing about life",
+          "link": "https://www.dtnext.in/entertainment/cinema/andrea-jeremiah-music-is-the-single-greatest-thing-about-life",
           "summary": "",
-          "image": "https://media.assettype.com/dt-next/2026-10-14/r8kdafn3/1-7.jpg",
-          "date": "2026-10-14T03:10:03+00:00",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/u2ssbk5u/Untitled-Design-35.jpg",
+          "date": "2026-10-15T03:28:15+00:00",
+          "source": "DT Next"
+        },
+        {
+          "title": "‘Rajinikanth’s discipline is my biggest takeaway from Jailer’",
+          "link": "https://www.dtnext.in/entertainment/cinema/rajinikanths-discipline-is-my-biggest-takeaway-from-jailer",
+          "summary": "",
+          "image": "https://media.assettype.com/dt-next/2026-10-15/9imkgv7v/Untitled-Design-27.jpg",
+          "date": "2026-10-15T02:02:29+00:00",
           "source": "DT Next"
         }
       ]
@@ -1377,6 +1385,62 @@
       "blurb": "Odd places, history and culture",
       "core": false,
       "items": [
+        {
+          "title": "Rhossili Down Radar Station in Hillend, Wales",
+          "link": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+          "summary": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by…",
+          "image": "https://img.atlasobscura.com/_WWdzHFcVlecsMv8fdRe4VrAEYmm4vNMUvH81t-nvbo/rs:fill:300:200:1/g:ce/c:1207:805:nowe:48:137/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZWJm/YmU2Yy00ZjgxLTRh/ZTUtYjE4Ni0yMDlk/NDFlYWI0Y2Y3NGJl/MDU2YjZkY2NmNjVh/MGJfMTAwMDA5ODQy/OC5qcGc.jpg",
+          "date": "2026-10-14T20:00:00+00:00",
+          "source": "Atlas Obscura"
+        },
+        {
+          "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+          "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+592/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F64%2F667fda7e425eba94a43332b55381%2Fimg-2932.JPEG",
+          "date": "2026-10-14T19:42:03+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "'New Yorker' cartoonists admit to having 'The Two Saddest Kitchens'",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5996628/two-saddest-kitchens-review-roz-chast-jason-adam-katzenstein",
+          "summary": "The Two Saddest Kitchens is a comic conversation between Roz Chast and Jason Adam Katzenstein. Book critic Maureen Corrigan says it made her laugh and feel better about her own (lack of) cooking.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1163x654+60+602/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F34%2Fd240d33a4ff9a2694d3be54bd14b%2F81taoprhqml-sl1500.jpg",
+          "date": "2026-10-14T18:49:20+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "‘Cross-legged’ in Pristina, Kosovo",
+          "link": "https://www.atlasobscura.com/places/cross-legged",
+          "summary": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters…",
+          "image": "https://img.atlasobscura.com/XsUcCV24dw7pjc5_ejN8NF2Ssg5OeKr76_t0at_jWrA/rs:fill:300:200:1/g:ce/c:1007:671:nowe:0:397/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kM2I2/ZTUyYy03ODUzLTQx/MGMtOWJjOS0zZWIz/ODI1YjQzNTc3MzEy/YzJmNTQ4N2UzNWVm/YmNfMTAwMDA1ODc1/MS5qcGc.jpg",
+          "date": "2026-10-14T18:00:00+00:00",
+          "source": "Atlas Obscura"
+        },
+        {
+          "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+          "link": "https://www.atlasobscura.com/places/ta-kon-citadel",
+          "summary": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive…",
+          "image": "https://img.atlasobscura.com/qXp3ntViQy-OiAEzsmcSCFnVhibwr6hIvsrtPW6Qf7g/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wYzgx/ZjU4MS03N2VjLTRh/NDMtOWNiMy1jMDFj/YTFjMzFjMTNkN2Ex/MDZlZjYxMDEzNGY5/N2RfMTAwMDAxMTU0/MC5qcGc.jpg",
+          "date": "2026-10-14T16:00:00+00:00",
+          "source": "Atlas Obscura"
+        },
+        {
+          "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+          "link": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
+          "summary": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest…",
+          "image": "https://img.atlasobscura.com/XOgtJ-fYfOmv6E-Q3WqxpwO9-HJMO6Ii-rc_B5cvRvc/rs:fill:300:200:1/g:ce/c:4211:2807:nowe:68:796/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZGMx/OTc3MC04MTM4LTRl/ZWYtOWJkMS1iNTE2/MWE0NWM5ZGZiMzZi/YjdlZGE5NTA2NjE2/MGZfSU1HXzEzOTMu/anBlZw.jpg",
+          "date": "2026-10-14T14:00:00+00:00",
+          "source": "Atlas Obscura"
+        },
+        {
+          "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+          "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F68%2Fcae527114c97a9cdea6377147af2%2Fns2-thelegendofzeldaocarinaoftime-scrn-11.png",
+          "date": "2026-10-14T13:00:00+00:00",
+          "source": "NPR"
+        },
         {
           "title": "Art of Play in Brooklyn, New York",
           "link": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
@@ -1415,62 +1479,6 @@
           "summary": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official…",
           "image": "https://img.atlasobscura.com/iUuYYG6r9nVV_fq0NrQMpREa89TgcFBvAjYRaQrhqjc/rs:fill:300:200:1/g:ce/c:1215:810:nowe:0:73/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lOGVh/OGQxNy01ZDRmLTQ3/YWItYWM5MS00ZTdl/NDZiYWM2MTUxN2Zh/N2U3MjlhZTk5MGI2/MDlfMjQuSlBH.jpg",
           "date": "2026-10-13T16:00:00+00:00",
-          "source": "Atlas Obscura"
-        },
-        {
-          "title": "Kanmon Pedestrian Tunnel in Shimonoseki, Japan",
-          "link": "https://www.atlasobscura.com/places/kanmon-pedestrian-tunnel",
-          "summary": "Almost nobody realizes Japan's main islands can be crossed on foot, at the midpoint of 780 meters of tiled corridor a painted line marks the boundary between Yamaguchi and Fukuoka prefectures. The Shimonoseki entrance…",
-          "image": "https://img.atlasobscura.com/bttrGl7yGYklkvLWvGOXiWJSqN7ouC-5jf8lz-V_Eck/rs:fill:300:200:1/g:ce/c:3578:2385:nowe:1281:1125/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZGJm/YTc3ZS0wMjlmLTQw/YzktODUwNS03YWFk/ZWEwOTc1YzhhMjVi/ZjFmNTgxNWY3NmM1/MGZfNDgxMTg0MTc4/OTFfYWIwZmNiNzRl/YV82ay5qcGc.jpg",
-          "date": "2026-10-13T14:00:00+00:00",
-          "source": "Atlas Obscura"
-        },
-        {
-          "title": "RJ Mitte, 'Breaking Bad' actor and disability rights champion, dies at 34",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5999963/rj-mitte-obit",
-          "summary": "Actor and disability rights advocate RJ Mitte, who brought a lifetime of experience with cerebral palsy to fictional family struggles in an essential role on \"Breaking Bad,\" died Monday at age 34.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+475/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F70%2F83bffd4045d98ce12e086abed5d5%2Fap26285747596967.jpg",
-          "date": "2026-10-13T05:37:43+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Actor Selma Blair removed from plane by police after altercation",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation",
-          "summary": "Authorities say Blair was physically abusive and injured two flight attendants while traveling from Los Angeles to New York. A Blair representative said she had a medical emergency aboard the plane.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5671x3190+0+21/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2Fcb%2F32399af64ba2b6fc583b795a6cab%2Fap26267045292167.jpg",
-          "date": "2026-10-12T20:18:42+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "World’s Largest M in Platteville, Wisconsin",
-          "link": "https://www.atlasobscura.com/places/worlds-largest-m",
-          "summary": "Four miles northeast of Platteville, a gigantic white “M” dominates the landscape. At 241 feet high and 214 feet wide, it is the world’s largest “M”. Set at a 45-degree angle and facing south, the landmark proudly…",
-          "image": "https://img.atlasobscura.com/OGYNe69sNPbIPD3kXzkjQeDNVXmJtgYyfhdlADdAAjA/rs:fill:300:200:1/g:ce/c:4794:3196:nowe:51:785/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZTU3/MmIzNC03OWQ5LTRi/OWEtOTRmZi04NzM0/MTU1OTI1YWQ3MDJk/NWUwYzdjNTU1MDFm/NzFfTSAyLmpwZw.jpg",
-          "date": "2026-10-12T20:00:00+00:00",
-          "source": "Atlas Obscura"
-        },
-        {
-          "title": "Alton Military Prison Site in Alton, Illinois",
-          "link": "https://www.atlasobscura.com/places/alton-military-prison-site",
-          "summary": "Alton, Illinois's State Penitentiary officially opened in 1833, making it the first state prison in Illinois. It was used to incarcerate convicted criminals from across the state and later served as a military prison.…",
-          "image": "https://img.atlasobscura.com/7a_ByOfX14Cb-Z-cECzt20XAc_Q45TChbdCQ0J75DL4/rs:fill:300:200:1/g:ce/c:3489:2326:nowe:543:48/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMGE5/YWMwZC1hMWExLTQx/YmEtYTI3Yi1kMTRj/M2RiZjI5NjJhZTg0/M2U3NTJjZmVmZjI1/MThfQWx0b24gU3Rh/dGUgUHJpc29uLnBu/Zw.png",
-          "date": "2026-10-12T18:00:00+00:00",
-          "source": "Atlas Obscura"
-        },
-        {
-          "title": "Macedonian Tomb of Agios Athanasios in Agios Athanasios, Greece",
-          "link": "https://www.atlasobscura.com/places/macedonian-tomb-of-agios-athanasios",
-          "summary": "Encased safely inside a concrete protective shell beneath a 12-metre-high burial mound (tumulus) is a late 4th-century BC Macedonian tomb holding a breathtaking secret: flawlessly preserved, 2,400-year-old fresco…",
-          "image": "https://img.atlasobscura.com/JvB8S5AvLe9FcmkQlZHHO8LZxi1KzJJ5SoRTH8xrTZM/rs:fill:300:200:1/g:ce/c:3410:2273:nowe:310:319/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNzNk/OWJmYi0yNmZlLTQw/NGUtOWRmYy01MjBh/Y2IwYjdhMmI4YTRk/MDNjN2NkZTFjMzAw/ODRfUFhMXzIwMjYw/OTA5XzA2MTAzODc3/OS5NUC5qcGc.jpg",
-          "date": "2026-10-12T16:00:00+00:00",
-          "source": "Atlas Obscura"
-        },
-        {
-          "title": "Statue of Žorik in Tallinn, Estonia",
-          "link": "https://www.atlasobscura.com/places/statue-of-zorik",
-          "summary": "Žorik was the best-known dog in Tallinn for most of his roughly fifteen years alive, at a time when free-roaming dogs had already grown rare in the city. Born in 2007 in Kalamaja, once a working-class fishing district…",
-          "image": "https://img.atlasobscura.com/TyDF4xUP3HucYyIKEsggFgT0RuhkW3FEKiFODH40GMM/rs:fill:300:200:1/g:ce/c:2614:1742:nowe:0:489/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ZDM5/ZGM1YS1hYjdjLTRi/YjYtOTQ1Ni1iNTFl/ZWI2YTNkMDdjNjFj/NTZlZTg5M2M3Nzcw/ZThfMjAyNjA4MTJf/MTc1ODMyLmpwZw.jpg",
-          "date": "2026-10-12T14:00:00+00:00",
           "source": "Atlas Obscura"
         }
       ]
